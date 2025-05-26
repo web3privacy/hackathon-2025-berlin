@@ -1,7 +1,9 @@
 # Hacker Manual - W3PN_Hacks - Berlin 2025
 
 \ [Read](https://hackathon.web3privacy.info/info) Hackathon Manifesto
+
 \ [Join](https://signal.group/#CjQKIPlRaxOlAGESQXUnDzsY1EUDX31rV-BJ4H5bfqloB5OQEhD_ajSTyBHX22nZMLgeDu21) Participant group (Signal)
+
 \ Be Excellent To Each Other
 
 ## **CORE DETAILS** 
@@ -165,13 +167,7 @@ Privacy-focused applications often suffer from proper onboarding process for new
     * Creating video guides for protocols
 
 ## **MENTORS** 
-To help you build meaningful, user-centered solutions with real impact, we’ve brought in trusted, independent mentors—each with deep, hands-on expertise across diverse fields.
-
-At W3PN HACKS we embrace a holistic approach, offering support from technical execution and idea validation to socio-cultural insight.
-
-Let’s build tools that truly matter—now.
-
-
+To help you build meaningful, user-centered solutions with real impact, we’ve brought in trusted, independent mentors—each with deep, hands-on expertise across diverse fields. At W3PN HACKS we embrace a holistic approach, offering support from technical execution and idea validation to socio-cultural insight. Let’s build tools that truly matter—now.
 
 
 ![Screenshot 2025-05-15 at 15.37.17](https://hackmd.io/_uploads/BJ-HCwXWle.jpg)
@@ -237,7 +233,7 @@ Total points = 100 (20 for each criteria)
 5 - Would you think this submission could make it market and be used by users in an AppStore ecosystem?
  
 ## Vibe
- - Wildcard 20 points judges can attribute as they see fit, not a judgement on the drip or flex of the person submitting, and definately not a vibe-check. Keeping it fun and giving the judge a 'open vote' where they can give anywhere from 0 or 20 points
+This track is a wildcard 20 points judges can attribute as they see fit, not a judgement on the drip or flex of the person submitting, and definately not a vibe-check. Keeping it fun and giving the judge a 'open vote' where they can give anywhere from 0 or 20 points
 
 "Our judges will prioritise technical solutions and reward hackers not just about a working Proof of Concept application or good business logic in their pitch. Judges will assess the impact of what the team or person has done during the course of the hackathon."
 
@@ -253,9 +249,9 @@ Total points = 100 (20 for each criteria)
 - House Rules (venue)
 - Hacking Rules
 - Good Human Rules
--- Be Excellent to Each Other
--- No racism, no sexism, no xenophobia, no hate will be tolerated. 
--- You agree that organisers can at any time as you to leave and forfeit the hackathon if you act like an asshole to others around you.
+    - Be Excellent to Each Other
+    - No racism, no sexism, no xenophobia, no hate will be tolerated. 
+    - You agree that organisers can at any time as you to leave and forfeit the hackathon if you act like an asshole to others around you.
 
 - Shower
 - Speciality Coffee (Espresso & Coldbrew based)
@@ -264,20 +260,15 @@ Total points = 100 (20 for each criteria)
 - Internet is 100Mbs 150MBS
 
 ## AFTER THE HACKTHON
-- Vacate the venue
--- Do not leave personal items
+ - Vacate the venue at
+ - Do not leave personal items
+ - Rave (Time, entry, +1s, FAQ)
 
-- Rave
--- Time, entry, +1s, FAQ...
-
-- Community 
--- Join the W3PN Dev Channel
--- Promote the code and their work
--- socials
--- Medium article about projects submitted and judging
--- Calls with hackers & mentors
--- Other hackathons in Europe
-
-
+# POST HACAKTHON COMMUNITY
+ - Join the W3PN Dev Channel (invite-only)
+ - W3PN to promote the projects and share work done
+ - shill the experience on social media
+ - Medium article about projects submitted and judging
+ - Invite-only call with hackers & mentors
 - 
 
