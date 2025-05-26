@@ -202,38 +202,38 @@ Total points = 100 (20 for each criteria)
 
 
 ## Technology
-1 - Was the technology stack used in the submission modern or exciting?
-2 - Was the submission aligned with modern web/coding practices?
-3 - Could you see developers within the ecosystems of the technologies used being excited by the submission?
-4 - Would you run this code?
-5 - Would you integrate this code into one of your projects?
-6 - Would you be interested in forking and improving this code (intention)
-7 - Does is compile? Have you managed to test-run it?
-8 - Are there real technological or physical constraints of the submission ("it would boil all the world's oceans")
+ - Was the technology stack used in the submission modern or exciting?
+ - Was the submission aligned with modern web/coding practices?
+ - Could you see developers within the ecosystems of the technologies used being excited by the submission?
+ - Would you run this code?
+ - Would you integrate this code into one of your projects?
+ - Would you be interested in forking and improving this code (intention)
+ - Does is compile? Have you managed to test-run it?
+ - Are there real technological or physical constraints of the submission ("it would boil all the world's oceans")
 
 ## Real-Use Cases
-1 - Could you see yourself running this code if full developed after the hackathon?
-2 - Could you see normies using the submission?
-3 - Could you see this positively impacting the lives of everyday users?
-4 - Could you see this positively impacting the lives of people/communities at risk?
-5 - Does this have a real world use case or is it only an intersting idea?
+ - Could you see yourself running this code if full developed after the hackathon?
+ - Could you see normies using the submission?
+ - Could you see this positively impacting the lives of everyday users?
+ - Could you see this positively impacting the lives of people/communities at risk?
+ - Does this have a real world use case or is it only an intersting idea?
 
 ## Privacy Improvement
-1 - Does it improve privacy somehow?
-2 - Does it massive improve privacy?
-3 - Can you see ways it could further improve the privacy?
-4 - Does the submission consider web2 and web1 privacy leaking in the submission? 
-5 - Would you use this submission if your life dependend on it working privately?
+ - Does it improve privacy somehow?
+ - Does it massive improve privacy?
+ - Can you see ways it could further improve the privacy?
+ - Does the submission consider web2 and web1 privacy leaking in the submission? 
+ - Would you use this submission if your life dependend on it working privately?
 
 ## Business-logic
-1 - Would a VC back this?
-2 - Is this already in the market?
-3 - Could you see privacy respecting revenue creation from this submission?
-4 - Did the person consider or present ideas about financial sustainability?
-5 - Would you think this submission could make it market and be used by users in an AppStore ecosystem?
+ - Would a VC back this?
+ - Is this already in the market?
+ - Could you see privacy respecting revenue creation from this submission?
+ - Did the person consider or present ideas about financial sustainability?
+ - Would you think this submission could make it market and be used by users in an AppStore ecosystem?
  
 ## Vibe
-This track is a wildcard 20 points judges can attribute as they see fit, not a judgement on the drip or flex of the person submitting, and definately not a vibe-check. Keeping it fun and giving the judge a 'open vote' where they can give anywhere from 0 or 20 points
+- This track is a wildcard 20 points judges can attribute as they see fit, not a judgement on the drip or flex of the person submitting, and definately not a vibe-check. Keeping it fun and giving the judge a 'open vote' where they can give anywhere from 0 or 20 points
 
 "Our judges will prioritise technical solutions and reward hackers not just about a working Proof of Concept application or good business logic in their pitch. Judges will assess the impact of what the team or person has done during the course of the hackathon."
 
@@ -260,9 +260,9 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 - Internet is 100Mbs 150MBS
 
 ## AFTER THE HACKTHON
- - Vacate the venue at
- - Do not leave personal items
- - Rave (Time, entry, +1s, FAQ)
+ - You **must** vacate the venue by 21:00 on Sunday
+ - Do not leave personal items behind even if you are coming back
+ - Rave will begin at (TBC: Time, entry, +1s, FAQ)
 
 # POST HACAKTHON COMMUNITY
  - Join the W3PN Dev Channel (invite-only)
@@ -270,5 +270,3 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
  - shill the experience on social media
  - Medium article about projects submitted and judging
  - Invite-only call with hackers & mentors
-- 
-
