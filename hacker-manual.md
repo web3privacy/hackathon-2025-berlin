@@ -8,31 +8,33 @@
 / Be Excellent To Each Other
 
 ## 🎯 Core details
-**What:** Privacy-focused hackathon building real-world solutions  
-**When:** June 13-15, 2025  
-**Where:** Wilhelm-Kabus-Straße 24, 10829 Berlin, Germany ([Google Maps](https://maps.app.goo.gl/iuxPxpCeqkGK7Hi59), [OpenStreetMap](https://nominatim.openstreetmap.org/ui/search.html?q=Wilhelm-Kabus-Stra%C3%9Fe+24%2C+10829+Berlin%2C+N%C4%9Bmecko))
-**Philosophy:** Tech-agnostic *building for impact, not just bounties*
+* **What:** Privacy-focused hackathon building real-world solutions  
+* **When:** June 13-15, 2025  
+* **Where:** Engelnest - Wilhelm-Kabus-Straße 24, 10829 Berlin, Germany ([OpenStreetMap](https://nominatim.openstreetmap.org/ui/search.html?q=Wilhelm-Kabus-Stra%C3%9Fe+24%2C+10829+Berlin%2C+N%C4%9Bmecko), [GMaps](https://maps.app.goo.gl/iuxPxpCeqkGK7Hi59))
+* **Philosophy:** Tech-agnostic *building for impact, not just bounties*
 
 
 ## Table of Contents
 
-- [🌀 Philosophy](#philosophy)
-- [📅 Key Timeline](#key-timeline)
-- [📋 Complete Schedule](#complete-schedule)
-- [🛠️ Hackathon Tracks](#hackathon-tracks)
-- [👨‍🏫 Mentors & Mentoring](#mentors--mentoring)
-- [📝 How to Submit Your Project](#how-to-submit-your-project)
-- [⚖️ Judging Criteria](#judging-criteria)
-- [🏠 Venue & Logistics](#venue--logistics)
-- [📱 Communication](#communication)
-- [✨ Advice, Tips and Inspiration](#advice-tips-and-inspiration)
-- [⚡ Important Rules](#important-rules)
-- [🎉 After the Hackathon](#after-the-hackathon)
-- [🌐 Post-hackathon community](#post-hackathon-community)
+1. [🌀 Philosophy](#-philosophy)
+2. [📅 Key Timeline](#-key-timeline)
+3. [📋 Complete Schedule](#-complete-schedule)
+4. [🛠️ Hackathon Tracks](#-hackathon-tracks)
+5. [👨‍🏫 Mentors & Mentoring](#-mentors--mentoring)
+6. [📝 How to Submit Your Project](#-how-to-submit-your-project)
+7. [⚖️ Judging Criteria](#-judging-criteria)
+8. [🏠 Venue & Logistics](#-venue--logistics)
+9. [📱 Communication](#-communication)
+10. [✨ Advice, Tips and Inspiration](#-advice-tips-and-inspiration)
+11. [⚡ Important Rules](#-important-rules)
+12. [🎉 After the Hackathon](#-after-the-hackathon)
+13. [🌐 Post-hackathon community](#-post-hackathon-community)
 
 ---
 
 ## 🌀 Philosophy
+
+*Build for Impact, Not Just Bounties*
 
 ### **Tech-Agnostic Building**: Empowering open innovation
 
@@ -263,7 +265,8 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 
 ## 🏠 Venue & Logistics
 
-**Address**: Wilhelm-Kabus-Straße 24, 10829 Berlin ([Google Maps](https://maps.app.goo.gl/iuxPxpCeqkGK7Hi59), [OpenStreetMap](https://nominatim.openstreetmap.org/ui/search.html?q=Wilhelm-Kabus-Stra%C3%9Fe+24%2C+10829+Berlin%2C+N%C4%9Bmecko))
+* **Venue Name**: Engelnest
+* **Address**: Wilhelm-Kabus-Straße 24, 10829 Berlin ([OpenStreetMap](https://nominatim.openstreetmap.org/ui/search.html?q=Wilhelm-Kabus-Stra%C3%9Fe+24%2C+10829+Berlin%2C+N%C4%9Bmecko), [GMaps](https://maps.app.goo.gl/iuxPxpCeqkGK7Hi59))
 
 **Amenities:**
  - 24/7 venue access during hackathon
