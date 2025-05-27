@@ -14,7 +14,7 @@
 * Venue closes / all hackers out: 21:00, Sunday 15th of June.
     
     
-## **TECH AGNOSTIC BUILDING**: Empowering open innovation
+## **TECH AGNOSTIC BUILDING**— Empowering open innovation
 
 Build for Impact, Not Just Bounties
 
@@ -137,9 +137,9 @@ How can we protect individual privacy while enabling real-world impact and publi
 
 
 Focus Areas:
-- Privacy-first aid & payments // Tools for funding, verified recipients, merchants, and nonprofits—without exposing personal data or requiring government IDs.
-- Identity for the underserved // Privacy-preserving identity and civic tools for off-grid, stateless, or emerging communities.
-- Privacy-preserving tools for public goods funding and governance // Privacy-focused platforms for grants, voting, and coordination—supporting collective action while protecting individual rights.
+- Privacy-first aid & payments: Tools for funding, verified recipients, merchants, and nonprofits—without exposing personal data or requiring government IDs.
+- Identity for the underserved: Privacy-preserving identity and civic tools for off-grid, stateless, or emerging communities.
+- Privacy-preserving tools for public goods funding and governance: Privacy-focused platforms for grants, voting, and coordination—supporting collective action while protecting individual rights.
 
 ### 6) **Design (UI/UX)**
 We frequently hear that privacy enhancing apps and platforms have "bad UI/UX" and that they are not welcoming to new users in a friendly way. 
