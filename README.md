@@ -10,10 +10,10 @@ Repository for the Hacker Manual and submissions of the W3PN Hacks hackathon // 
 
 Yes, you got to read it anon.
 
-### Submission Deadline: 16:30, Sunday 15th of June.
-
 
 ## HOW TO SUBMIT YOUR PROJECTS
+
+### Submission Deadline: 16:30, Sunday 15th of June.
 
 We will not use any integrated platform for hacker submissions (DevFolio, etc)
 
