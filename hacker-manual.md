@@ -4,7 +4,7 @@
 
 \ [Join](https://signal.group/#CjQKIPlRaxOlAGESQXUnDzsY1EUDX31rV-BJ4H5bfqloB5OQEhD_ajSTyBHX22nZMLgeDu21) Participant group (Signal)
 
-\ Be Excellent To Each Other
+\ Be Excellent To Each Other and Have Fun
 
 ## **CORE DETAILS** 
 * Address: [Wilhelm-Kabus-Straße 24, 10829 Berlin, Germany](https://maps.app.goo.gl/iuxPxpCeqkGK7Hi59)
@@ -36,7 +36,7 @@ Explore our [Privacy Builder Pack](build.web3privacy.info) to find:
 
 ## **SCHEDULE**  (13th -15th of June) 
 ### Friday
-|  Time     | Activity                                              |
+|  Time     |                                                       |
 | --------- | ----------------------------------------------------- |
 |  16:00    | Opening doors & registration                   |
 |  18:00    | Team Formation|
@@ -45,7 +45,7 @@ Explore our [Privacy Builder Pack](build.web3privacy.info) to find:
 |20:00-21:00| Dinner                                                |
 
 ### Saturday
-|     Time     | Activity                                              |
+|     Time     |                                                       |
 | ------------ | ----------------------------------------------------- |
 | 00:30        | Midnight snack                                        |
 | 09:00 -10:30 | Breakfast                                             |
@@ -55,7 +55,7 @@ Explore our [Privacy Builder Pack](build.web3privacy.info) to find:
 | 19:00 - 20:30| Dinner/BBQ                                            |
 
 ### Sunday
-|    Time    | Activity                                               |
+|    Time    |                                                        |
 | ---------- | ------------------------------------------------------ |
 | 00:30      | Midnight Snack                                         |
 | 08:30-10:00| Breakfast                                              |
@@ -63,7 +63,7 @@ Explore our [Privacy Builder Pack](build.web3privacy.info) to find:
 | 12:30-13:45| Lunch                                                  |
 | 16:30      | Snack & Aperitivo                                      |
 | 16:30      | **Submission Deadline**                                |
-| 18:30      | (or maybe 19:00) Closing Ceremony - Announce winners   |
+| 19:00      | Closing Ceremony - Announce winners                    |
 | 19:30      | Closing drinks                                         |
 
 ## **TRACKS**
@@ -78,7 +78,8 @@ Explore our [Privacy Builder Pack](build.web3privacy.info) to find:
 ---
 
 ### 1) **Advanced Cryptography**
-Cryptography is the backbone of digital security and privacy, powering everything we do. As an academic field it is constantly evolving and advances in this field can be difficult to understand or implement.
+Cryptography is the backbone of digital security and privacy, powering everything we do. 
+As an academic field it is constantly evolving and advances in this field can be difficult to understand or implement.
 
 This track evolves around utilising advanced cryptographic tools within new use cases:
 
@@ -122,7 +123,8 @@ Example Technology Stacks:
         - Adding privacy to current p2p protocols
 
 ### 4) **Privacy-first AI**
-As AI becomes increasingly integrated into our daily lives, it is important that we can interact with it in the best possible way. User's right to privacy should be respected from all perspectives and by default.
+As AI becomes increasingly integrated into our daily lives, it is important that we can interact with it in the best possible way. 
+User's right to privacy should be respected from all perspectives and by default.
 
 Focus Areas:
 
@@ -135,22 +137,27 @@ Focus Areas:
 ### 5) **Public Goods**
 How can we protect individual privacy while enabling real-world impact and public infrastructure? This track invites builders to create privacy-preserving solutions that enhance compliance, aid, and coordination—especially where traditional systems fail.
 
+Privacy-first aid & payments:
+- Tools for funding, verified recipients, merchants, and nonprofits—without exposing personal data or requiring government IDs.
 
-Focus Areas:
-- Privacy-first aid & payments: Tools for funding, verified recipients, merchants, and nonprofits—without exposing personal data or requiring government IDs.
-- Identity for the underserved: Privacy-preserving identity and civic tools for off-grid, stateless, or emerging communities.
-- Privacy-preserving tools for public goods funding and governance: Privacy-focused platforms for grants, voting, and coordination—supporting collective action while protecting individual rights.
+Identity for the underserved:
+- Privacy-preserving identity and civic tools for off-grid, stateless, or emerging communities.
+
+Privacy-preserving tools for public goods funding and governance: 
+- Privacy-focused platforms for grants, voting, and coordination—supporting collective action while protecting individual rights.
 
 ### 6) **Design (UI/UX)**
 We frequently hear that privacy enhancing apps and platforms have "bad UI/UX" and that they are not welcoming to new users in a friendly way. 
 
 This track seeks to encourage designers, marketers, and developers to improve application general look-n-feel.
 
-- Speed up your building process or prototype quickly by re-using Figma files of real products. Find similar projects and copy-paste design elements from [this library](https://www.deepwork.network/case-studies). 
+Prototype quickly by re-using Figma files of real products:
+- https://www.deepwork.network/case-studies (Explore similar projects and copy-paste design elements)
 
-- Explore the many ready to copy and paste designs for your app http://lottecss.com (no need to apply classes, use with your semantic html/jsx markup, minimal (familiar) utility classes so you don't need tailwind)
+Ready to copy and paste designs for your app:
+- http://lottecss.com (no need to apply classes, use with your semantic html/jsx markup, minimal (familiar) utility classes so you don't need tailwind)
 
-- Other Resources:
+Other Resources:
     - zkbob.com
      - bitcoin.design/guide
     - ethereum.org/developers/docs/design-and-ux
@@ -167,7 +174,11 @@ Privacy-focused applications often suffer from proper onboarding process for new
     * Creating video guides for protocols
 
 ## **MENTORS** 
-To help you build meaningful, user-centered solutions with real impact, we’ve brought in trusted, independent mentors—each with deep, hands-on expertise across diverse fields. At W3PN HACKS we embrace a holistic approach, offering support from technical execution and idea validation to socio-cultural insight. Let’s build tools that truly matter—now.
+To help you build user-centered solutions for real impact, we’ve brought in trusted mentors—each with deep, hands-on expertise across diverse fields. 
+
+At W3PN HACKS we embrace a holistic approach, offering support from technical execution and idea validation to socio-cultural insight. 
+
+### Let’s build tools that truly matter—now.
 
 
 ![Screenshot 2025-05-15 at 15.37.17](https://hackmd.io/_uploads/BJ-HCwXWle.jpg)
@@ -251,7 +262,6 @@ Total points = 100 (20 for each criteria)
 - Good Human Rules
     - Be Excellent to Each Other
     - No racism, no sexism, no xenophobia, no hate will be tolerated. 
-    - You agree that organisers can at any time as you to leave and forfeit the hackathon if you act like an asshole to others around you.
 
 - Shower
 - Speciality Coffee (Espresso & Coldbrew based)
