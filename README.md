@@ -1,4 +1,6 @@
 # hackathon-2025-berlin
+![16-9](https://github.com/user-attachments/assets/0e995311-0494-4e25-acfe-0b5a1cb10a96)
+
 Repository for the Hacker Manual and submissions of the W3PN Hacks hackathon // [website](https://hackathon.web3privacy.info) // [info](https://hackathon.web3privacy.info/info)
 
 
