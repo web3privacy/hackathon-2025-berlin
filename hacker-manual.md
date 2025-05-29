@@ -3,7 +3,7 @@
 
 / [Read](https://hackathon.web3privacy.info/info) Hackathon Manifesto
 
-/ [Join Signal Group](https://signal.group/#CjQKIPlRaxOlAGESQXUnDzsY1EUDX31rV-BJ4H5bfqloB5OQEhD_ajSTyBHX22nZMLgeDu21)
+/ [Join](https://signal.group/#CjQKIPlRaxOlAGESQXUnDzsY1EUDX31rV-BJ4H5bfqloB5OQEhD_ajSTyBHX22nZMLgeDu21) Signal Group
 
 / Be Excellent To Each Other and Have Fun
 
