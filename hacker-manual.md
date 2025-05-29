@@ -2,17 +2,9 @@
 
 
 / [Read](https://hackathon.web3privacy.info/info) Hackathon Manifesto
+
 / Be Excellent To Each Other and Have Fun
 
-## **CORE DETAILS** 
-* Address: [Wilhelm-Kabus-Straße 24, 10829 Berlin, Germany](https://maps.app.goo.gl/iuxPxpCeqkGK7Hi59)
-* **Doors open** for registration: 16:00 CET, Friday 13th of June.
-* **Start Hackathon**: 19:30 CET, Friday 13th of June.
-* **Submission Deadline**: 16:30, Sunday 15th of June.
-* Venue closes / all hackers out: 21:00, Sunday 15th of June.
-    
-    
-## **TECH AGNOSTIC BUILDING**— Empowering open innovation
 
 ## 🎯 Core details
 * **What:** Privacy-focused hackathon building real-world solutions  
@@ -71,7 +63,7 @@ Collaborate with designers, engineers, marketers, and researchers, while gaining
 ## 📋 Complete Schedule
 
 ### Friday, June 13
-|  Time         | Activity                                              |
+|  Time         |                                                       |
 | ------------- | ----------------------------------------------------- |
 | 16:00         | Opening doors & registration                          |
 | 18:00         | Team Formation                                        |
@@ -81,7 +73,7 @@ Collaborate with designers, engineers, marketers, and researchers, while gaining
 | 00:30         | Midnight snack                                        |
 
 ### Saturday, June 14
-|     Time      | Activity                                              |
+|     Time      |                                                       |
 | ------------- | ----------------------------------------------------- |
 | 09:00 - 10:30 | Breakfast                                             |
 | 11:00 - 18:30 | Workshops                                             |
@@ -91,7 +83,7 @@ Collaborate with designers, engineers, marketers, and researchers, while gaining
 | 00:30         | Midnight Snack                                        |
 
 ### Sunday, June 15
-|    Time     | Activity                                               |
+|    Time     |                                                        |
 | ----------- | ------------------------------------------------------ |
 | 08:30-10:00 | Breakfast                                              |
 | 11:00-16:30 | Project Finalisation Workshops                         |
