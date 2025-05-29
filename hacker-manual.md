@@ -2,10 +2,17 @@
 
 
 / [Read](https://hackathon.web3privacy.info/info) Hackathon Manifesto
+/ Be Excellent To Each Other and Have Fun
 
-/ [Join](https://signal.group/#CjQKIPlRaxOlAGESQXUnDzsY1EUDX31rV-BJ4H5bfqloB5OQEhD_ajSTyBHX22nZMLgeDu21) Participant group (Signal)
-
-/ Be Excellent To Each Other
+## **CORE DETAILS** 
+* Address: [Wilhelm-Kabus-Straße 24, 10829 Berlin, Germany](https://maps.app.goo.gl/iuxPxpCeqkGK7Hi59)
+* **Doors open** for registration: 16:00 CET, Friday 13th of June.
+* **Start Hackathon**: 19:30 CET, Friday 13th of June.
+* **Submission Deadline**: 16:30, Sunday 15th of June.
+* Venue closes / all hackers out: 21:00, Sunday 15th of June.
+    
+    
+## **TECH AGNOSTIC BUILDING**— Empowering open innovation
 
 ## 🎯 Core details
 * **What:** Privacy-focused hackathon building real-world solutions  
@@ -173,9 +180,11 @@ We frequently hear that privacy enhancing apps and platforms have "bad UI/UX" an
 
 This track seeks to encourage designers, marketers, and developers to improve application general look-n-feel.
 
-- Speed up your building process or prototype quickly by re-using Figma files of real products. Find similar projects and copy-paste design elements from [this library](https://www.deepwork.network/case-studies). 
+Prototype quickly by re-using Figma files of real products:
+- https://www.deepwork.network/case-studies (Explore similar projects and copy-paste design elements)
 
-- Explore the many ready to copy and paste designs for your app http://lottecss.com (no need to apply classes, use with your semantic html/jsx markup, minimal (familiar) utility classes so you don't need tailwind)
+Ready to copy and paste designs for your app:
+- http://lottecss.com (no need to apply classes, use with your semantic html/jsx markup, minimal (familiar) utility classes so you don't need tailwind)
 
 Other Resources:
  - [zkbob.com](https://zkbob.com)

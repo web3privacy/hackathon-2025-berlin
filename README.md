@@ -1,6 +1,8 @@
 # hackathon-2025-berlin
+
 Repository for the Hacker Manual and submissions of the W3PN Hacks hackathon // [website](https://hackathon.web3privacy.info) // [info](https://hackathon.web3privacy.info/info)
 
+![16-9](https://github.com/user-attachments/assets/0e995311-0494-4e25-acfe-0b5a1cb10a96)
 
 ## READ THE HACKER MANUAL FIRST
 
@@ -8,10 +10,10 @@ Repository for the Hacker Manual and submissions of the W3PN Hacks hackathon // 
 
 Yes, you got to read it anon.
 
-### Submission Deadline: 16:30, Sunday 15th of June.
-
 
 ## HOW TO SUBMIT YOUR PROJECTS
+
+### Submission Deadline: 16:30, Sunday 15th of June.
 
 We will not use any integrated platform for hacker submissions (DevFolio, etc)
 
