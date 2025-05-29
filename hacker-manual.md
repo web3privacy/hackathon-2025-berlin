@@ -3,6 +3,8 @@
 
 / [Read](https://hackathon.web3privacy.info/info) Hackathon Manifesto
 
+/ [Join Signal Group](https://signal.group/#CjQKIPlRaxOlAGESQXUnDzsY1EUDX31rV-BJ4H5bfqloB5OQEhD_ajSTyBHX22nZMLgeDu21)
+
 / Be Excellent To Each Other and Have Fun
 
 
@@ -17,17 +19,16 @@
 
 1. [🌀 Philosophy](#-philosophy)
 2. [📅 Key Timeline](#-key-timeline)
-3. [📋 Complete Schedule](#-complete-schedule)
+3. [📋 Schedule](#-complete-schedule)
 4. [🛠️ Hackathon Tracks](#%EF%B8%8F-hackathon-trackss)
-5. [👨‍🏫 Mentors & Mentoring](#-mentors--mentoring)
-6. [📝 How to Submit Your Project](#-how-to-submit-your-project)
-7. [⚖️ Judging Criteria](#%EF%B8%8F-judging-criteria)
-8. [🏠 Venue & Logistics](#-venue--logistics)
-9. [📱 Communication](#-communication)
-10. [✨ Advice, Tips and Inspiration](#-advice-tips-and-inspiration)
-11. [⚡ Important Rules](#-important-rules)
-12. [🎉 After the Hackathon](#-after-the-hackathon)
-13. [🌐 Post-hackathon community](#-post-hackathon-community)
+5. [✨ Advice, Tips and Inspiration](#-advice-tips-and-inspiration)
+6. [👨‍🏫 Mentors & Mentoring](#-mentors--mentoring)
+7. [📝 How to Submit Your Project](#-how-to-submit-your-project)
+8. [⚖️ Judging Criteria](#%EF%B8%8F-judging-criteria)
+9. [🏠 Venue & Logistics](#-venue--logistics)
+10. [⚡ Important Rules](#-important-rules)
+11. [🎉 After the Hackathon](#-after-the-hackathon)
+12. [🌐 Post-hackathon community](#-post-hackathon-community)
 
 ---
 
@@ -43,7 +44,8 @@ Our tracks are tech-, chain-, and protocol-agnostic. No forced stacks. No vendor
 
 
 ### Collaboration over competition
-Collaborate with designers, engineers, marketers, and researchers, while gaining direct access to independent industry mentors. Work on meaningful open-source tools and create lasting, impactful solutions.
+Collaborate with designers, engineers, marketers, and researchers, while gaining direct access to independent industry mentors. 
+Work on meaningful open-source tools and create lasting, impactful change.
 
 ---
 
@@ -60,7 +62,7 @@ Collaborate with designers, engineers, marketers, and researchers, while gaining
 
 ---
 
-## 📋 Complete Schedule
+## 📋 Schedule
 
 ### Friday, June 13
 |  Time         |                                                       |
@@ -98,7 +100,6 @@ Collaborate with designers, engineers, marketers, and researchers, while gaining
 
 ## 🛠️ Hackathon Tracks
 
-Tracks overview:
 1. Advanced Cryptography
 2. Censorship Resistance
 3. Applied Encryption
@@ -127,9 +128,9 @@ Examples:
   - Encrypt hidden messages within music (carnation.fm)
   - Investigating and flagging privacy technologies using outdated cryptographic libraries
   - Rejuvenating sunset projects with outdated cryptography
+  - Improving encryption standards for Post-Quantum Resistance
   - Create a privacy/encryption-focused CRM system
   - Add Threshold or Multi-signature schemes in single-sig wallets
-  - Improving encryption standards for Post-Quantum Resistance
   - Adding double-ratchet or modern encryption protocols to applications
   - plausible deniability: designated-verifier proofs in verifiable credentials
 
@@ -163,9 +164,9 @@ Focus Areas:
 How can we protect individual privacy while enabling real-world impact and public infrastructure? This track invites builders to create privacy-preserving solutions that enhance compliance, aid, and coordination—especially where traditional systems fail.
 
 Focus Areas:
-- Privacy-first aid & payments // Tools for funding, verified recipients, merchants, and nonprofits—without exposing personal data or requiring government IDs.
-- Identity for the underserved // Privacy-preserving identity and civic tools for off-grid, stateless, or emerging communities.
-- Privacy-preserving tools for public goods funding and governance // Privacy-focused platforms for grants, voting, and coordination—supporting collective action while protecting individual rights.
+- Privacy-first aid & payments → Tools for funding, verified recipients, merchants, and nonprofits—without exposing personal data or requiring government IDs.
+- Identity for the underserved → Privacy-preserving identity and civic tools for off-grid, stateless, or emerging communities.
+- Privacy-preserving tools for public goods funding and governance → Privacy-focused platforms for grants, voting, and coordination—supporting collective action while protecting individual rights.
 
 ### 6. Design (UI/UX)
 We frequently hear that privacy enhancing apps and platforms have "bad UI/UX" and that they are not welcoming to new users in a friendly way. 
@@ -188,17 +189,29 @@ Other Resources:
 Privacy-focused applications often suffer from proper onboarding process for new users. This track seeks to enhance the new user experience.
 
 Focus areas:
-  * Improving in-app onboarding process
-  * Improving app and website accessibility (WC3 standards)
-  * Curation of "2025 cryptographic best practices" for web3 wallet devs
-  * Review of the current e2e landscape in chat and social media
-  * Creating video guides for protocols
+- Improving in-app onboarding process
+- Improving app and website accessibility (WC3 standards)
+- Curation of "2025 cryptographic best practices" for web3 wallet devs
+- Review of the current e2e landscape in chat and social media
+- Creating video guides for protocols
+
+---
+
+## ✨ Advice, Tips and Inspiration
+Explore our [Privacy Builder Pack](build.web3privacy.info) to find: 
+* A curated collection of tools and resources
+* Insights from seasoned hackers
+* An Idea Generator to spark your creativity
 
 ---
 
 ## 👨‍🏫 Mentors & Mentoring
 
-To help you build meaningful, user-centered solutions with real impact, we’ve brought in trusted, independent mentors—each with deep, hands-on expertise across diverse fields. At W3PN HACKS we embrace a holistic approach, offering support from technical execution and idea validation to socio-cultural insight. Let’s build tools that truly matter—now.
+To help you build meaningful, user-centered solutions with real impact, we’ve brought in trusted, independent mentors—each with deep, hands-on expertise across diverse fields. 
+
+At W3PN HACKS we embrace a holistic approach, offering support from technical execution and idea validation to socio-cultural insight. 
+
+Let’s build tools that truly matter—now.
 
 ![Screenshot 2025-05-15 at 15.37.17](https://hackmd.io/_uploads/BJ-HCwXWle.jpg)
 
@@ -280,22 +293,6 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 
 ---
 
-## 📱 Communication
-
-- Participant Group: [Join Signal Group](https://signal.group/#CjQKIPlRaxOlAGESQXUnDzsY1EUDX31rV-BJ4H5bfqloB5OQEhD_ajSTyBHX22nZMLgeDu21)
-- Resources: [Privacy Builder Pack](https://build.web3privacy.info/)
-- Manifesto: [Read Here](https://hackathon.web3privacy.info/info)
-
----
-
-## ✨ Advice, Tips and Inspiration
-Explore our [Privacy Builder Pack](build.web3privacy.info) to find: 
-* A curated collection of tools and resources
-* Insights from seasoned hackers
-* An Idea Generator to spark your creativity
-
----
-
 ## ⚡ Important Rules
 
 ### House Rules
@@ -321,6 +318,6 @@ Explore our [Privacy Builder Pack](build.web3privacy.info) to find:
 ## 🌐 Post-hackathon community
  - Join the W3PN Dev Channel (invite-only)
  - W3PN to promote the projects and share work done
- - shill the experience on social media
+ - share the experience on social media
  - Medium article about projects submitted and judging
  - Invite-only call with hackers & mentors
