@@ -213,7 +213,40 @@ At W3PN HACKS we embrace a holistic approach, offering support from technical ex
 
 Let’s build tools that truly matter—now.
 
-![Screenshot 2025-05-15 at 15.37.17](https://hackmd.io/_uploads/BJ-HCwXWle.jpg)
+### List of mentors
+
+| Name | Org | Focus |
+| --- | --- | --- |
+| [Alan](https://x.com/tsu_kareta) | Railgun ||
+| Alex | Session ||
+| Anton | Calimero ||
+| Antonio | Fluidkey ||
+| [Auryn](https://x.com/auryn_macmillan) | GnosisGuild ||
+| [Bertran](https://x.com/bjuglas) | Celo ||
+| Bianca | Chronicle ||
+| [Cat](https://x.com/CatMcGeeCode) | Aztec | devreel |
+| [Christopher](https://x.com/cwgoes) | Anoma ||
+| [David](https://x.com/david1casey) | Funding The Commons ||
+| [Eleftherios](https://x.com/lftherios/) | Radicle || 
+| [Giacomo](https://x.com/0xjei) | EnclaveE3 | applied cryptography, ZK |
+| [Jacob](https://x.com/_czepluch) | Phylax Systems | devrel engineer |
+| [jimjim.eth](https://x.com/jimjim_eth) | - ||
+| [Kieran](https://x.com/mesquka) | Railgun ||
+| [Leftheris](https://x.com/LefterisJP) | Rotki ||
+| [Marina](https://x.com/MarinaMarkezic) | European Crypto Initiative | legal |
+| Max | NYM ||
+| [Milos](https://x.com/MorphNetrunner) | Ethereum Foundation | software engineer |
+| [Miroyato](https://x.com/miroyato) | Fileverse ||
+| [Oskarth](https://x.com/oskarth) | vacp2p ||
+| [Owen](https://x.com/temporalwave) | Poly | fullstack, AI |
+| Pentacle | - | UX/UI |
+| [Reno](https://x.com/0xrenoyang) | Ethereum Community Fund ||
+| [Sebastian](https://x.com/SCBuergel) | Hopr, GnosisDAO ||
+| TranquilFlow | Byzantine ||
+| [Vitalik](https://x.com/VitalikButerin) | Ethereum Foundation ||
+| [Ying Tong](https://x.com/therealyingtong) | - | applied cryptography |
+| [Zimt](https://x.com/syntonyy) | Blockchain Gov ||
+
 
 ---
 
