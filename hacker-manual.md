@@ -137,14 +137,14 @@ Examples:
 ### 3. Censorship Resistance
 Build or empower protocols and networks that protect users and content against digital censorship by outside parties.
 
-Supported Networks:
+Example Technology Stacks:
   - Tor Browser
   - i2p
   - mixnets (0KN, HOPR, Katzenpost, Nym, xx.network)
   - Nostr
   - Fileverse
-
-Example Technology Stacks:
+  - DarkFi
+  - Aztec
   - BitTorrent
   - Mesh networks (Reticulum / Meshtastic)
   - Bluetooth mesh networks
@@ -223,7 +223,7 @@ Let’s build tools that truly matter—now.
 
 **Process:**
 1. W3PN creates a submission repository at hackathon start
-2. Copy the provided template
+2. Copy the provided template (to upload link here)
 3. Create your project folder
 4. Submit via Pull Request:
    - README.md (using template)
