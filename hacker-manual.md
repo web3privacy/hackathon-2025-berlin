@@ -19,8 +19,8 @@
 
 1. [🌀 Philosophy](#-philosophy)
 2. [📅 Key Timeline](#-key-timeline)
-3. [📋 Schedule](#-complete-schedule)
-4. [🛠️ Hackathon Tracks](#%EF%B8%8F-hackathon-trackss)
+3. [📋 Schedule](#-schedule)
+4. [🛠️ Hackathon Tracks](#%EF%B8%8F-hackathon-tracks)
 5. [✨ Advice, Tips and Inspiration](#-advice-tips-and-inspiration)
 6. [👨‍🏫 Mentors & Mentoring](#-mentors--mentoring)
 7. [📝 How to Submit Your Project](#-how-to-submit-your-project)
