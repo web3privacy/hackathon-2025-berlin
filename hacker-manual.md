@@ -3,7 +3,7 @@
 
 / [Read](https://hackathon.web3privacy.info/info) Hackathon Manifesto
 
-/ [Join](https://signal.group/#CjQKIPlRaxOlAGESQXUnDzsY1EUDX31rV-BJ4H5bfqloB5OQEhD_ajSTyBHX22nZMLgeDu21) Signal Group
+/ Get added to the Signal Group (upon acceptance)
 
 / Be Excellent To Each Other and Have Fun
 
@@ -198,7 +198,7 @@ Focus areas:
 ---
 
 ## ✨ Advice, Tips and Inspiration
-Explore our [Privacy Builder Pack](build.web3privacy.info) to find: 
+Explore our [Privacy Builder Pack](https://build.web3privacy.info/) to find: 
 * A curated collection of tools and resources
 * Insights from seasoned hackers
 * An Idea Generator to spark your creativity
@@ -219,7 +219,7 @@ Let’s build tools that truly matter—now.
 
 ## 📝 How to Submit Your Project
 
-**Platform:** GitHub (no DevFolio or similar platforms)
+**Platform:** GitHub (any usual platforms with **W3PN Hackathon** are not organized by us)
 
 **Process:**
 1. W3PN creates a submission repository at hackathon start
@@ -313,7 +313,7 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 
  - You **must** vacate the venue by 21:00 on Sunday
  - Do not leave personal items behind even if you are coming back
- - Rave will begin at (TBC: Time, entry, +1s, FAQ)
+ - Rave will begin at (TBA: Time, entry, +1s, FAQ)
 
 ## 🌐 Post-hackathon community
  - Join the W3PN Dev Channel (invite-only)
