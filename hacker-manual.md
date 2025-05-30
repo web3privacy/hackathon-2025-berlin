@@ -282,7 +282,7 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 * **Venue Name**: [Engelnest Coworking](https://engelnest.de/)
 * **Address**: Wilhelm-Kabus-Straße 24, 10829 Berlin ([OpenStreetMap](https://nominatim.openstreetmap.org/ui/search.html?q=Wilhelm-Kabus-Stra%C3%9Fe+24%2C+10829+Berlin%2C+N%C4%9Bmecko), [GMaps](https://maps.app.goo.gl/iuxPxpCeqkGK7Hi59))
 
-**Amenities:**
+### Amenities
  - 24/7 venue access during hackathon
  - 100-150 Mbps internet connection
  - Shower facilities
@@ -290,6 +290,16 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
  - All meals provided (vegan-friendly)
  - BBQ by W3PN Team (Vegan friendly)
  - Privacy Corner
+
+### Venue Access / Transport
+
+The location is easily accessible by Berlin's public transport ([BVG](https://www.bvg.de/)), the following stations are located nearby:
+- **Südkreuz station** (~10 min walk) - S-Bahn, Bus, Intercity train/bus (recommended)
+- Kesselsdorfstr. (~5 min walk) - MetroBus M43
+- Julius-Leber-Brücke (~13 min walk) - S-Bahn S1
+- Leuthener Str. (~8 min walk) - Bus 106, 204
+
+<img src="https://github.com/user-attachments/assets/c47e3ccb-aa68-4997-98ff-719aeab0276e" width="50%" />
 
 ---
 
