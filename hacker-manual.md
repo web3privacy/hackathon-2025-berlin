@@ -248,11 +248,11 @@ Let’s build tools that truly matter—now.
  - Would you run this code?
  - Would you integrate this code into one of your projects?
  - Would you be interested in forking and improving this code (intention)
- - Does is compile? Have you managed to test-run it?
+ - Does it compile? Have you managed to test-run it?
  - Are there real technological or physical constraints of the submission ("it would boil all the world's oceans")
 
 ### 2. Real-Use Cases (20 points)
- - Could you see yourself running this code if full developed after the hackathon?
+ - Could you see yourself running this code if fully developed after the hackathon?
  - Could you see normies using the submission?
  - Could you see this positively impacting the lives of everyday users?
  - Could you see this positively impacting the lives of people/communities at risk?
@@ -260,17 +260,17 @@ Let’s build tools that truly matter—now.
 
 ### 3. Privacy Improvement (20 points)
  - Does it improve privacy somehow?
- - Does it massive improve privacy?
+ - Does it massively improve privacy?
  - Can you see ways it could further improve the privacy?
  - Does the submission consider web2 and web1 privacy leaking in the submission? 
- - Would you use this submission if your life dependend on it working privately?
+ - Would you use this submission if your life depended on it working privately?
 
 ### 4. Business-logic (20 points)
  - Would a VC back this?
  - Is this already in the market?
  - Could you see privacy respecting revenue creation from this submission?
  - Did the person consider or present ideas about financial sustainability?
- - Would you think this submission could make it market and be used by users in an AppStore ecosystem?
+ - Would you think this submission could make it to the market and be used by users in an AppStore ecosystem?
  
 ### 5. Vibe (20 points)
 This track is a wildcard 20 points judges can attribute as they see fit, not a judgement on the drip or flex of the person submitting, and definately not a vibe-check. Keeping it fun and giving the judge a 'open vote' where they can give anywhere from 0 or 20 points.
