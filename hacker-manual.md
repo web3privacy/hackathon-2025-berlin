@@ -109,8 +109,10 @@ Work on meaningful open-source tools and create lasting, impactful change.
 7. User Onboarding 
 
 
-### 1. Advanced Cryptography
+### 1. Applying Advanced Cryptography
 Cryptography is the backbone of digital security and privacy, powering everything we do. As an academic field it is constantly evolving and advances in this field can be difficult to understand or implement.
+
+**Imagine:** World is a complex and dangerous place. The only way to avoid danger is to rely on bleeding-edge technology - but not everyone can use it. Your goal is to move it from the edge to the center! 
 
 This track evolves around utilising advanced cryptographic tools within new use cases:
   - MPC (Multi-Party Computation)
@@ -119,10 +121,12 @@ This track evolves around utilising advanced cryptographic tools within new use 
   - DID (Decentralised Identity protocols)
   - FHE (Fully homomorphic encryption)
 
-### 2. Applied Encryption
+### 2. Make Encryption Usage Great Again
 How can we practically strengthen the cryptography behind the tools and services people rely on today? 
 
 Enhance existing projects, revive abandoned ones, and apply new logic to proven encryption models.
+
+**Imagine:** Everything is encrypted - amazing - we are all secure and our content is private...but is it? One outdated depedency. One cracked or vulnerable alrgorithm or protocol and it was all for nothing. Make sure we are protected by keeping the tech up to date! 
 
 Examples:
   - Encrypt hidden messages within music (carnation.fm)
@@ -136,6 +140,8 @@ Examples:
 
 ### 3. Censorship Resistance
 Build or empower protocols and networks that protect users and content against digital censorship by outside parties.
+
+**Imagine:** You have all the privacy. You have your free speech. But what if there is no one listening? Why? Because you've been cut-off. You've been censored. You are alone. Don't let others become alone. Make sure our tech is properly censorship resistant!
 
 Example Technology Stacks:
   - Tor Browser
@@ -153,6 +159,8 @@ Example Technology Stacks:
 ### 4. Privacy-first AI
 As AI becomes increasingly integrated into our daily lives, it is important that we can interact with it in the best possible way. User's right to privacy should be respected from all perspectives and by default.
 
+**Imagine:** You feel good - you use privacy tech, you cannot be censored, but something is weird. Why do I still feel like *they* know so much about me? Oh wait, I asked this AI bot for recommendations yesterday. Was it leaked? Did they sell my dreams? 
+
 Focus Areas:
  - Protect personal files while giving AI access to your codebase
  - Utilise AI systems on sensitive information securely
@@ -163,6 +171,8 @@ Focus Areas:
 ### 5. Public Goods
 How can we protect individual privacy while enabling real-world impact and public infrastructure? This track invites builders to create privacy-preserving solutions that enhance compliance, aid, and coordination—especially where traditional systems fail.
 
+**Imagine:** You are the lucky one! You live in a relatively free society. Not much to complain about. But what about *them*? What about those who are not as lucky? How do we lift them up? How do we make them free, seen and yet secure and private?
+
 Focus Areas:
 - Privacy-first aid & payments → Tools for funding, verified recipients, merchants, and nonprofits—without exposing personal data or requiring government IDs.
 - Identity for the underserved → Privacy-preserving identity and civic tools for off-grid, stateless, or emerging communities.
@@ -172,6 +182,8 @@ Focus Areas:
 We frequently hear that privacy enhancing apps and platforms have "bad UI/UX" and that they are not welcoming to new users in a friendly way. 
 
 This track seeks to encourage designers, marketers, and developers to improve application general look-n-feel.
+
+**Imagine:** CLose your eyes. Focus. Don't let your mind run. Relax. Think about that one app you want to have. That one app that everyone will want to use because it solve a problem - big or small, does not matter - it solves one problem. How does the app look? How does it make you feel? What is the first thing user does? Open your eyes - go make it!
 
 Prototype quickly by re-using Figma files of real products:
 - https://www.deepwork.network/case-studies (Explore similar projects and copy-paste design elements)
@@ -187,6 +199,8 @@ Other Resources:
 
 ### 7. User Onboarding
 Privacy-focused applications often suffer from proper onboarding process for new users. This track seeks to enhance the new user experience.
+
+**Imagine:** Oh, yeah, I am going deep into privacy. I'll fix all my data leaks. But..but how? Where do I even start? How do I know? Why is it so complicated? Why is everyone talking about privacy, but nobody about how to achieve it and where to start? What is the first thing I need my friends to do to improve their privacy?
 
 Focus areas:
 - Improving in-app onboarding process
