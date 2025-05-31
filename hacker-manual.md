@@ -343,6 +343,14 @@ The location is easily accessible by Berlin's public transport ([BVG](https://ww
 
 <img src="https://github.com/user-attachments/assets/c47e3ccb-aa68-4997-98ff-719aeab0276e" width="50%" />
 
+### Accommodation
+
+We recommend you to look for a suitable shelter as soon as you receive your hacker confirmation! If you haven't booked anything yet, best do so asap.
+
+Aside from hotels and Airbnbs, you can check offers on local options like [WG-Gesucht](https://www.wg-gesucht.de/en/) and Facebook groups or post your own requests post there. However, please be wary of the risks and potential scams.
+
+Our venue is open non-stop and welcomes hacking through the night. However, we still would recommend to look for a place to leave your stuff, sleep, and take a shower (although a shower will be available in the venue).
+
 ---
 
 ## ⚡ Important Rules
