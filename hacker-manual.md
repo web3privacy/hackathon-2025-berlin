@@ -3,8 +3,6 @@
 
 / [Read](https://hackathon.web3privacy.info/info) Hackathon Manifesto
 
-/ Get added to the Signal Group (upon acceptance)
-
 / Be Excellent To Each Other and Have Fun
 
 
