@@ -111,7 +111,7 @@ Work on meaningful open-source tools and create lasting, impactful change.
 ### 1. Advanced Cryptography
 Cryptography is the backbone of digital security and privacy, powering everything we do. As an academic field it is constantly evolving and advances in this field can be difficult to understand or implement.
 
-**Imagine:** World is a complex and dangerous place. The only way to avoid danger is to rely on bleeding-edge technology - but not everyone can use it. Your goal is to move it from the edge to the center! 
+The only way to protect individual freedom is to rely on bleeding-edge technology - but not everyone can use it. Your goal is to move it from the edge to the center! 
 
 This track evolves around utilising advanced cryptographic tools within new use cases:
   - MPC (Multi-Party Computation)
@@ -138,9 +138,7 @@ Examples:
   - plausible deniability: designated-verifier proofs in verifiable credentials
 
 ### 3. Censorship Resistance
-Build or empower protocols and networks that protect users and content against digital censorship by outside parties.
-
-**Imagine:** You have all the privacy. You have your free speech. But what if there is no one listening? Why? Because you've been cut-off. You've been censored. You are alone. Don't let others become alone. Make sure our tech is properly censorship resistant!
+Build or empower protocols and networks that protect users and content against digital censorship.
 
 Example Technology Stacks:
   - Tor Browser
@@ -169,8 +167,6 @@ Focus Areas:
 
 ### 5. Public Goods
 How can we protect individual privacy while enabling real-world impact and public infrastructure? This track invites builders to create privacy-preserving solutions that enhance compliance, aid, and coordination—especially where traditional systems fail.
-
-**Imagine:** You are the lucky one! You live in a relatively free society. Not much to complain about. But what about *them*? What about those who are not as lucky? How do we lift them up? How do we make them free, seen and yet secure and private?
 
 Focus Areas:
 - Privacy-first aid & payments → Tools for funding, verified recipients, merchants, and nonprofits—without exposing personal data or requiring government IDs.
@@ -367,7 +363,6 @@ The location is easily accessible by Berlin's public transport ([BVG](https://ww
 
 ## 🎉 After the Hackathon
 
- - You **must** vacate the venue by 21:00 on Sunday
  - Do not leave personal items behind even if you are coming back
  - Rave will begin at (TBA: Time, entry, +1s, FAQ)
 
@@ -387,8 +382,7 @@ Our team has organized, judged, talks, and collaboratively won over 25 hackathon
 | [Alina](https://x.com/alinalatinina) | "Safe Space" event |
 | [Tree](https://bsky.app/profile/tree.fail) | Hacker Manual, Privacy Corner |
 | [jensei](https://x.com/jensei_) | Hackathon Builder Pack |
-| Andrea ||
-| Robert ||
+| [Andrea](https://x.com/iandreeacia) | production |
 
 ---
 
