@@ -109,7 +109,7 @@ Work on meaningful open-source tools and create lasting, impactful change.
 7. User Onboarding 
 
 
-### 1. Applying Advanced Cryptography
+### 1. Advanced Cryptography
 Cryptography is the backbone of digital security and privacy, powering everything we do. As an academic field it is constantly evolving and advances in this field can be difficult to understand or implement.
 
 **Imagine:** World is a complex and dangerous place. The only way to avoid danger is to rely on bleeding-edge technology - but not everyone can use it. Your goal is to move it from the edge to the center! 
@@ -121,7 +121,7 @@ This track evolves around utilising advanced cryptographic tools within new use 
   - DID (Decentralised Identity protocols)
   - FHE (Fully homomorphic encryption)
 
-### 2. Make Encryption Usage Great Again
+### 2. Applied Encryption
 How can we practically strengthen the cryptography behind the tools and services people rely on today? 
 
 Enhance existing projects, revive abandoned ones, and apply new logic to proven encryption models.
