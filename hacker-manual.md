@@ -28,7 +28,8 @@
 9. [🏠 Venue & Logistics](#-venue--logistics)
 10. [⚡ Important Rules](#-important-rules)
 11. [🎉 After the Hackathon](#-after-the-hackathon)
-12. [🌐 Post-hackathon community](#-post-hackathon-community)
+12. [👥 Team](#-team)
+13. [🌐 Post-hackathon community](#-post-hackathon-community)
 
 ---
 
@@ -357,6 +358,27 @@ The location is easily accessible by Berlin's public transport ([BVG](https://ww
  - You **must** vacate the venue by 21:00 on Sunday
  - Do not leave personal items behind even if you are coming back
  - Rave will begin at (TBA: Time, entry, +1s, FAQ)
+
+---
+
+## 👥 Team
+
+Our team has organized, judged, talks, and collaboratively won over 25 hackathons. From this perspective we decided to create a hackathon adjusted to the great and not so great experiences we had.
+
+| Contributor | Areas |
+| --- | --- |
+| [mf](https://x.com/0x_m_f) | lead, production |
+| [PG](https://x.com/PG_CDG) | lead, production |
+| [Mykola](https://x.com/nicksvyaznoy) | socials, networking |
+| [Coinmandeer](https://x.com/KeenOfCoin) | design |
+| cat | web, support |
+| [Alina](https://x.com/alinalatinina) | "Safe Space" event |
+| [Tree](https://bsky.app/profile/tree.fail) | Hacker Manual, Privacy Corner |
+| [jensei](https://x.com/jensei_) | Hackathon Builder Pack |
+| Andrea ||
+| Robert ||
+
+---
 
 ## 🌐 Post-hackathon community
  - Join the W3PN Dev Channel (invite-only)
