@@ -27,7 +27,6 @@
 10. [⚡ Important Rules](#-important-rules)
 11. [🎉 After the Hackathon](#-after-the-hackathon)
 12. [👥 Team](#-team)
-13. [🌐 Post-hackathon community](#-post-hackathon-community)
 
 ---
 
@@ -366,6 +365,15 @@ The location is easily accessible by Berlin's public transport ([BVG](https://ww
  - Do not leave personal items behind even if you are coming back
  - Rave will begin at (TBA: Time, entry, +1s, FAQ)
 
+YOU
+ - Join the W3PN Dev Channel (invite-only)
+ - share the experience on social media
+
+US
+ - W3PN to promote the projects and share work done
+ - Medium article about projects submitted and judging
+ - Invite-only call with hackers & mentors
+
 ---
 
 ## 👥 Team
@@ -384,11 +392,4 @@ Our team has organized, judged, talks, and collaboratively won over 25 hackathon
 | [jensei](https://x.com/jensei_) | Hackathon Builder Pack |
 | [Andrea](https://x.com/iandreeacia) | production |
 
----
 
-## 🌐 Post-hackathon community
- - Join the W3PN Dev Channel (invite-only)
- - W3PN to promote the projects and share work done
- - share the experience on social media
- - Medium article about projects submitted and judging
- - Invite-only call with hackers & mentors
