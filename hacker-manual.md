@@ -29,9 +29,11 @@
 10. [🏠 Venue & Logistics](#-venue--logistics)
     - [Venue Access / Transport](#venue-access--transport)
     - [Accommodation](#accommodation)
-12. [⚡ Important Rules](#-important-rules)
-13. [🎉 After the Hackathon](#-after-the-hackathon)
-14. [👥 Team](#-team)
+11. [🌈 Experiences](#-experiences)
+    - [Privacy Corner](#privacy-corner)
+13. [⚡ Important Rules](#-important-rules)
+14. [🎉 After the Hackathon](#-after-the-hackathon)
+15. [👥 Team](#-team)
 
 ---
 
@@ -355,6 +357,21 @@ We recommend you to look for a suitable shelter as soon as you receive your hack
 Aside from hotels and Airbnbs, you can check offers on local options like [WG-Gesucht](https://www.wg-gesucht.de/en/) and Facebook groups or post your own requests post there. However, please be wary of the risks and potential scams.
 
 Our venue is open non-stop and welcomes hacking through the night. However, we still would recommend to look for a place to leave your stuff, sleep, and take a shower (although a shower will be available in the venue).
+
+---
+
+## 🌈 Experiences
+
+### Privacy Corner
+
+- Opening Time: Nonstop (Fri 21:00 - Sun 18:00)
+- Venue location: TBA
+
+An open space for permissionless discourse and knowledge sharing. Featuring intimate discussion circles (10-15 builders) where participants share research, debate implementations, explore controversial ideas, and discuss digital sovereignty, privacy tech, and the cutting edge of decentralized infrastructure in an unfiltered environment. Anyone can initiate a session (30-60 minutes). Format is self-organized. **Zero data collection — no recording, no photos, no metadata**.
+
+#### How to initiate a session
+
+Check the physical board at Privacy Corner for available time slots. Write your topic and preferred time, then announce it in the main area or coordination channel. Show up at the Privacy Corner at your scheduled time and interested participants will join you there. No formal approval needed, just start the conversation.
 
 ---
 
