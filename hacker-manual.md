@@ -26,7 +26,8 @@
 7. [👨‍🏫 Mentors & Mentoring](#-mentors--mentoring)
 8. [📝 How to Submit Your Project](#-how-to-submit-your-project)
 9. [⚖️ Judging Criteria](#%EF%B8%8F-judging-criteria)
-10. [🏠 Venue & Logistics](#-venue--logistics)
+10. [🏆 Prizes & Awards](#-prizes--awards)
+11. [🏠 Venue & Logistics](#-venue--logistics)
     - [Venue Access / Transport](#venue-access--transport)
     - [Accommodation](#accommodation)
 12. [⚡ Important Rules](#-important-rules)
@@ -321,6 +322,14 @@ Let’s build tools that truly matter—now.
  
 ### 5. Vibe (20 points)
 This track is a wildcard 20 points judges can attribute as they see fit, not a judgement on the drip or flex of the person submitting, and definately not a vibe-check. Keeping it fun and giving the judge a 'open vote' where they can give anywhere from 0 or 20 points.
+
+---
+
+## 🏆 Prizes & Awards
+
+- €30,000 Prize Pool
+- 7 winners—one for each track—will be selected by our independent jury.
+- No sponsor bounties. We focus on real-world impact with a 100% protocol-agnostic approach.
 
 ---
 
