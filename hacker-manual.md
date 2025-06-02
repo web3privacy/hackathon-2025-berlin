@@ -233,11 +233,11 @@ Let’s build tools that truly matter—now.
 | --- | --- | --- |
 | [Alan](https://x.com/tsu_kareta) | Railgun ||
 | Alex | Session ||
-| Anton | Calimero ||
-| Antonio | Fluidkey ||
+| [Anton](https://x.com/antonpaisov) | Calimero | DevRel |
+| [Antonio](https://x.com/0xmetony) | Fluidkey | coder & solidity dev |
 | [Auryn](https://x.com/auryn_macmillan) | GnosisGuild ||
 | [Bertran](https://x.com/bjuglas) | Celo ||
-| Bianca | Chronicle ||
+| [Bianca](https://x.com/buzea200) | Chronicle | DevRel |
 | [Cat](https://x.com/CatMcGeeCode) | Aztec | devreel |
 | [Christopher](https://x.com/cwgoes) | Anoma ||
 | [David](https://x.com/david1casey) | Funding The Commons ||
@@ -256,7 +256,7 @@ Let’s build tools that truly matter—now.
 | Pentacle | - | UX/UI |
 | [Reno](https://x.com/0xrenoyang) | Ethereum Community Fund ||
 | [Sebastian](https://x.com/SCBuergel) | Hopr, GnosisDAO ||
-| TranquilFlow | Byzantine ||
+| [TranquilFlow](https://x.com/FlowTranquil) | Byzantine ||
 | [Vitalik](https://x.com/VitalikButerin) | Ethereum Foundation ||
 | [Ying Tong](https://x.com/therealyingtong) | - | applied cryptography |
 | [Zimt](https://x.com/syntonyy) | Blockchain Gov ||
