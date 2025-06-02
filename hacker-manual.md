@@ -367,7 +367,7 @@ Our venue is open non-stop and welcomes hacking through the night. However, we s
 - Opening Time: Nonstop (Fri 21:00 - Sun 18:00)
 - Venue location: TBA
 
-An open space for permissionless discourse and knowledge sharing. Featuring intimate discussion circles (10-15 builders) where participants share research, debate implementations, explore controversial ideas, and discuss digital sovereignty, privacy tech, and the cutting edge of decentralized infrastructure in an unfiltered environment. Anyone can initiate a session (30-60 minutes). Format is self-organized. **Zero data collection — no recording, no photos, no metadata**.
+An open space for permissionless discourse and knowledge sharing. Featuring intimate discussion circles (10-15 builders) where participants share research, debate implementations, explore controversial ideas, and discuss in an unfiltered environment. Anyone can initiate a session (30-60 minutes). Format is self-organized. **Zero data collection — no recording, no photos, no metadata**.
 
 #### How to initiate a session
 
