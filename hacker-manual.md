@@ -341,7 +341,7 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 ### Amenities
  - 24/7 venue access during hackathon
  - 100-150 Mbps internet connection
- - Shower facilities
+ - Shower facilities (bring your own towel)
  - Specialty coffee (espresso & cold brew)
  - All meals provided (vegan-friendly)
  - BBQ by W3PN Team (Vegan friendly)
