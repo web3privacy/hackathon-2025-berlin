@@ -401,12 +401,13 @@ Our team has organized, judged, talks, and collaboratively won over 25 hackathon
 | Contributor | Areas |
 | --- | --- |
 | [mf](https://x.com/0x_m_f) | lead, production |
-| [PG](https://x.com/PG_CDG) | lead, production |
-| [Mykola](https://x.com/nicksvyaznoy) | socials, networking |
-| [Coinmandeer](https://x.com/KeenOfCoin) | design |
-| cat | web, support |
+| [PG](https://x.com/PG_CDG) | lead |
+| [Mykola](https://x.com/nicksvyaznoy) | networking |
+| [Coinmandeer](https://x.com/KeenOfCoin) | design, production |
+| cat | lead, web, support |
 | [Alina](https://x.com/alinalatinina) | "Safe Space" event |
 | [jensei](https://x.com/jensei_) | Hackathon Builder Pack |
-| [Andrea](https://x.com/iandreeacia) | production |
+| [Andreea](https://x.com/iandreeacia) | production, volunteers |
+| [BabyBit](https://x.com/BabyBitProd) | Art DIrector, videomaker |
 
 
