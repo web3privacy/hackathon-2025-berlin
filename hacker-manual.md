@@ -29,6 +29,7 @@
     - [Accommodation](#accommodation)
 11. [🌈 Experiences](#-experiences)
     - [Privacy Corner](#privacy-corner)
+    - [SAFE SPACE: Privacy, Power & Practical Resistance](#safe-space-privacy-power--practical-resistance)
 13. [⚡ Important Rules](#-important-rules)
 14. [🎉 After the Hackathon](#-after-the-hackathon)
 15. [👥 Team](#-team)
@@ -378,6 +379,31 @@ An open space for permissionless discourse and knowledge sharing. Featuring inti
 #### How to initiate a session
 
 Check the physical board at Privacy Corner for available time slots. Write your topic and preferred time, then announce it in the main area or coordination channel. Show up at the Privacy Corner at your scheduled time and interested participants will join you there. No formal approval needed, just start the conversation.
+
+---
+
+### SAFE SPACE: Privacy, Power & Practical Resistance
+
+- Opening Times: All weekend (interactive zone) + Special gathering Sunday 16:00-19:00
+- Venue location: TBA
+- Event Link: https://lu.ma/k5ejibnb
+
+#### Friday, June 13th - Project Ideation
+ - Pitch ideas related to women's safety in web3
+ - Join "Sisterhood" onboarding session for first-time hackers
+ - Connect with like-minded builders
+
+#### All Weekend - Interactive Zone
+ - ☕ Matcha bar for informal conversations
+ - 🎨 DIY merch creation station
+ - 📝 Anonymous complaint/feedback box
+ - 🖼️ Collaborative art installation exploring how surveillance *feels*
+
+#### Sunday, June 15th - Main Gathering (16:00-19:00)
+ - Art-making
+ - One-on-one conversations
+ - Reflection circle before hackathon ends
+ - Open to non-hackathon participants (limited capacity)
 
 ---
 
