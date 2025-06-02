@@ -18,14 +18,12 @@
 1. [🌀 Philosophy](#-philosophy)
 2. [📅 Key Timeline](#-key-timeline)
 3. [📋 Schedule](#-schedule)
-   - [Friday, June 13](#friday-june-13)
-   - [Saturday, June 14](#saturday-june-14)
-   - [Sunday, June 15](#sunday-june-15)
-5. [🛠️ Hackathon Tracks](#%EF%B8%8F-hackathon-tracks)
-6. [✨ Advice, Tips and Inspiration](#-advice-tips-and-inspiration)
-7. [👨‍🏫 Mentors & Mentoring](#-mentors--mentoring)
-8. [📝 How to Submit Your Project](#-how-to-submit-your-project)
-9. [⚖️ Judging Criteria](#%EF%B8%8F-judging-criteria)
+4. [🛠️ Hackathon Tracks](#%EF%B8%8F-hackathon-tracks)
+5. [✨ Advice, Tips and Inspiration](#-advice-tips-and-inspiration)
+6. [👨‍🏫 Mentors & Mentoring](#-mentors--mentoring)
+7. [📝 How to Submit Your Project](#-how-to-submit-your-project)
+8. [⚖️ Judging Criteria](#%EF%B8%8F-judging-criteria)
+9. [🏆 Prizes & Awards](#-prizes--awards)
 10. [🏠 Venue & Logistics](#-venue--logistics)
     - [Venue Access / Transport](#venue-access--transport)
     - [Accommodation](#accommodation)
@@ -58,8 +56,8 @@ Work on meaningful open-source tools and create lasting, impactful change.
 
 | **Event**               | **Date & Time**             |
 |------------------------ | --------------------------- |
-| Registration Opens      | Friday, June 13 - 16:00     |
-| Hackathon Starts        | Friday, June 13 - 21:00     |
+| Registration Opens      | Friday, June 13 - 14:30     |
+| Hackathon Starts        | Friday, June 13 - 19:30     |
 | **Submission Deadline** | **Sunday, June 15 - 16:30** |
 | Venue Closes            | Sunday, June 15 - 21:00     |
 
@@ -70,15 +68,15 @@ Work on meaningful open-source tools and create lasting, impactful change.
 ## 📋 Schedule
 
 ### Friday, June 13
-|  Time         |                                                       |
-| ------------- | ----------------------------------------------------- |
-| 16:00         | Opening doors & registration                          |
-| 18:00         | Getting to know each other and play                   |
-| 19:30         | Opening Ceremony                                      |
-| 20:00         | Team Formation                                        |
-| 20:00 - 21:00 | Dinner                                                |
-| 21:00         | **Hacking begins**                                    |
-| 00:30         | Midnight snack                                        |
+|  Time         |                                                                          |
+| ------------- | ------------------------------------------------------------------------ |
+| 14:30         | Opening doors & Registration                                             |
+| 15:00         | Q&A with a Special Guest - facilitated by Mykola                         |
+| 15:30         | Getting to know each other: playful activities, rituals, team formation  |
+| 18:30         | Opening Ceremony                                                         |
+| 19:00         | **Hacking begins**                                                       |
+| 20:00 - 21:00 | Dinner                                                                   |
+| 00:30         | Midnight snack                                                           |
 
 ### Saturday, June 14
 |     Time      |                                                       |
@@ -235,11 +233,11 @@ Let’s build tools that truly matter—now.
 | --- | --- | --- |
 | [Alan](https://x.com/tsu_kareta) | Railgun ||
 | Alex | Session ||
-| Anton | Calimero ||
-| Antonio | Fluidkey ||
+| [Anton](https://x.com/antonpaisov) | Calimero | DevRel |
+| [Antonio](https://x.com/0xmetony) | Fluidkey | coder & solidity dev |
 | [Auryn](https://x.com/auryn_macmillan) | GnosisGuild ||
 | [Bertran](https://x.com/bjuglas) | Celo ||
-| Bianca | Chronicle ||
+| [Bianca](https://x.com/buzea200) | Chronicle | DevRel |
 | [Cat](https://x.com/CatMcGeeCode) | Aztec | devreel |
 | [Christopher](https://x.com/cwgoes) | Anoma ||
 | [David](https://x.com/david1casey) | Funding The Commons ||
@@ -258,7 +256,7 @@ Let’s build tools that truly matter—now.
 | Pentacle | - | UX/UI |
 | [Reno](https://x.com/0xrenoyang) | Ethereum Community Fund ||
 | [Sebastian](https://x.com/SCBuergel) | Hopr, GnosisDAO ||
-| TranquilFlow | Byzantine ||
+| [TranquilFlow](https://x.com/FlowTranquil) | Byzantine ||
 | [Vitalik](https://x.com/VitalikButerin) | Ethereum Foundation ||
 | [Ying Tong](https://x.com/therealyingtong) | - | applied cryptography |
 | [Zimt](https://x.com/syntonyy) | Blockchain Gov ||
@@ -326,6 +324,14 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 
 ---
 
+## 🏆 Prizes & Awards
+
+- €30,000 Prize Pool
+- 7 winners—one for each track—will be selected by our independent jury.
+- No sponsor bounties. We focus on real-world impact with a 100% protocol-agnostic approach.
+
+---
+
 ## 🏠 Venue & Logistics
 
 * **Venue Name**: [Engelnest Coworking](https://engelnest.de/)
@@ -334,7 +340,7 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 ### Amenities
  - 24/7 venue access during hackathon
  - 100-150 Mbps internet connection
- - Shower facilities
+ - Shower facilities (bring your own towel)
  - Specialty coffee (espresso & cold brew)
  - All meals provided (vegan-friendly)
  - BBQ by W3PN Team (Vegan friendly)
@@ -414,12 +420,12 @@ Our team has organized, judged, talks, and collaboratively won over 25 hackathon
 | Contributor | Areas |
 | --- | --- |
 | [mf](https://x.com/0x_m_f) | lead, production |
-| [PG](https://x.com/PG_CDG) | lead, production |
-| [Mykola](https://x.com/nicksvyaznoy) | socials, networking |
-| [Coinmandeer](https://x.com/KeenOfCoin) | design |
-| cat | web, support |
+| [PG](https://x.com/PG_CDG) | lead, mentors |
+| [Mykola](https://x.com/nicksvyaznoy) | networking |
+| [Coinmandeer](https://x.com/KeenOfCoin) | design, production |
+| cat | lead, web, submissions |
 | [Alina](https://x.com/alinalatinina) | "Safe Space" event |
-| [jensei](https://x.com/jensei_) | Hackathon Builder Pack |
-| [Andrea](https://x.com/iandreeacia) | production |
-
+| [Andreea](https://x.com/iandreeacia) | production, volunteers |
+| [BabyBit](https://x.com/BabyBitProd) | Art Director, videomaker |
+| [jensei](https://x.com/jensei_) | [Privacy Builder Pack](https://github.com/web3privacy/privacy-builder-pack) |
 
