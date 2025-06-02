@@ -57,8 +57,8 @@ Work on meaningful open-source tools and create lasting, impactful change.
 
 | **Event**               | **Date & Time**             |
 |------------------------ | --------------------------- |
-| Registration Opens      | Friday, June 13 - 16:00     |
-| Hackathon Starts        | Friday, June 13 - 21:00     |
+| Registration Opens      | Friday, June 13 - 14:30     |
+| Hackathon Starts        | Friday, June 13 - 19:30     |
 | **Submission Deadline** | **Sunday, June 15 - 16:30** |
 | Venue Closes            | Sunday, June 15 - 21:00     |
 
@@ -69,15 +69,15 @@ Work on meaningful open-source tools and create lasting, impactful change.
 ## 📋 Schedule
 
 ### Friday, June 13
-|  Time         |                                                       |
-| ------------- | ----------------------------------------------------- |
-| 16:00         | Opening doors & registration                          |
-| 18:00         | Getting to know each other and play                   |
-| 19:30         | Opening Ceremony                                      |
-| 20:00         | Team Formation                                        |
-| 20:00 - 21:00 | Dinner                                                |
-| 21:00         | **Hacking begins**                                    |
-| 00:30         | Midnight snack                                        |
+|  Time         |                                                                          |
+| ------------- | ------------------------------------------------------------------------ |
+| 14:30         | Opening doors & Registration                                             |
+| 15:00         | Q&A with a Special Guest - facilitated by Mykola                         |
+| 15:30         | Getting to know each other: playful activities, rituals, team formation  |
+| 18:30         | Opening Ceremony                                                         |
+| 19:00         | **Hacking begins**                                                       |
+| 20:00 - 21:00 | Dinner                                                                   |
+| 00:30         | Midnight snack                                                           |
 
 ### Saturday, June 14
 |     Time      |                                                       |
