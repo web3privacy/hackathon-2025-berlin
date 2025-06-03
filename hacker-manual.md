@@ -231,35 +231,35 @@ Let’s build tools that truly matter—now.
 
 | Name | Org | Focus |
 | --- | --- | --- |
-| [Alan](https://x.com/tsu_kareta) | Railgun ||
-| Alex | Session ||
+| [Alan](https://x.com/tsu_kareta) | Railgun | Finance |
+| Alex | Session | Cryptography |
 | [Anton](https://x.com/antonpaisov) | Calimero | DevRel |
 | [Antonio](https://x.com/0xmetony) | Fluidkey | coder & solidity dev |
 | [Auryn](https://x.com/auryn_macmillan) | GnosisGuild ||
-| [Bertran](https://x.com/bjuglas) | Celo ||
+| [Bertran](https://x.com/bjuglas) | Celo | Full Stack |
 | [Bianca](https://x.com/buzea200) | Chronicle | DevRel |
-| [Cat](https://x.com/CatMcGeeCode) | Aztec | devreel |
-| [Christopher](https://x.com/cwgoes) | Anoma ||
-| [David](https://x.com/david1casey) | Funding The Commons ||
-| [Eleftherios](https://x.com/lftherios/) | Radicle || 
+| [Cat](https://x.com/CatMcGeeCode) | Aztec | DevRel |
+| [Christopher](https://x.com/cwgoes) | Anoma | Cryptography, Zk |
+| [David](https://x.com/david1casey) | Funding The Commons | Public Goods |
+| [Eleftherios](https://x.com/lftherios/) | Radicle | Open-source | 
 | [Giacomo](https://x.com/0xjei) | EnclaveE3 | applied cryptography, ZK |
-| [Jacob](https://x.com/_czepluch) | Phylax Systems | devrel engineer |
+| [Jacob](https://x.com/_czepluch) | Phylax Systems | DevRel engineer |
 | [jimjim.eth](https://x.com/jimjim_eth) | - ||
-| [Kieran](https://x.com/mesquka) | Railgun ||
-| [Leftheris](https://x.com/LefterisJP) | Rotki ||
-| [Marina](https://x.com/MarinaMarkezic) | European Crypto Initiative | legal |
-| Max | NYM ||
+| [Kieran](https://x.com/mesquka) | Railgun | Cryptography |
+| [Leftheris](https://x.com/LefterisJP) | Rotki | Finance, Cryptography |
+| [Marina](https://x.com/MarinaMarkezic) | European Crypto Initiative | Legal |
+| Max | NYM | DevRel |
 | [Milos](https://x.com/MorphNetrunner) | Ethereum Foundation | software engineer |
-| [Miroyato](https://x.com/miroyato) | Fileverse ||
+| [Miroyato](https://x.com/miroyato) | Fileverse | Privacy, Idea Validation |
 | [Oskarth](https://x.com/oskarth) | vacp2p ||
 | [Owen](https://x.com/temporalwave) | Poly | fullstack, AI |
 | Pentacle | - | UX/UI |
-| [Reno](https://x.com/0xrenoyang) | Ethereum Community Fund ||
-| [Sebastian](https://x.com/SCBuergel) | Hopr, GnosisDAO ||
-| [TranquilFlow](https://x.com/FlowTranquil) | Byzantine ||
-| [Vitalik](https://x.com/VitalikButerin) | Ethereum Foundation ||
+| [Reno](https://x.com/0xrenoyang) | Ethereum Community Fund | Public goods |
+| [Sebastian](https://x.com/SCBuergel) | Hopr, GnosisDAO | Cryptography, Privacy |
+| [TranquilFlow](https://x.com/FlowTranquil) | Byzantine | Dev Code |
+| [Vitalik](https://x.com/VitalikButerin) | Ethereum Foundation | |
 | [Ying Tong](https://x.com/therealyingtong) | - | applied cryptography |
-| [Zimt](https://x.com/syntonyy) | Blockchain Gov ||
+| [Zimt](https://x.com/syntonyy) | Blockchain Gov | Legal |
 
 
 ---
