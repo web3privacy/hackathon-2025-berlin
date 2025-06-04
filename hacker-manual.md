@@ -37,13 +37,16 @@
 
 ## 🌀 Philosophy
 
-*Build for Impact, Not Just Bounties*
+### Build for Impact, Not Just Bounties
 
-### **Tech-Agnostic Building**: Empowering open innovation
+Most hackathons focus on quick wins. We're here to support lasting, real-world privacy solutions.
+Projects are evaluated not only for technical excellence, but also for strong business logic, practical use cases, and long-term impact—so your work can thrive far beyond the event itself.
 
-While most hackathons prioritize short-term wins, we’re here to foster real-world, self-sustaining privacy solutions. Projects are judged not just on technical merit, but also on business logic, real-world use cases, and long-term impact—ensuring your work lives on well beyond the event.
 
-Our tracks are tech-, chain-, and protocol-agnostic. No forced stacks. No vendor agendas. You’re free to choose the best tools for your vision, without being boxed in by bounty-driven constraints.
+### Empowering open innovation
+
+Our tracks are tech-, chain-, and protocol-agnostic. No forced stacks. No orgs agendas. 
+You’re free to choose the best tools for your vision, without being boxed by bounty constraints.
 
 
 ### Collaboration over competition
@@ -72,10 +75,10 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | ------------- | ------------------------------------------------------------------------ |
 | 14:30         | Opening doors & Registration                                             |
 | 15:00         | Q&A with a Special Guest - facilitated by Mykola                         |
-| 15:30         | Getting to know each other: playful activities, rituals, team formation  |
+| 16:00         | Getting to know each other, activities, games, rituals, team formation   |
 | 18:30         | Opening Ceremony                                                         |
 | 19:00         | **Hacking begins**                                                       |
-| 20:00 - 21:00 | Dinner                                                                   |
+| 20:00         | Dinner                                                                   |
 | 00:30         | Midnight snack                                                           |
 
 ### Saturday, June 14
@@ -85,7 +88,7 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 11:00 - 18:30 | Workshops                                             |
 | 12:30 - 13:45 | Lunch                                                 |
 | 16:30         | Snack                                                 |
-| 19:00 - 20:30 | Dinner/BBQ                                            |
+| 19:00         | Dinner/BBQ                                            |
 | 00:30         | Midnight Snack                                        |
 
 ### Sunday, June 15
@@ -429,7 +432,7 @@ From this perspective we decided to create a hackathon adjusted to the great and
 | [cat](https://github.com/web3kitty/web3kitty/blob/main/README.md) | advisor, web, submissions |
 | [Alina](https://x.com/alinalatinina) | "Safe Space" event |
 | [Andreea](https://x.com/iandreeacia) | production, volunteers |
-| [BabyBit](https://x.com/BabyBitProd) | art director, videomaker |
+| [BabyBit](https://x.com/BabyBitProd) | art direction, production |
 | [jensei](https://x.com/jensei_) | [Privacy Builder Pack](https://github.com/web3privacy/privacy-builder-pack) |
 | [tree] | advisor, web, privacy corner |
 
