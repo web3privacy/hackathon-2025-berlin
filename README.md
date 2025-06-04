@@ -1,5 +1,6 @@
-# Hacker Manual - W3PN_Hacks @ Berlin 2025
+![16-9](https://github.com/user-attachments/assets/0e995311-0494-4e25-acfe-0b5a1cb10a96)
 
+# Hacker Manual - W3PN_Hacks @ Berlin 2025
 
 / [Read](https://hackathon.web3privacy.info/info) Hackathon Manifesto
 
