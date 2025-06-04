@@ -407,30 +407,31 @@ Check the physical board at Privacy Corner for available time slots. Write your 
 
 YOU
  - Join the W3PN Dev Channel (invite-only)
- - share the experience on social media
 
 US
- - W3PN to promote the projects and share work done
+ - Promote the projects and share work done
  - Medium article about projects submitted and judging
- - Invite-only call with hackers & mentors
+ - Cypherpunk Launchpad Program (Invite-only call with hackers & mentors for a month of trainership and final funding)
 
 ---
 
 ## 👥 Team
 
-Our team has organized, judged, talks, and collaboratively won over 25 hackathons. From this perspective we decided to create a hackathon adjusted to the great and not so great experiences we had.
+Our team has organized, judged, and collaboratively won over 30 hackathons. 
+From this perspective we decided to create a hackathon adjusted to the great and not so great experiences we had.
 
-| Contributor | Areas |
+| Core Contributors | Areas |
 | --- | --- |
-| [mf](https://x.com/0x_m_f) | lead, production |
-| [PG](https://x.com/PG_CDG) | lead, mentors |
-| [Mykola](https://x.com/nicksvyaznoy) | networking |
+| [PG](https://x.com/PG_CDG) | lead |
+| [mf](https://x.com/0x_m_f) | lead, web, production |
+| [Mykola](https://x.com/nicksvyaznoy) | advisor, network |
 | [Coinmandeer](https://x.com/KeenOfCoin) | design, production |
-| cat | lead, web, submissions |
+| [cat](https://github.com/web3kitty/web3kitty/blob/main/README.md) | advisor, web, submissions |
 | [Alina](https://x.com/alinalatinina) | "Safe Space" event |
 | [Andreea](https://x.com/iandreeacia) | production, volunteers |
-| [BabyBit](https://x.com/BabyBitProd) | Art Director, videomaker |
+| [BabyBit](https://x.com/BabyBitProd) | art director, videomaker |
 | [jensei](https://x.com/jensei_) | [Privacy Builder Pack](https://github.com/web3privacy/privacy-builder-pack) |
+| [tree] | advisor, web, privacy corner |
 
 The specific areas of responsibility can be found in the [Organization Manual](./organization.md#team-responsibility-matrix).
 
