@@ -346,6 +346,8 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
  - All meals provided (vegan-friendly)
  - BBQ by W3PN Team (Vegan friendly)
  - Privacy Corner
+ - Pet-friendly venue 🐶
+ - Childrens are allowed at your own responsibility (note: smoking area outside)
 
 ### Venue Access / Transport
 
