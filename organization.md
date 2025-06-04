@@ -1,13 +1,5 @@
 # W3PN_Hacks Organization Manual
 
-## Volunteers
-
-
-We are looking for anyone to help us with the execution of the hackathon.
-
-- Volunteers group: https://t.me/+xzjA_Mw7AghmMDk0
-- Volunteers Management: **Andrea**
-
 ## Team Responsibility Matrix
 
 | **Area** | **Primary** | **Secondary** | **Key Tasks** |
@@ -41,3 +33,20 @@ We are looking for anyone to help us with the execution of the hackathon.
 | **Emergency Medical/First Aid** | ? | ? | Medical response, first aid, health incidents |
 | **Hacker Manual** | Tree | PG | Information collection, manual updates |
 | **Technical Support** | cat | Tree | IT issues, platform failures, backup systems |
+
+## Volunteers
+We are looking for anyone to help us with the execution of the hackathon.
+
+- Volunteers group: https://t.me/+xzjA_Mw7AghmMDk0
+- Volunteers Management: **Andrea**
+
+## Judging Process
+
+TODO https://github.com/web3privacy/hackathon-2025-berlin/issues/12
+
+[Judging Criteria](./hacker-manual.md#%EF%B8%8F-judging-criteria)
+
+### Judging Day (Sunday, June 15)
+- 16:30 - Submission Deadline
+- 16:45 - 18:45 - Project pitches & Judges Decision (?)
+- 19:00 - Closing Ceremony - Announce winners
