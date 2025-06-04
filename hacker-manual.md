@@ -429,3 +429,5 @@ Our team has organized, judged, talks, and collaboratively won over 25 hackathon
 | [BabyBit](https://x.com/BabyBitProd) | Art Director, videomaker |
 | [jensei](https://x.com/jensei_) | [Privacy Builder Pack](https://github.com/web3privacy/privacy-builder-pack) |
 
+The specific areas of responsibility can be found in the [Organization Manual](./organization.md#team-responsibility-matrix).
+
