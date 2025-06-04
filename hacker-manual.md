@@ -327,7 +327,8 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 ## 🏆 Prizes & Awards
 
 - €30,000 Prize Pool
-- 7 winners—one for each track—will be selected by our independent jury.
+- 7 winners—one for each track—will be selected by an independent jury.
+
 - No sponsor bounties. We focus on real-world impact with a 100% protocol-agnostic approach.
 
 ---
