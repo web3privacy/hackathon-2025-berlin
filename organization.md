@@ -1,5 +1,13 @@
 # W3PN_Hacks Organization Manual
 
+## Volunteers
+
+
+We are looking for anyone to help us with the execution of the hackathon.
+
+- Volunteers group: https://t.me/+xzjA_Mw7AghmMDk0
+- Volunteers Management: **Andrea**
+
 ## Team Responsibility Matrix
 
 | **Area** | **Primary** | **Secondary** | **Key Tasks** |
