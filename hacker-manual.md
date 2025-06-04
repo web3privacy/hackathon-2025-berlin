@@ -9,7 +9,7 @@
 ## 🎯 Core details
 * **What:** Privacy-focused hackathon building real-world solutions  
 * **When:** June 13-15, 2025  
-* **Where:** Engelnest - Wilhelm-Kabus-Straße 24, 10829 Berlin, Germany ([OpenStreetMap](https://nominatim.openstreetmap.org/ui/search.html?q=Wilhelm-Kabus-Stra%C3%9Fe+24%2C+10829+Berlin%2C+N%C4%9Bmecko), [GMaps](https://maps.app.goo.gl/iuxPxpCeqkGK7Hi59))
+* **Where:** Engelnest - Wilhelm-Kabus-Straße 24, 10829 Berlin, Germany ([OpenStreetMap](https://nominatim.openstreetmap.org/ui/search.html?q=Wilhelm-Kabus-Stra%C3%9Fe+24%2C+10829+Berlin%2C+N%C4%9Bmecko), [GMaps](https://maps.app.goo.gl/CsykANPpLiWrNFUbA))
 * **Philosophy:** Tech-agnostic *building for impact, not just bounties*
 
 
@@ -335,7 +335,7 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 ## 🏠 Venue & Logistics
 
 * **Venue Name**: [Engelnest Coworking](https://engelnest.de/)
-* **Address**: Wilhelm-Kabus-Straße 24, 10829 Berlin ([OpenStreetMap](https://nominatim.openstreetmap.org/ui/search.html?q=Wilhelm-Kabus-Stra%C3%9Fe+24%2C+10829+Berlin%2C+N%C4%9Bmecko), [GMaps](https://maps.app.goo.gl/iuxPxpCeqkGK7Hi59))
+* **Address**: Wilhelm-Kabus-Straße 24, 10829 Berlin ([OpenStreetMap](https://nominatim.openstreetmap.org/ui/search.html?q=Wilhelm-Kabus-Stra%C3%9Fe+24%2C+10829+Berlin%2C+N%C4%9Bmecko), [GMaps]([https://maps.app.goo.gl/iuxPxpCeqkGK7Hi59](https://maps.app.goo.gl/CsykANPpLiWrNFUbA)))
 
 ### Amenities
  - 24/7 venue access during hackathon
