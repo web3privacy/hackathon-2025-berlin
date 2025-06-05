@@ -12,7 +12,7 @@
 * **When:** June 13-15, 2025  
 * **Where:** Engelnest - Wilhelm-Kabus-Straße 24, 10829 Berlin, Germany ([OpenStreetMap](https://nominatim.openstreetmap.org/ui/search.html?q=Wilhelm-Kabus-Stra%C3%9Fe+24%2C+10829+Berlin%2C+N%C4%9Bmecko), [GMaps](https://maps.app.goo.gl/CsykANPpLiWrNFUbA))
 * **Philosophy:** Tech-agnostic *building for impact, not just bounties*
-* Links: [Website](https://hackathon.web3privacy.info/) / [Manifesto](https://hackathon.web3privacy.info/info) / [Hacker Manual](https://hackathon.web3privacy.info/manual) / [Submission Repo](https://github.com/web3privacy/hackathon-2025-berlin-submissions) / [Code of Conduct](./code-of-conduct.md) / [Privacy Policy](./privacy-policy.md)
+* Links: [Website](https://hackathon.web3privacy.info/) / [Manifesto](https://hackathon.web3privacy.info/info) / [Submission Repo](https://github.com/web3privacy/hackathon-2025-berlin-submissions) / [Code of Conduct](./code-of-conduct.md) / [Privacy Policy](./privacy-policy.md)
 
 ## Table of Contents
 
@@ -30,6 +30,7 @@
     - [Accommodation](#accommodation)
 11. [🌈 Experiences](#-experiences)
     - [Privacy Corner](#privacy-corner)
+    - [Safe Space: Privacy, Power & Practical Resistance](#Safe-Space:-Privacy,-Power-&-Practical-Resistance)
 13. [⚡ Important Rules](#-important-rules)
 14. [🎉 After the Hackathon](#-after-the-hackathon)
 15. [👥 Team](#-team)
@@ -387,13 +388,29 @@ Our venue is open non-stop and welcomes hacking through the night. However, we s
 ### Privacy Corner
 
 - Opening Time: Nonstop (Fri 21:00 - Sun 18:00)
-- Venue location: TBA
 
 An open space for permissionless discourse and knowledge sharing. Featuring intimate discussion circles (10-15 builders) where participants share research, debate implementations, explore controversial ideas, and discuss in an unfiltered environment. Anyone can initiate a session (30-60 minutes). Format is self-organized. **Zero data collection — no recording, no photos, no metadata**.
 
 #### How to initiate a session
 
 Check the physical board at Privacy Corner for available time slots. Write your topic and preferred time, then announce it in the main area or coordination channel. Show up at the Privacy Corner at your scheduled time and interested participants will join you there. No formal approval needed, just start the conversation.
+
+### Safe Space: Privacy, Power & Practical Resistance
+
+[Women in Privacy](https://linktr.ee/womenInWeb3privacyNow) is kicking off the Safe Initiative to reimagine safety in web3 spaces - through art, conversation, and community.
+
+- Project Ideation Session: Focus on developing tools that enhance safety for womxn and marginalized communities.
+- Open discussions on safety in Web3 spaces.
+
+- Matcha Latte Corner: A calming space offering matcha lattes as a gentle alternative to your 10th coffee.
+- Complaint Box: Submit anonymous feedback or concerns; participate in our safety survey.
+- Interactive Art Installation: Express your feelings about surveillance and privacy through art.
+- DIY Merch Table: Create personalized merchandise to commemorate your hackathon experience.
+
+Mentors: We’re inviting experienced hackers to mentor newcomers, especially those from underrepresented backgrounds. 
+Sign up to be a guide or refer someone who would benefit from mentorship. Fill out the [form](https://tally.so/r/wLNX8J)
+
+Find [Here](https://lu.ma/k5ejibnb) all the details. 
 
 ---
 
