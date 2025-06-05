@@ -61,7 +61,7 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | **Event**               | **Date & Time**             |
 |------------------------ | --------------------------- |
 | Registration Opens      | Friday, June 13 - 14:30     |
-| Hackathon Starts        | Friday, June 13 - 19:30     |
+| Hackathon Starts        | Friday, June 13 - 19:00     |
 | **Submission Deadline** | **Sunday, June 15 - 16:30** |
 | Venue Closes            | Sunday, June 15 - 21:00     |
 
@@ -219,7 +219,7 @@ Focus areas:
 Explore our [Privacy Builder Pack](https://build.web3privacy.info/) to find: 
 * A curated collection of tools and resources
 * Insights from seasoned hackers
-* An Idea Generator to spark your creativity
+* An [Idea Generator](https://ideas.web3privacy.info/) to spark your creativity
 
 ---
 
@@ -235,35 +235,39 @@ Let’s build tools that truly matter—now.
 
 | Name | Org | Focus |
 | --- | --- | --- |
-| [Alan](https://x.com/tsu_kareta) | Railgun | Finance |
-| Alex | Session | Cryptography |
+| [Alan](https://x.com/tsu_kareta) | Railgun | Finance, Idea Validation |
+| [Vitalik](https://x.com/VitalikButerin) | Ethereum Foundation | Idea Validation |
+| [Ying Tong](https://x.com/therealyingtong) | - | applied cryptography |
+| [Zimt](https://x.com/syntonyy) | Blockchain Gov | Legal |
+| [Nick](https://x.com/DrNickA)) | Governance, AI | privacy 360° |
 | [Anton](https://x.com/antonpaisov) | Calimero | DevRel |
 | [Antonio](https://x.com/0xmetony) | Fluidkey | coder & solidity dev |
-| [Auryn](https://x.com/auryn_macmillan) | GnosisGuild ||
+| [Auryn](https://x.com/auryn_macmillan) | privacy 360°, Idea Validation |
 | [Bertran](https://x.com/bjuglas) | Celo | Full Stack |
 | [Bianca](https://x.com/buzea200) | Chronicle | DevRel |
 | [Cat](https://x.com/CatMcGeeCode) | Aztec | DevRel |
-| [Christopher](https://x.com/cwgoes) | Anoma | Cryptography, Zk |
-| [David](https://x.com/david1casey) | Funding The Commons | Public Goods |
-| [Eleftherios](https://x.com/lftherios/) | Radicle | Open-source | 
+| [Christopher](https://x.com/cwgoes) | Anoma | Cryptography, Zk, Idea Validation |
+| [David](https://x.com/david1casey) | Funding The Commons | Public Goods, Idea Validation |
+| [Eleftherios](https://x.com/lftherios/) | Radicle | Open-source, Idea Validation | 
 | [Giacomo](https://x.com/0xjei) | EnclaveE3 | applied cryptography, ZK |
 | [Jacob](https://x.com/_czepluch) | Phylax Systems | DevRel engineer |
-| [jimjim.eth](https://x.com/jimjim_eth) | - ||
-| [Kieran](https://x.com/mesquka) | Railgun | Cryptography |
-| [Leftheris](https://x.com/LefterisJP) | Rotki | Finance, Cryptography |
-| [Marina](https://x.com/MarinaMarkezic) | European Crypto Initiative | Legal |
-| Max | NYM | DevRel |
+| [jimjim.eth](https://x.com/jimjim_eth) | - | cryptography |
+| [Kieran](https://x.com/mesquka) | Railgun | cryptography, Idea Validation |
+| [Leftheris](https://x.com/LefterisJP) | Rotki | DeFi, Cryptography, Idea Validation |
+| [Marina](https://x.com/MarinaMarkezic) | European Crypto Initiative | Legal, Idea Validation |
+| [Max](https://x.com/_wjth) | NYM | DevRel |
+| Alex | Session | Cryptography |
+| [Pentacle](https://x.com/pentcle) | - | UX/UI |
 | [Milos](https://x.com/MorphNetrunner) | Ethereum Foundation | software engineer |
-| [Miroyato](https://x.com/miroyato) | Fileverse | Privacy, Idea Validation |
-| [Oskarth](https://x.com/oskarth) | vacp2p ||
+| [Miroyato](https://x.com/miroyato) | Fileverse | Privacy, AI, Idea Validation |
+| [Oskarth](https://x.com/oskarth) | vacp2p | privacy 360°, Idea Validation|
 | [Owen](https://x.com/temporalwave) | Poly | fullstack, AI |
-| Pentacle | - | UX/UI |
 | [Reno](https://x.com/0xrenoyang) | Ethereum Community Fund | Public goods |
-| [Sebastian](https://x.com/SCBuergel) | Hopr, GnosisDAO | Cryptography, Privacy |
+| [Sebastian](https://x.com/SCBuergel) | Hopr, GnosisDAO | Cryptography, Privacy 360°, Idea Validation |
 | [TranquilFlow](https://x.com/FlowTranquil) | Byzantine | Dev Code |
-| [Vitalik](https://x.com/VitalikButerin) | Ethereum Foundation | |
-| [Ying Tong](https://x.com/therealyingtong) | - | applied cryptography |
-| [Zimt](https://x.com/syntonyy) | Blockchain Gov | Legal |
+| Reno | Ethereum Community Fund | Dev Code |
+| Lauren | Fhenix | Dev Rel, Cryptography |
+
 
 
 ---
