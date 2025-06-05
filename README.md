@@ -76,8 +76,8 @@ Work on meaningful open-source tools and create lasting, impactful change.
 ### Friday, June 13
 |  Time         |                                                                          |
 | ------------- | ------------------------------------------------------------------------ |
-| 15:00         | Q&A with Vitalik - facilitated by Mykola                                 |
-| 16:00         | Registration & team formation                                            |
+| 15:00         | Open Q&A with Vitalik, facilitated by Mykola                             |
+| 16:00         | Hackathon Registration & Team Formation                                  |
 | 16:00         | Getting to know each other, activities, games, rituals                   |
 | 18:30         | Opening Ceremony                                                         |
 | 19:00         | **Hacking begins**                                                       |
