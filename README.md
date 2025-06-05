@@ -439,7 +439,7 @@ From this perspective we decided to create a hackathon adjusted to the great and
 | [Andreea](https://x.com/iandreeacia) | production, volunteers |
 | [BabyBit](https://x.com/BabyBitProd) | art direction, production |
 | [jensei](https://x.com/jensei_) | [Privacy Builder Pack](https://github.com/web3privacy/privacy-builder-pack) |
-| [tree] | advisor, web, privacy corner |
+| [tree](https://bsky.app/profile/tree.fail) | advisor, submissions, privacy corner |
 
 The specific areas of responsibility can be found in the [Organization Manual](./organization.md#team-responsibility-matrix).
 
