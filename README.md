@@ -404,8 +404,13 @@ Check the physical board at Privacy Corner for available time slots. Write your 
 ### Hacking Rules
 - Tech/chain/protocol agnostic - use any tools
 - Focus on impact and sustainability
+- Only original work created during hackathon (June 13-15)
 - Open source encouraged
-- Collaboration over competition
+- Maximum 5 people in the team
+- Choose exactly one track for submission
+- All teams must present their projects
+ 
+For more information about hacking rules, see [Submission Rules](https://github.com/web3privacy/hackathon-2025-berlin-submissions/blob/main/README.md#-submission-rules) in the Submission repository.
 
 ---
 
