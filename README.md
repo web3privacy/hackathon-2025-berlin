@@ -51,6 +51,7 @@ You’re free to choose the best tools for your vision, without being boxed by b
 
 
 ### Collaboration over competition
+
 Collaborate with designers, engineers, marketers, and researchers, while gaining direct access to independent industry mentors. 
 Work on meaningful open-source tools and create lasting, impactful change.
 
@@ -337,8 +338,9 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 
 ## 🏆 Prizes & Awards
 
-- €30,000 Prize Pool
+- €30,000 Prize Pool (potentially much higher thanks to last-minute donations)
 - 7 winners—one for each track—will be selected by an independent jury.
+- Every track winner will be awarded the same amount.
 
 - No sponsor bounties. We focus on real-world impact with a 100% protocol-agnostic approach.
 
