@@ -15,7 +15,7 @@
 | **Volunteers** | Andreea | ? | Volunteer recruitment, training, coordination |
 | **Web & Registration** | cat | ? | Website, registration system, online platforms |
 | **Registration Desk** | cat | ? | Check-in, onboarding, badge distribution |
-| **Project Submissions** | mf | cat | Repository setup, templates, submission support |
+| **Project Submissions** | Tree | cat | Repository setup, templates, submission support |
 | **Judging Process** | mf | cat | Judge recruitment, evaluation oversight |
 | **Experiences** | Alina | Andreea? | Safe space, participant welfare, conflict resolution |
 | **Video** | BabyBit | - | Event filming, promotional content |
