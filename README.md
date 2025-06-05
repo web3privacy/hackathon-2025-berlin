@@ -6,13 +6,13 @@
 
 / Be Excellent To Each Other and Have Fun
 
-
 ## 🎯 Core details
+
 * **What:** Privacy-focused hackathon building real-world solutions  
 * **When:** June 13-15, 2025  
 * **Where:** Engelnest - Wilhelm-Kabus-Straße 24, 10829 Berlin, Germany ([OpenStreetMap](https://nominatim.openstreetmap.org/ui/search.html?q=Wilhelm-Kabus-Stra%C3%9Fe+24%2C+10829+Berlin%2C+N%C4%9Bmecko), [GMaps](https://maps.app.goo.gl/CsykANPpLiWrNFUbA))
 * **Philosophy:** Tech-agnostic *building for impact, not just bounties*
-
+* Links: [Website](https://hackathon.web3privacy.info/) / [Manifesto](https://hackathon.web3privacy.info/info) / [Hacker Manual](https://hackathon.web3privacy.info/manual) / [Submission Repo](https://github.com/web3privacy/hackathon-2025-berlin-submissions) / [Code of Conduct](./code-of-conduct.md) / [Privacy Policy](./privacy-policy.md)
 
 ## Table of Contents
 
@@ -401,7 +401,8 @@ Check the physical board at Privacy Corner for available time slots. Write your 
 - **Be Excellent To Each Other**
 - Zero tolerance for racism, sexism, xenophobia, or hate
 - Organizers can remove participants for inappropriate behavior
-- **Must vacate by 21:00 Sunday**
+
+Read more in our [Code of Conduct](./code-of-conduct.md).
 
 ### Hacking Rules
 - Tech/chain/protocol agnostic - use any tools
@@ -421,10 +422,10 @@ For more information about hacking rules, see [Submission Rules](https://github.
  - Do not leave personal items behind even if you are coming back
  - Rave will begin at (TBA: Time, entry, +1s, FAQ)
 
-YOU
+**YOU**
  - Join the W3PN Dev Channel (invite-only)
 
-US
+**US**
  - Promote the projects and share work done
  - Medium article about projects submitted and judging
  - Cypherpunk Launchpad Program (Invite-only call with hackers & mentors for a month of trainership and final funding)
@@ -450,4 +451,3 @@ From this perspective we decided to create a hackathon adjusted to the great and
 | [tree](https://bsky.app/profile/tree.fail) | advisor, submissions, privacy corner |
 
 The specific areas of responsibility can be found in the [Organization Manual](./organization.md#team-responsibility-matrix).
-
