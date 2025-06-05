@@ -395,6 +395,8 @@ An open space for permissionless discourse and knowledge sharing. Featuring inti
 
 Check the physical board at Privacy Corner for available time slots. Write your topic and preferred time, then announce it in the main area or coordination channel. Show up at the Privacy Corner at your scheduled time and interested participants will join you there. No formal approval needed, just start the conversation.
 
+---
+
 ### Safe Space: Privacy, Power & Practical Resistance
 
 [Women in Privacy](https://linktr.ee/womenInWeb3privacyNow) is kicking off the Safe Initiative to reimagine safety in web3 spaces - through art, conversation, and community.
