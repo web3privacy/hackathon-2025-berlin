@@ -239,7 +239,7 @@ Let’s build tools that truly matter—now.
 | [Vitalik](https://x.com/VitalikButerin) | Ethereum Foundation | Idea Validation |
 | [Ying Tong](https://x.com/therealyingtong) | - | applied cryptography |
 | [Zimt](https://x.com/syntonyy) | Blockchain Gov | Legal |
-| [Nick](https://x.com/DrNickA)) | Governance, AI | privacy 360° |
+| [Nick](https://x.com/DrNickA) | Governance, AI | privacy 360° |
 | [Anton](https://x.com/antonpaisov) | Calimero | DevRel |
 | [Antonio](https://x.com/0xmetony) | Fluidkey | coder & solidity dev |
 | [Auryn](https://x.com/auryn_macmillan) | privacy 360°, Idea Validation |
