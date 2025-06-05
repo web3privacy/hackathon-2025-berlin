@@ -293,6 +293,8 @@ For detailed informations check the [submissions repository](https://github.com/
 
 ## ⚖️ Judging Criteria
 
+**Prerequisites**: All projects must first comply with the [Submission Rules](https://github.com/web3privacy/hackathon-2025-berlin-submissions/blob/main/README.md#-submission-rules) before being evaluated on the criteria below.
+
 **Total: 100 points (20 points each criteria)**
 
 > "Our judges will prioritise technical solutions and reward hackers not just about a working Proof of Concept application or good business logic in their pitch. Judges will assess the impact of what the team or person has done during the course of the hackathon."
