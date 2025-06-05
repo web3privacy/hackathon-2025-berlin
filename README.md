@@ -60,7 +60,7 @@ Work on meaningful open-source tools and create lasting, impactful change.
 
 | **Event**               | **Date & Time**             |
 |------------------------ | --------------------------- |
-| Registration Opens      | Friday, June 13 - 14:30     |
+| Registration Opens      | Friday, June 13 - 16:00     |
 | Hackathon Starts        | Friday, June 13 - 19:00     |
 | **Submission Deadline** | **Sunday, June 15 - 16:30** |
 | Venue Closes            | Sunday, June 15 - 21:00     |
