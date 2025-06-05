@@ -274,19 +274,20 @@ Let’s build tools that truly matter—now.
 
 ## 📝 How to Submit Your Project
 
-**Platform:** GitHub (any usual platforms with **W3PN Hackathon** are not organized by us)
+**All submissions are handled through a separate repository with detailed requirements and guidelines.**
 
-**Process:**
-1. W3PN creates a submission repository at hackathon start
-2. Copy the provided template (to upload link here)
-3. Create your project folder
-4. Submit via Pull Request:
-   - README.md (using template)
-   - Code/repository links
-   - Presentations (.odp/.odg/.otp format preferred)
-5. **Deadline:** Sunday, June 15 at 16:30 CEST
+### Submission Repository
+**https://github.com/web3privacy/hackathon-2025-berlin-submissions**
+
+### Process
+1. Visit the submissions repository for complete requirements
+2. Fork the repo and create folder: `/projects/your-project-name/`
+3. Fill the submission template (found in repo)
+4. Submit via Pull Request before **Sunday, June 15 - 16:30**
 
 *No GitHub account? W3PN team can help upload your submission.*
+
+For detailed informations check the [submissions repository](https://github.com/web3privacy/hackathon-2025-berlin-submissions).
 
 ---
 
