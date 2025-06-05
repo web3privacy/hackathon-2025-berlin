@@ -80,13 +80,6 @@ You have the right to:
 - **No facial recognition**: Photos not processed with AI
 - **Your choice**: You can request deletion anytime
 
-## Changes to This Policy
-
-We'll notify you of significant changes via:
-- Email to registered participants
-- Website announcement
-- Event communication channels
-
 ## Contact & Complaints
 
 **Data Protection Queries:** 
