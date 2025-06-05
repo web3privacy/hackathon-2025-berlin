@@ -405,8 +405,8 @@ Check the physical board at Privacy Corner for available time slots. Write your 
 - Tech/chain/protocol agnostic - use any tools
 - Focus on impact and sustainability
 - Only original work created during hackathon (June 13-15)
+- No limits for team size, collaboration over competition
 - Open source encouraged
-- Maximum 5 people in the team
 - Choose exactly one track for submission
 - All teams must present their projects
  
