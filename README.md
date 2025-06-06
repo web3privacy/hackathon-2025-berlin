@@ -78,7 +78,7 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | ------------- | ------------------------------------------------------------------------ |
 | 15:00         | Open Q&A with Vitalik, facilitated by Mykola                             |
 | 16:00         | Hackathon Registration & Team Formation                                  |
-| 16:00         | Getting to know each other, activities, games, rituals                   |
+| 16:00         | Rituals, Getting to know each other, games, activities                   |
 | 18:30         | Opening Ceremony                                                         |
 | 19:00         | **Hacking begins**                                                       |
 | 20:00         | Dinner                                                                   |
@@ -450,6 +450,21 @@ For more information about hacking rules, see [Submission Rules](https://github.
  - Promote the projects and share work done
  - Medium article about projects submitted and judging
  - Cypherpunk Launchpad Program (Invite-only call with hackers & mentors for a month of trainership and final funding)
+
+---
+
+## 🚀 Cypherpunk Lanunchpad: Build What Matters, Keep It Alive
+
+The Cypherpunk Launchpad is a 4-week post-hackathon project support track for teams who want to go further and build something that works daily and bring real impact to the world.
+
+* Mentorship from top cryptographers, founders, and seasoned hackers
+* Weekly check-ins to help you stay on track and move fast
+* Up to $10,000 in support for selected projects
+* Real outcomes: From ideas to tools people actually use 
+
+We’ll invite 3–5 teams after the hackathon. The Launchpad kicks off ~July 1st . 
+
+Details will be shared during the hackathon.
 
 ---
 
