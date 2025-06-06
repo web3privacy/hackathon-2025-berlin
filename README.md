@@ -12,7 +12,7 @@
 * **When:** June 13-15, 2025  
 * **Where:** Engelnest - Wilhelm-Kabus-Straße 24, 10829 Berlin, Germany ([OpenStreetMap](https://nominatim.openstreetmap.org/ui/search.html?q=Wilhelm-Kabus-Stra%C3%9Fe+24%2C+10829+Berlin%2C+N%C4%9Bmecko), [GMaps](https://maps.app.goo.gl/CsykANPpLiWrNFUbA))
 * **Philosophy:** Building for impact, not just bounties. Together.
-* Links: [Website](https://hackathon.web3privacy.info/) / [Manifesto](https://hackathon.web3privacy.info/info) / [Submission Repo](https://github.com/web3privacy/hackathon-2025-berlin-submissions) / [Code of Conduct](./code-of-conduct.md) / [Privacy Policy](./privacy-policy.md)
+* [Website](https://hackathon.web3privacy.info/) / [Manifesto](https://hackathon.web3privacy.info/info) / [Submission Repo](https://github.com/web3privacy/hackathon-2025-berlin-submissions) / [Code of Conduct](./code-of-conduct.md) / [Privacy Policy](./privacy-policy.md)
 
 ## Table of Contents
 
@@ -29,6 +29,7 @@
     - [Venue Access / Transport](#venue-access--transport)
     - [Accommodation](#accommodation)
 11. [🌈 Experiences](#-experiences)
+    - [Privacy Rituals](#privacy-rituals)
     - [Privacy Corner](#privacy-corner)
     - [Safe Space: Privacy, Power & Practical Resistance](#safe-space-privacy-power--practical-resistance)
 13. [⚡ Important Rules](#-important-rules)
