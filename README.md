@@ -11,7 +11,7 @@
 * **What:** Privacy-focused hackathon building real-world solutions  
 * **When:** June 13-15, 2025  
 * **Where:** Engelnest - Wilhelm-Kabus-Straße 24, 10829 Berlin, Germany ([OpenStreetMap](https://nominatim.openstreetmap.org/ui/search.html?q=Wilhelm-Kabus-Stra%C3%9Fe+24%2C+10829+Berlin%2C+N%C4%9Bmecko), [GMaps](https://maps.app.goo.gl/CsykANPpLiWrNFUbA))
-* **Philosophy:** Building for impact, not just bounties
+* **Philosophy:** Building for impact, not just bounties. Together.
 * Links: [Website](https://hackathon.web3privacy.info/) / [Manifesto](https://hackathon.web3privacy.info/info) / [Submission Repo](https://github.com/web3privacy/hackathon-2025-berlin-submissions) / [Code of Conduct](./code-of-conduct.md) / [Privacy Policy](./privacy-policy.md)
 
 ## Table of Contents
@@ -74,15 +74,15 @@ Work on meaningful open-source tools and create lasting, impactful change.
 ## 📋 Schedule
 
 ### Friday, June 13
-|  Time         |                                                                          |
-| ------------- | ------------------------------------------------------------------------ |
-| 15:00         | Open Q&A with Vitalik, facilitated by Mykola                             |
-| 16:00         | Hackathon Registration & Team Formation                                  |
-| 16:00         | Rituals, Getting to know each other, games, activities                   |
-| 18:30         | Opening Ceremony                                                         |
-| 19:00         | **Hacking begins**                                                       |
-| 20:00         | Dinner                                                                   |
-| 00:30         | Midnight snack                                                           |
+|  Time         |                                                                             |
+| ------------- | --------------------------------------------------------------------------- |
+| 15:00         | Open Q&A with Vitalik, facilitated by Mykola                                |
+| 16:00         | Hackathon Registration & Team Formation                                     |
+| 16:00         | Privacy Rituals, games, activities - Getting to know each other beyond code |
+| 18:30         | Opening Ceremony                                                            |
+| 19:00         | **Hacking begins**                                                          |
+| 20:00         | Dinner                                                                      |
+| 00:30         | Midnight snack                                                              |
 
 ### Saturday, June 14
 |     Time      |                                                       |
@@ -385,6 +385,35 @@ Our venue is open non-stop and welcomes hacking through the night. However, we s
 
 ## 🌈 Experiences
 
+### Privacy Rituals
+
+Enjoy diverse, playful activities that encourage meaningful interactions and a focus on care. 
+Privacy Rituals provide a fun, hands-on way for participants to connect and dive deeper into key ideas, tools, and perspectives around privacy, crypto, and Cypherpunk culture.
+
+- paper academy: critical cypherpunk whitepapers & concepts to read 
+
+- privacypoly board game: anti-surveillance board game
+
+- privacy tarot: special cards with heroes like David Chaum or projects like TornadoCash
+
+- web3privacy landscape map: comprehencive market snapshot
+
+- DIY cypherpunk masks: customisible masks for anon people
+
+- circle disscussions - safe space to share ideas & talk though challenges ☕
+
+- speciality coffee care 
+
+- music playlist: special selection by jayapapaya and wassim
+
+- memetic wall-fare: meme-centric wall with interventions from the community 
+
+- tailsOS distribution
+
+- ethereum Cypherpunk Starting kit - essentials by post_polar
+
+---
+
 ### Privacy Corner
 
 - Opening Time: Nonstop (Fri 21:00 - Sun 18:00)
@@ -413,6 +442,7 @@ Mentors: We’re inviting experienced hackers to mentor newcomers, especially th
 Sign up to be a guide or refer someone who would benefit from mentorship. Fill out the [form](https://tally.so/r/wLNX8J)
 
 Find [Here](https://lu.ma/k5ejibnb) all the details. 
+
 
 ---
 
@@ -455,7 +485,7 @@ For more information about hacking rules, see [Submission Rules](https://github.
 
 ## 🚀 Cypherpunk Lanunchpad: Build What Matters, Keep It Alive
 
-The Cypherpunk Launchpad is a 4-week post-hackathon project support track for teams who want to go further and build something that works daily and bring real impact to the world.
+The Cypherpunk Launchpad is a 4-week post-hackathon support program for selected teams ready to take their projects further—building real-world solutions that work every day and create meaningful impact.
 
 * Mentorship from top cryptographers, founders, and seasoned hackers
 * Weekly check-ins to help you stay on track and move fast
@@ -487,3 +517,6 @@ From this perspective we decided to create a hackathon adjusted to the great and
 | [tree](https://bsky.app/profile/tree.fail) | advisor, submissions, privacy corner |
 
 The specific areas of responsibility can be found in the [Organization Manual](./organization.md#team-responsibility-matrix).
+
+### With gratitude to all who contributed to the creation of this manual <3
+drone, frank, yingtong, jacob, sebastien, mf, cat, lauren, pentacle, adrew, dave, cat, tree, qj, migle, alina, lucila, lisa.
