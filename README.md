@@ -518,4 +518,4 @@ From this perspective we decided to create a hackathon adjusted to the great and
 The specific areas of responsibility can be found in the [Organization Manual](./organization.md#team-responsibility-matrix).
 
 ### With gratitude to all who contributed to the creation of this manual <3
-drone, frank, yingtong, jacob, sebastien, mf, cat, lauren, pentacle, adrew, dave, cat, tree, qj, migle, alina, lucila, lisa.
+drone, frank, yingtong, jacob, sebastien, mf, cat, lauren, pentacle, adrew, dave, cat, tree, qj, migle, alina, lucila, lisa, vaclav.
