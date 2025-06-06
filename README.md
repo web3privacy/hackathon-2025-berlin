@@ -355,12 +355,20 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
  - 24/7 venue access during hackathon
  - 100-150 Mbps internet connection
  - Shower facilities (bring your own towel)
- - Specialty coffee (espresso & cold brew)
- - All meals provided (vegan-friendly)
- - BBQ by W3PN Team (Vegan friendly)
- - Privacy Corner
  - Pet-friendly venue 🐶
  - Childrens are allowed at your own responsibility (note: smoking area outside)
+
+### Catering
+ - All meals provided (vegan-friendly)* - breakfast, lunch, dinner
+ - Outside BBQ 🔥 by W3PN Team (Vegan friendly)
+ - Specialty coffee ☕ (espresso & cold brew) available 24/7
+ - 24-hour snacks 🍎 available throughout the venue
+ - Water dispensers 💧 located around the venue
+ - Fridges stocked with water and Club Mate soft drinks (Original, Beere, Zero, Granat, Winter edition)
+
+*We do not provide alcohol (beer, wine) during the hackathon, but participants can bring their own if they choose to. Aperitivo will be available after submission deadline.*
+
+\**For special dietary requirements beyond vegetarian/vegan (allergies, etc.), please contact organizers.*
 
 ### Venue Access / Transport
 
