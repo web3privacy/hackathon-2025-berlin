@@ -361,7 +361,7 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 ### Catering
  - All meals provided (vegan-friendly)* - breakfast, lunch, dinner
  - Outside BBQ 🔥 by W3PN Team (Vegan friendly)
- - Specialty coffee ☕ (espresso & cold brew) available 24/7
+ - Specialty coffee ☕ (espresso & cold brew) / matcha 🍵 available 24/7
  - 24-hour snacks 🍎 available throughout the venue
  - Water dispensers 💧 located around the venue
  - Fridges stocked with water and Club Mate soft drinks (Original, Beere, Zero, Granat, Winter edition)
