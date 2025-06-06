@@ -26,8 +26,6 @@
 8. [⚖️ Judging Criteria](#%EF%B8%8F-judging-criteria)
 9. [🏆 Prizes & Awards](#-prizes--awards)
 10. [🏠 Venue & Logistics](#-venue--logistics)
-    - [Venue Access / Transport](#venue-access--transport)
-    - [Accommodation](#accommodation)
 11. [🌈 Experiences](#-experiences)
     - [Privacy Rituals](#privacy-rituals)
     - [Privacy Corner](#privacy-corner)
