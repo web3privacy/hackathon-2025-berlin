@@ -367,6 +367,8 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 
 \**For special dietary requirements beyond vegetarian/vegan (allergies, etc.), please contact organizers.*
 
+If you'd like to eat outside the venue, we recommend exploring [Kaan's Foodie Guide](https://kaanuzdogan.com/blog/2025/bbw-2025-foodie-guide).
+
 ### Venue Access / Transport
 
 The location is easily accessible by Berlin's public transport ([BVG](https://www.bvg.de/)), the following stations are located nearby:
