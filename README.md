@@ -493,7 +493,7 @@ The Cypherpunk Launchpad is a 4-week post-hackathon support program for selected
 
 * Mentorship from top cryptographers, founders, and seasoned hackers
 * Weekly check-ins to help you stay on track and move fast
-* Up to $10,000 in support for selected projects
+* Up to €10,000 in support for selected projects
 * Real outcomes: From ideas to tools people actually use 
 
 We’ll invite 3–5 teams after the hackathon. The Launchpad kicks off ~July 1st . 
