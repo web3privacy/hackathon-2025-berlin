@@ -64,8 +64,8 @@ Work on meaningful open-source tools and create lasting, impactful change.
 |------------------------ | --------------------------- |
 | Registration Opens      | Friday, June 13 - 16:00     |
 | Hackathon Starts        | Friday, June 13 - 19:00     |
-| **Submission Deadline** | **Sunday, June 15 - 16:30** |
-| Venue Closes            | Sunday, June 15 - 21:00     |
+| **Submission Deadline** | **Sunday, June 15 - 16:00** |
+| Venue Closes            | Sunday, June 15 - 20:30     |
 
 *All times are local (Europe/Berlin), i.e. CEST (Central European Summer Time)
 
@@ -79,31 +79,27 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 15:00         | Open Q&A with Vitalik, facilitated by Mykola                                |
 | 16:00         | Hackathon Registration & Team Formation                                     |
 | 16:00         | Privacy Rituals, games, activities - Getting to know each other beyond code |
-| 18:30         | Opening Ceremony                                                            |
-| 19:00         | **Hacking begins**                                                          |
-| 20:00         | Dinner                                                                      |
-| 00:30         | Midnight snack                                                              |
+| 19:00         | Opening Ceremony                                                            |
+| 19:30         | **Hacking begins**                                                          |
+| 19:30         | Dinner                                                                      |
 
 ### Saturday, June 14
 |     Time      |                                                       |
 | ------------- | ----------------------------------------------------- |
-| 09:00 - 10:30 | Breakfast                                             |
-| 11:00 - 18:30 | Workshops                                             |
-| 12:30 - 13:45 | Lunch                                                 |
-| 16:30         | Snack                                                 |
+| 11:30 - 13:30 | Brunch                                                |
+| 11:30 - 18:30 | Workshops                                             |
 | 19:00         | Dinner/BBQ                                            |
-| 00:30         | Midnight Snack                                        |
+| ALL DAY       |                                                Hacking|
 
 ### Sunday, June 15
 |    Time     |                                                        |
 | ----------- | ------------------------------------------------------ |
-| 08:30-10:00 | Breakfast                                              |
+| 09:00-10:00 | Breakfast                                              |
 | 11:00-16:30 | Project Finalisation Workshops                         |
-| 12:30-13:45 | Lunch                                                  |
-| 16:30       | **Submission Deadline**                                |
-| 16:30       | Snack & Aperitivo                                      |
-| 18:30/19:00 | Closing Ceremony - Announce winners                    |
-| 19:30       | Closing drinks                                         |
+| 13:30-14:45 | Lunch                                                  |
+| 16:00       | **Submission Deadline**                                |
+| 16:00       | Bites & Beers                                          |
+| 19:00       | Closing Ceremony - Announce winners                    |
 | 21:00       | Venue Closes                                           |
 
 ---
