@@ -240,14 +240,14 @@ Let’s build tools that truly matter—now.
 | [Nick](https://x.com/DrNickA) | Governance, AI | privacy 360° |
 | [Anton](https://x.com/antonpaisov) | Calimero | DevRel |
 | [Antonio](https://x.com/0xmetony) | Fluidkey | coder & solidity dev |
-| [Auryn](https://x.com/auryn_macmillan) | privacy 360°, Idea Validation |
+| [Auryn](https://x.com/auryn_macmillan) | Gnosis Guild — Enclave | Architecture & Idea Validation |
 | [Bertran](https://x.com/bjuglas) | Celo | Full Stack |
 | [Bianca](https://x.com/buzea200) | Chronicle | DevRel |
 | [Cat](https://x.com/CatMcGeeCode) | Aztec | DevRel |
 | [Christopher](https://x.com/cwgoes) | Anoma | Cryptography, Zk, Idea Validation |
 | [David](https://x.com/david1casey) | Funding The Commons | Public Goods, Idea Validation |
 | [Eleftherios](https://x.com/lftherios/) | Radicle | Open-source, Idea Validation | 
-| [Giacomo](https://x.com/0xjei) | EnclaveE3 | applied cryptography, ZK |
+| [Giacomo](https://x.com/0xjei) | Gnosis Guild — Enclave | applied cryptography, ZK |
 | [Jacob](https://x.com/_czepluch) | Phylax Systems | DevRel engineer |
 | [jimjim.eth](https://x.com/jimjim_eth) | - | cryptography |
 | [Kieran](https://x.com/mesquka) | Railgun | cryptography, Idea Validation |
