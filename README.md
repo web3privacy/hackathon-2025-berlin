@@ -83,11 +83,12 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 19:30         | **Hacking begins**                                                          |
 | 19:30         | Dinner                                                                      |
 
-### Saturday, June 14
+### Saturday, June 14 
 |     Time      |                                                       |
 | ------------- | ----------------------------------------------------- |
 | 11:30 - 13:30 | Brunch                                                |
 | 11:30 - 18:30 | Workshops                                             |
+| 14:00 - 20:00 | Massages                                              |
 | 19:00         | Dinner/BBQ                                            |
 | ALL DAY       |                                                Hacking|
 
@@ -96,6 +97,7 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | ----------- | ------------------------------------------------------ |
 | 09:00-10:00 | Breakfast                                              |
 | 11:00-16:30 | Project Finalisation Workshops                         |
+| 12:00 - 18:00 | Massages                                             |
 | 13:30-14:45 | Lunch                                                  |
 | 16:00       | **Submission Deadline**                                |
 | 16:00       | Bites & Beers                                          |
