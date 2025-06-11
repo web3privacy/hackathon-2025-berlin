@@ -79,27 +79,34 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 15:00         | Open Q&A with Vitalik, facilitated by Mykola                                |
 | 16:00         | Hackathon Registration & Team Formation                                     |
 | 16:00         | Privacy Rituals, games, activities - Getting to know each other beyond code |
+| 17:00 - 17:30 | Workshop: *Introduction to onchain encryption: FHE, TEE and ZK* - Kate        |
+| 17:30 - 18:00 | Workshop: *Wallet recovery without a seed phrase* - Oleksander (Rarimo)      |
 | 19:00         | Opening Ceremony                                                            |
-| 19:30         | **Hacking begins**                                                          |
-| 19:30         | Dinner                                                                      |
+| 19:30         | 🚀 **Hacking begins**                                                          |
+| 19:30         | 🍽️ Dinner                                                                      |
 
 ### Saturday, June 14
-|     Time      |                                                       |
-| ------------- | ----------------------------------------------------- |
-| 11:30 - 13:30 | Brunch                                                |
-| 11:30 - 18:30 | Workshops                                             |
-| 19:00         | Dinner/BBQ                                            |
-| ALL DAY       |                                                Hacking|
+|     Time      |                                                                               |
+| ------------- | ----------------------------------------------------------------------------- |
+| 09:30 - 10:00 | Workshop: *Building private-by-default apps without the pain* - Steph (Nillion) |
+| 10:00 - 10:30 | Workshop: *CoFHE 101: working with encrypted state on ethereum* - Lauren (Fhenix) |
+| 10:30 - 11:00 | Workshop: *Building privacy enhanced DApps* - Midnight                         |
+| 11:00 - 11:30 | Workshop: *Building your first peer-to-peer backend* - Anton (Calimero)        |
+| 11:30 - 12:00 | Workshop: *How to Decentralize Any Front-End* - Aron Soos (Swarm)              |
+| 12:00 - 12:30 | Workshop: *Onboarding the next billion users compliantly and privately* - idos |
+| 11:30 - 13:30 | 🍽️ Brunch                                                                        |
+| 14:00 - 14:30 | Workshop: Piloting Cursor: Creators (not coders) will inherit the world of software - Gavin Birch (Namada) |
+| 19:00         | 🍽️ Dinner/BBQ                                                                   |
 
 ### Sunday, June 15
 |    Time     |                                                        |
 | ----------- | ------------------------------------------------------ |
-| 09:00-10:00 | Breakfast                                              |
+| 09:00-10:00 | 🥐 Breakfast                                           |
 | 11:00-16:30 | Project Finalisation Workshops                         |
-| 13:30-14:45 | Lunch                                                  |
-| 16:00       | **Submission Deadline**                                |
-| 16:00       | Bites & Beers                                          |
-| 19:00       | Closing Ceremony - Announce winners                    |
+| 13:30-14:45 | 🍽️ Lunch                                               |
+| 16:00       | 🚨 **Submission Deadline**                             |
+| 16:00       | 🥂 Bites & Beers                                       |
+| 19:00       | 🏆 Closing Ceremony - Announce winners                 |
 | 21:00       | Venue Closes                                           |
 
 ---
