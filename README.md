@@ -32,7 +32,7 @@
     - [Safe Space: Privacy, Power & Practical Resistance](#safe-space-privacy-power--practical-resistance)
 13. [⚡ Important Rules](#-important-rules)
 14. [🎉 After the Hackathon](#-after-the-hackathon)
-15. [🚀 Cypherpunk Launchpad](#-cypherpunk-launchpad)
+15. [🚀 Cypherpunk Launchpad](#-cypherpunk-lanunchpad-build-what-matters-keep-it-alive)
 16. [👥 Team](#-team)
 
 ---
