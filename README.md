@@ -114,6 +114,8 @@ Work on meaningful open-source tools and create lasting, impactful change.
 
 ## 📚 Workshops
 
+*All workshops will be happening in the Workshop room.*
+
 ### Introduction to onchain encryption: FHE, TEE and ZK
 **Time:** Friday 17:00 - 17:30  
 **Facilitator:** Kate
