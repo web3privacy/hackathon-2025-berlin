@@ -19,14 +19,15 @@
 1. [🌀 Philosophy](#-philosophy)
 2. [📅 Key Timeline](#-key-timeline)
 3. [📋 Schedule](#-schedule)
-4. [🛠️ Hackathon Tracks](#%EF%B8%8F-hackathon-tracks)
-5. [✨ Advice, Tips and Inspiration](#-advice-tips-and-inspiration)
-6. [👨‍🏫 Mentors & Mentoring](#-mentors--mentoring)
-7. [📝 How to Submit Your Project](#-how-to-submit-your-project)
-8. [⚖️ Judging Criteria](#%EF%B8%8F-judging-criteria)
-9. [🏆 Prizes & Awards](#-prizes--awards)
-10. [🏠 Venue & Logistics](#-venue--logistics)
-11. [🌈 Experiences](#-experiences)
+4. [📚 Workshops](#-workshops)
+5. [🛠️ Hackathon Tracks](#%EF%B8%8F-hackathon-tracks)
+6. [✨ Advice, Tips and Inspiration](#-advice-tips-and-inspiration)
+7. [👨‍🏫 Mentors & Mentoring](#-mentors--mentoring)
+8. [📝 How to Submit Your Project](#-how-to-submit-your-project)
+9. [⚖️ Judging Criteria](#%EF%B8%8F-judging-criteria)
+10. [🏆 Prizes & Awards](#-prizes--awards)
+11. [🏠 Venue & Logistics](#-venue--logistics)
+12. [🌈 Experiences](#-experiences)
     - [Privacy Rituals](#privacy-rituals)
     - [Privacy Corner](#privacy-corner)
     - [Safe Space: Privacy, Power & Practical Resistance](#safe-space-privacy-power--practical-resistance)
@@ -79,8 +80,8 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 15:00         | Open Q&A with Vitalik, facilitated by Mykola                                |
 | 16:00         | Hackathon Registration & Team Formation                                     |
 | 16:00         | Privacy Rituals, games, activities - Getting to know each other beyond code |
-| 17:00 - 17:30 | Workshop: *Introduction to onchain encryption: FHE, TEE and ZK* - Kate        |
-| 17:30 - 18:00 | Workshop: *Wallet recovery without a seed phrase* - Oleksander (Rarimo)      |
+| 17:00-17:30 | Workshop: [*Introduction to onchain encryption: FHE, TEE and ZK*](#introduction-to-onchain-encryption-fhe-tee-and-zk) - Kate        |
+| 17:30-18:00 | Workshop: [*Wallet recovery without a seed phrase*](#wallet-recovery-without-a-seed-phrase) - Oleksander (Rarimo)      |
 | 19:00         | Opening Ceremony                                                            |
 | 19:30         | 🚀 **Hacking begins**                                                          |
 | 19:30         | 🍽️ Dinner                                                                      |
@@ -88,14 +89,14 @@ Work on meaningful open-source tools and create lasting, impactful change.
 ### Saturday, June 14
 |     Time      |                                                                               |
 | ------------- | ----------------------------------------------------------------------------- |
-| 09:30 - 10:00 | Workshop: *Building private-by-default apps without the pain* - Steph (Nillion) |
-| 10:00 - 10:30 | Workshop: *CoFHE 101: working with encrypted state on ethereum* - Lauren (Fhenix) |
-| 10:30 - 11:00 | Workshop: *Building privacy enhanced DApps* - Midnight                         |
-| 11:00 - 11:30 | Workshop: *Building your first peer-to-peer backend* - Anton (Calimero)        |
-| 11:30 - 12:00 | Workshop: *How to Decentralize Any Front-End* - Aron Soos (Swarm)              |
-| 12:00 - 12:30 | Workshop: *Onboarding the next billion users compliantly and privately* - idos |
-| 11:30 - 13:30 | 🍽️ Brunch                                                                        |
-| 14:00 - 14:30 | Workshop: Piloting Cursor: Creators (not coders) will inherit the world of software - Gavin Birch (Namada) |
+| 09:30-10:00 | Workshop: [*Building private-by-default apps without the pain*](#building-private-by-default-apps-without-the-pain) - Steph (Nillion) |
+| 10:00-10:30 | Workshop: [*CoFHE 101: working with encrypted state on ethereum*](#cofhe-101-working-with-encrypted-state-on-ethereum) - Lauren (Fhenix) |
+| 10:30-11:00 | Workshop: [*Building privacy enhanced DApps*](#building-privacy-enhanced-dapps) - Midnight                         |
+| 11:00-11:30 | Workshop: [*Building your first peer-to-peer backend*](#building-your-first-peer-to-peer-backend) - Anton (Calimero)        |
+| 11:30-12:00 | Workshop: [*How to Decentralize Any Front-End*](#how-to-decentralize-any-front-end) - Aron Soos (Swarm)              |
+| 12:00-12:30 | Workshop: [*Onboarding the next billion users compliantly and privately*](#onboarding-the-next-billion-users-compliantly-and-privately) - idos |
+| 11:30-13:30 | 🍽️ Brunch                                                                        |
+| 14:00-14:30 | Workshop: [*Piloting Cursor: Creators (not coders) will inherit the world of software*](#piloting-cursor-creators-not-coders-will-inherit-the-world-of-software) - Gavin Birch (Namada) |
 | 19:00         | 🍽️ Dinner/BBQ                                                                   |
 
 ### Sunday, June 15
@@ -104,10 +105,60 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 09:00-10:00 | 🥐 Breakfast                                           |
 | 11:00-16:30 | Project Finalisation Workshops                         |
 | 13:30-14:45 | 🍽️ Lunch                                               |
-| 16:00       | 🚨 **Submission Deadline**                             |
+| 16:00       | 🚨 **Submission Deadline** ([How to submit](#-how-to-submit-your-project)) |
 | 16:00       | 🥂 Bites & Beers                                       |
 | 19:00       | 🏆 Closing Ceremony - Announce winners                 |
 | 21:00       | Venue Closes                                           |
+
+---
+
+## 📚 Workshops
+
+### Introduction to onchain encryption: FHE, TEE and ZK
+**Time:** Friday 17:00 - 17:30  
+**Facilitator:** Kate
+
+In this talk I will walk through 3 popular forms of encryption used in Web3 and break down their pros and cons, as well as some real world use cases leveraging the technology today.
+
+### Wallet recovery without a seed phrase
+**Time:** Friday 17:30 - 18:00  
+**Facilitator:** Oleksander (Rarimo)
+
+### Building private-by-default apps without the pain
+**Time:** Saturday 09:30 - 10:00  
+**Facilitator:** Steph (Nillion)
+
+Most devs want to protect user data—but the tooling gets in the way. This talk explores how nilDB makes it easier to build apps with encrypted, access-controlled storage.
+
+### CoFHE 101: working with encrypted state on ethereum
+**Time:** Saturday 10:00 - 10:30  
+**Facilitator:** Lauren (Fhenix)
+
+### Building privacy enhanced DApps
+**Time:** Saturday 10:30 - 11:00  
+**Facilitator:** Midnight
+
+### Building your first peer-to-peer backend
+**Time:** Saturday 11:00 - 11:30  
+**Facilitator:** Anton (Calimero)
+
+### How to Decentralize Any Front-End
+**Time:** Saturday 11:30 - 12:00  
+**Facilitator:** Aron Soos (Swarm)
+
+This workshop is about decentralized storage, one of the key components to realize the World Computer. We'll use the time to run a storage node (Swarm), upload a website to the decentralized network, and set up ENS to make the site accessible also on web2 via eth.limo.
+
+As we go through this demonstration, we'll also discuss challenges and solutions in decentralized storage, such as data availability, DDoS and censorship resistance, erasure coding, incentive systems, mutable vs. immutable data, and more.
+
+For the practical segments, the session will use a terminal in a UNIX-like environment. It is encouraged to follow along, the only pre-requisite is a recent Node.js version installed on your machine.
+
+### Onboarding the next billion users compliantly and privately
+**Time:** Saturday 12:00 - 12:30  
+**Facilitator:** idos
+
+### Piloting Cursor: Creators (not coders) will inherit the world of software
+**Time:** Saturday 14:00 - 14:30  
+**Facilitator:** Gavin Birch (Namada)
 
 ---
 
