@@ -95,7 +95,6 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 11:30-12:00 | Workshop: [*How to Decentralize Any Front-End*](#how-to-decentralize-any-front-end) - Aron Soos (Swarm)              |
 | 11:30-13:30 | 🍽️ Brunch 
 | 12:00-12:30 | Workshop: [*Onboarding the next billion users compliantly and privately*](#onboarding-the-next-billion-users-compliantly-and-privately) - idos |
-                                                                       |
 | 14:00-14:30 | Workshop: [*Piloting Cursor: Creators (not coders) will inherit the world of software*](#piloting-cursor-creators-not-coders-will-inherit-the-world-of-software) - Gavin Birch (Namada) |
 | 14:30-15:00 | Workshop: [*Wallet recovery without a seed phrase*](#wallet-recovery-without-a-seed-phrase) - Oleksander (Rarimo)      |
 | 19:00         | 🍽️ Dinner/BBQ                                                                   |
