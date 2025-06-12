@@ -545,12 +545,12 @@ For more information about hacking rules, see [Submission Rules](https://github.
  - **CypheRave will begin at 21.30** - more info [here](https://lu.ma/h3ithkl3)
 
 **YOU**
- - Join the W3PN Dev Channel (invite-only)
+ - Join the **W3PN Dev Channel** (invite-only)
 
 **US**
- - Promote the projects and share work done
+ - **Cypherpunk Launchpad Program **(Invite-only call with hackers & mentors for a month of trainership and final funding)
+ - Promote the projects and share the good work done
  - Medium article about projects submitted and judging
- - Cypherpunk Launchpad Program (Invite-only call with hackers & mentors for a month of trainership and final funding)
 
 ---
 
