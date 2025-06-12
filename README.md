@@ -20,7 +20,7 @@
 2. [📅 Key Timeline](#-key-timeline)
 3. [📋 Schedule](#-schedule)
 4. [📚 Workshops](#-workshops)
-5. [🛠️ Hackathon Tracks](#%EF%B8%8F-hackathon-tracks)
+5. [🛠️ Tracks](#%EF%B8%8F-tracks)
 6. [✨ Advice, Tips and Inspiration](#-advice-tips-and-inspiration)
 7. [👨‍🏫 Mentors & Mentoring](#-mentors--mentoring)
 8. [📝 How to Submit Your Project](#-how-to-submit-your-project)
@@ -164,7 +164,7 @@ Most devs want to protect user data—but the tooling gets in the way. This talk
 
 ---
 
-## 🛠️ Hackathon Tracks
+## 🛠️ Tracks
 
 1. Advanced Cryptography
 2. Censorship Resistance
