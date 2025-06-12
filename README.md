@@ -294,9 +294,9 @@ Let’s build tools that truly matter—now.
 | Name | Org | Focus | Availability |
 | --- | --- | --- | --- |
 | [Alan](https://x.com/tsu_kareta) | Railgun | Finance, Idea Validation | No availability listed |
-| Alex | Session | Cryptography | Fri 19-23, Sat 10-22, Sat 22-02 (50%), Sun 02-06 (50%) |
+| Alex | Session | Cryptography | Fri 19-23, Sat 10-22, Sat 22-02, Sun 02-06 |
 | [Anton](https://x.com/antonpaisov) | Calimero | DevRel | Fri 19-23, Sat 10-18, Sun 10-16 |
-| [Antonio](https://x.com/0xmetony) | Fluidkey | coder & solidity dev | Fri 19-23, Sat 10-22, Sat 22-02 (50%), Sun 10-16 |
+| [Antonio](https://x.com/0xmetony) | Fluidkey | coder & solidity dev | Fri 19-23, Sat 10-22, Sat 22-02, Sun 10-16 |
 | [Auryn](https://x.com/auryn_macmillan) | privacy 360°, Idea Validation | No availability listed |
 | [Bertran](https://x.com/bjuglas) | Celo | Full Stack | Fri 02-06, Sat 02-06 |
 | [Bianca](https://x.com/buzea200) | Chronicle | DevRel | Fri 19-23, Sat 14-18 |
@@ -308,12 +308,12 @@ Let’s build tools that truly matter—now.
 | [Jacob](https://x.com/_czepluch) | Phylax Systems | DevRel engineer | Sat 14-02, Sun 10-16 |
 | [James](https://www.linkedin.com/in/jamespfarrell?originalSubdomain=de)) | Funding The Commons | Product, idea validation, Full stack | freerider |
 | [jimjim.eth](https://x.com/jimjim_eth) | - | cryptography | Fri 19-02, Sat 14-06, Sun 10-13 |
-| [Kieran](https://x.com/mesquka) | Railgun | cryptography, Idea Validation | Fri 19-23, Fri 23-02 (50%), Sat 10-14 (50%), Sat 14-18, Sat 18-22, Sat 22-02 (50%), Sun 10-16 |
+| [Kieran](https://x.com/mesquka) | Railgun | cryptography, Idea Validation | Fri 19-23, Fri 23-02, Sat 10-14, Sat 14-18, Sat 18-22, Sat 22-02, Sun 10-16 |
 | Lauren | Fhenix | Dev Rel, Cryptography | Fri 19-02, Sat 10-22, Sun 10-13 |
 | [Leftheris](https://x.com/LefterisJP) | Rotki | DeFi, Cryptography, Idea Validation | No availability listed |
 | [Marina](https://x.com/MarinaMarkezic) | European Crypto Initiative | Legal, Idea Validation | No availability listed |
 | [Max](https://x.com/_wjth) | NYM | DevRel | Sat 10-22, Sun 10-16 |
-| [Milos](https://x.com/MorphNetrunner) | Ethereum Foundation | software engineer | Sat 14-18 (50%), Sat 18-06, Sun 10-16 |
+| [Milos](https://x.com/MorphNetrunner) | Ethereum Foundation | software engineer | Sat 14-18, Sat 18-06, Sun 10-16 |
 | [Miroyato](https://x.com/miroyato) | Fileverse | Privacy, AI, Idea Validation | No availability listed |
 | [Nick](https://x.com/DrNickA) | Governance, AI | privacy 360° | No availability listed |
 | [Oskarth](https://x.com/oskarth) | vacp2p | privacy 360°, Idea Validation | Fri 19-23, Sun 10-16 |
@@ -324,7 +324,7 @@ Let’s build tools that truly matter—now.
 | [Sebastian](https://x.com/SCBuergel) | Hopr, GnosisDAO | Cryptography, Privacy 360°, Idea Validation | Fri 19-23, Sat 10-18, Sun 10-16 |
 | [Vitalik](https://x.com/VitalikButerin) | Ethereum Foundation | Idea Validation | No availability listed |
 | [Ying Tong](https://x.com/therealyingtong) | - | applied cryptography | Sat 10-18, Sun 10-16 |
-| [Zimt](https://x.com/syntonyy) | Blockchain Gov | Legal | Fri 19-23, Sat 14-22, Sat 22-02 (50%), Sun 10-16 |
+| [Zimt](https://x.com/syntonyy) | Blockchain Gov | Legal | Fri 19-23, Sat 14-22, Sat 22-02, Sun 10-16 |
 
 *Note: "(50%)" indicates partial availability during that time slot.*
 
