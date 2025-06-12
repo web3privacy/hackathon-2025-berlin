@@ -446,6 +446,12 @@ Aside from hotels and Airbnbs, you can check offers on local options like [WG-Ge
 
 Our venue is open non-stop and welcomes hacking through the night. However, we still would recommend to look for a place to leave your stuff, sleep, and take a shower (although a shower will be available in the venue).
 
+### Map
+![image-2025-06-12-142242](https://github.com/user-attachments/assets/cd722542-79cc-4a5a-952f-de75bd7c264d)
+
+![image-2025-06-12-142209](https://github.com/user-attachments/assets/c92fe378-8521-4d99-ab64-407ed9889c5b)
+
+
 ---
 
 ## 🌈 Experiences
