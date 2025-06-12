@@ -88,13 +88,13 @@ Work on meaningful open-source tools and create lasting, impactful change.
 ### Saturday, June 14
 |     Time      |                                                                               |
 | ------------- | ----------------------------------------------------------------------------- |
-| 09:30-10:00 | Workshop: [*Building private-by-default apps without the pain*](#building-private-by-default-apps-without-the-pain) - Steph (Nillion) |
 | 10:00-10:30 | Workshop: [*CoFHE 101: working with encrypted state on ethereum*](#cofhe-101-working-with-encrypted-state-on-ethereum) - Lauren (Fhenix) |
 | 10:30-11:00 | Workshop: [*Building privacy enhanced DApps*](#building-privacy-enhanced-dapps) - Midnight                         |
 | 11:00-11:30 | Workshop: [*Building your first peer-to-peer backend*](#building-your-first-peer-to-peer-backend) - Anton (Calimero)        |
 | 11:30-12:00 | Workshop: [*How to Decentralize Any Front-End*](#how-to-decentralize-any-front-end) - Aron Soos (Swarm)              |
 | 11:30-13:30 | 🍽️ Brunch 
 | 12:00-12:30 | Workshop: [*Onboarding the next billion users compliantly and privately*](#onboarding-the-next-billion-users-compliantly-and-privately) - idos |
+| 12:30-13:00 | Workshop: [*Building private-by-default apps without the pain*](#building-private-by-default-apps-without-the-pain) - Steph (Nillion) |
 | 14:00-14:30 | Workshop: [*Piloting Cursor: Creators (not coders) will inherit the world of software*](#piloting-cursor-creators-not-coders-will-inherit-the-world-of-software) - Gavin Birch (Namada) |
 | 14:30-15:00 | Workshop: [*Wallet recovery without a seed phrase*](#wallet-recovery-without-a-seed-phrase) - Oleksander (Rarimo)      |
 | 19:00         | 🍽️ Dinner/BBQ                                                                   |
@@ -122,12 +122,6 @@ Work on meaningful open-source tools and create lasting, impactful change.
 
 In this talk I will walk through 3 popular forms of encryption used in Web3 and break down their pros and cons, as well as some real world use cases leveraging the technology today.
 
-### Building private-by-default apps without the pain
-**Time:** Saturday 09:30 - 10:00  
-**Facilitator:** Steph (Nillion)
-
-Most devs want to protect user data—but the tooling gets in the way. This talk explores how nilDB makes it easier to build apps with encrypted, access-controlled storage.
-
 ### CoFHE 101: working with encrypted state on ethereum
 **Time:** Saturday 10:00 - 10:30  
 **Facilitator:** Lauren (Fhenix)
@@ -152,7 +146,13 @@ For the practical segments, the session will use a terminal in a UNIX-like envir
 
 ### Onboarding the next billion users compliantly and privately
 **Time:** Saturday 12:00 - 12:30  
-**Facilitator:** idos
+**Facilitator:** Ben (idos) - remote
+
+### Building private-by-default apps without the pain
+**Time:** Saturday 09:30 - 10:00  
+**Facilitator:** Steph (Nillion)
+
+Most devs want to protect user data—but the tooling gets in the way. This talk explores how nilDB makes it easier to build apps with encrypted, access-controlled storage.
 
 ### Piloting Cursor: Creators (not coders) will inherit the world of software
 **Time:** Saturday 14:00 - 14:30  
