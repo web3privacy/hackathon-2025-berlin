@@ -291,42 +291,41 @@ Let’s build tools that truly matter—now.
 
 ### List of mentors
 
-| Name | Org | Focus |
-| --- | --- | --- |
-| [Alan](https://x.com/tsu_kareta) | Railgun | Finance, Idea Validation |
-| [Vitalik](https://x.com/VitalikButerin) | Ethereum Foundation | Idea Validation |
-| [Ying Tong](https://x.com/therealyingtong) | - | applied cryptography |
-| [Zimt](https://x.com/syntonyy) | Blockchain Gov | Legal |
-| [Nick](https://x.com/DrNickA) | Governance, AI | privacy 360° |
-| [Anton](https://x.com/antonpaisov) | Calimero | DevRel |
-| [Antonio](https://x.com/0xmetony) | Fluidkey | coder & solidity dev |
-| [Auryn](https://x.com/auryn_macmillan) | privacy 360°, Idea Validation |
-| [Bertran](https://x.com/bjuglas) | Celo | Full Stack |
-| [Bianca](https://x.com/buzea200) | Chronicle | DevRel |
-| [Cat](https://x.com/CatMcGeeCode) | Aztec | DevRel |
-| [Christopher](https://x.com/cwgoes) | Anoma | Cryptography, Zk, Idea Validation |
-| [David](https://x.com/david1casey) | Funding The Commons | Public Goods, Idea Validation |
-| [Eleftherios](https://x.com/lftherios/) | Radicle | Open-source, Idea Validation | 
-| [Giacomo](https://x.com/0xjei) | EnclaveE3 | applied cryptography, ZK |
-| [Jacob](https://x.com/_czepluch) | Phylax Systems | DevRel engineer |
-| [jimjim.eth](https://x.com/jimjim_eth) | - | cryptography |
-| [Kieran](https://x.com/mesquka) | Railgun | cryptography, Idea Validation |
-| [Leftheris](https://x.com/LefterisJP) | Rotki | DeFi, Cryptography, Idea Validation |
-| [Marina](https://x.com/MarinaMarkezic) | European Crypto Initiative | Legal, Idea Validation |
-| [Max](https://x.com/_wjth) | NYM | DevRel |
-| Alex | Session | Cryptography |
-| [Pentacle](https://x.com/pentcle) | - | UX/UI |
-| [Milos](https://x.com/MorphNetrunner) | Ethereum Foundation | software engineer |
-| [Miroyato](https://x.com/miroyato) | Fileverse | Privacy, AI, Idea Validation |
-| [Oskarth](https://x.com/oskarth) | vacp2p | privacy 360°, Idea Validation|
-| [Owen](https://x.com/temporalwave) | Poly | fullstack, AI |
-| [Reno](https://x.com/0xrenoyang) | Ethereum Community Fund | Public goods |
-| [Sebastian](https://x.com/SCBuergel) | Hopr, GnosisDAO | Cryptography, Privacy 360°, Idea Validation |
-| [TranquilFlow](https://x.com/FlowTranquil) | Byzantine | Dev Code |
-| Reno | Ethereum Community Fund | Dev Code |
-| Lauren | Fhenix | Dev Rel, Cryptography |
+| Name | Org | Focus | Availability |
+| --- | --- | --- | --- |
+| [Alan](https://x.com/tsu_kareta) | Railgun | Finance, Idea Validation | No availability listed |
+| Alex | Session | Cryptography | Fri 19-23, Sat 10-22, Sat 22-02 (50%), Sun 02-06 (50%) |
+| [Anton](https://x.com/antonpaisov) | Calimero | DevRel | Fri 19-23, Sat 10-18, Sun 10-16 |
+| [Antonio](https://x.com/0xmetony) | Fluidkey | coder & solidity dev | Fri 19-23, Sat 10-22, Sat 22-02 (50%), Sun 10-16 |
+| [Auryn](https://x.com/auryn_macmillan) | privacy 360°, Idea Validation | No availability listed |
+| [Bertran](https://x.com/bjuglas) | Celo | Full Stack | Fri 02-06, Sat 02-06 |
+| [Bianca](https://x.com/buzea200) | Chronicle | DevRel | Fri 19-23, Sat 14-18 |
+| [Christopher](https://x.com/cwgoes) | Anoma | Cryptography, Zk, Idea Validation | No availability listed |
+| [David](https://x.com/david1casey) | Funding The Commons | Public Goods, Idea Validation | Fri 19-23, Sat 10-14, Sun 13-16 |
+| [Eleftherios](https://x.com/lftherios/) | Radicle | Open-source, Idea Validation | Sat 10-14, Sun 10-13 |
+| [Giacomo](https://x.com/0xjei) | EnclaveE3 | applied cryptography, ZK | Sat 10-22, Sun 10-16 |
+| [Jacob](https://x.com/_czepluch) | Phylax Systems | DevRel engineer | Sat 14-02, Sun 10-16 |
+| [jimjim.eth](https://x.com/jimjim_eth) | - | cryptography | Fri 19-02, Sat 14-06, Sun 10-13 |
+| [Kieran](https://x.com/mesquka) | Railgun | cryptography, Idea Validation | Fri 19-23, Fri 23-02 (50%), Sat 10-14 (50%), Sat 14-18, Sat 18-22, Sat 22-02 (50%), Sun 10-16 |
+| Lauren | Fhenix | Dev Rel, Cryptography | Fri 19-02, Sat 10-22, Sun 10-13 |
+| [Leftheris](https://x.com/LefterisJP) | Rotki | DeFi, Cryptography, Idea Validation | No availability listed |
+| [Marina](https://x.com/MarinaMarkezic) | European Crypto Initiative | Legal, Idea Validation | No availability listed |
+| [Max](https://x.com/_wjth) | NYM | DevRel | Sat 10-22, Sun 10-16 |
+| [Milos](https://x.com/MorphNetrunner) | Ethereum Foundation | software engineer | Sat 14-18 (50%), Sat 18-06, Sun 10-16 |
+| [Miroyato](https://x.com/miroyato) | Fileverse | Privacy, AI, Idea Validation | No availability listed |
+| [Nick](https://x.com/DrNickA) | Governance, AI | privacy 360° | No availability listed |
+| [Oskarth](https://x.com/oskarth) | vacp2p | privacy 360°, Idea Validation | Fri 19-23, Sun 10-16 |
+| [Owen](https://x.com/temporalwave) | Poly | fullstack, AI | No availability listed |
+| [Pentacle](https://x.com/pentcle) | - | UX/UI | Fri 19-23, Sat 10-18, Sun 10-13 |
+| Reno | Ethereum Community Fund | Dev Code | No availability listed |
+| [Reno](https://x.com/0xrenoyang) | Ethereum Community Fund | Public goods | No availability listed |
+| [Sebastian](https://x.com/SCBuergel) | Hopr, GnosisDAO | Cryptography, Privacy 360°, Idea Validation | Fri 19-23, Sat 10-18, Sun 10-16 |
+| [TranquilFlow](https://x.com/FlowTranquil) | Byzantine | Dev Code | No availability listed |
+| [Vitalik](https://x.com/VitalikButerin) | Ethereum Foundation | Idea Validation | No availability listed |
+| [Ying Tong](https://x.com/therealyingtong) | - | applied cryptography | Sat 10-18, Sun 10-16 |
+| [Zimt](https://x.com/syntonyy) | Blockchain Gov | Legal | Fri 19-23, Sat 14-22, Sat 22-02 (50%), Sun 10-16 |
 
-
+*Note: "(50%)" indicates partial availability during that time slot.*
 
 ---
 
