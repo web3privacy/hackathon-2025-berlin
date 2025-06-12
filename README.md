@@ -22,7 +22,7 @@
 4. [📚 Workshops](#-workshops)
 5. [🛠️ Tracks](#%EF%B8%8F-tracks)
 6. [✨ Advice, Tips and Inspiration](#-advice-tips-and-inspiration)
-7. [👨‍🏫 Mentors & Mentoring](#-mentors--mentoring)
+7. [👨‍🏫 Mentors](#-mentors--mentoring)
 8. [📝 How to Submit Your Project](#-how-to-submit-your-project)
 9. [⚖️ Judging Criteria](#%EF%B8%8F-judging-criteria)
 10. [🏆 Prizes & Awards](#-prizes--awards)
@@ -283,7 +283,7 @@ Explore our [Privacy Builder Pack](https://build.web3privacy.info/) to find:
 
 ## 👨‍🏫 Mentors & Mentoring
 
-To help you build meaningful, user-centered solutions with real impact, we’ve brought in trusted, independent mentors—each with deep, hands-on expertise across diverse fields. 
+To help you build meaningful solutions with real impact, we’ve brought independent mentors—each with deep, hands-on expertise across diverse fields. 
 
 At W3PN HACKS we embrace a holistic approach, offering support from technical execution and idea validation to socio-cultural insight. 
 
