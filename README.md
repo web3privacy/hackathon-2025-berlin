@@ -429,6 +429,11 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 
 If you'd like to eat outside the venue, we recommend exploring [Kaan's Foodie Guide](https://kaanuzdogan.com/blog/2025/bbw-2025-foodie-guide).
 
+### Venue map
+![image-2025-06-12-142242](https://github.com/user-attachments/assets/cd722542-79cc-4a5a-952f-de75bd7c264d)
+
+![image-2025-06-12-142209](https://github.com/user-attachments/assets/c92fe378-8521-4d99-ab64-407ed9889c5b)
+
 ### Venue Access / Transport
 
 The location is easily accessible by Berlin's public transport ([BVG](https://www.bvg.de/)), the following stations are located nearby:
@@ -446,12 +451,6 @@ We recommend you to look for a suitable shelter as soon as you receive your hack
 Aside from hotels and Airbnbs, you can check offers on local options like [WG-Gesucht](https://www.wg-gesucht.de/en/) and Facebook groups or post your own requests post there. However, please be wary of the risks and potential scams.
 
 Our venue is open non-stop and welcomes hacking through the night. However, we still would recommend to look for a place to leave your stuff, sleep, and take a shower (although a shower will be available in the venue).
-
-### Map
-![image-2025-06-12-142242](https://github.com/user-attachments/assets/cd722542-79cc-4a5a-952f-de75bd7c264d)
-
-![image-2025-06-12-142209](https://github.com/user-attachments/assets/c92fe378-8521-4d99-ab64-407ed9889c5b)
-
 
 ---
 
