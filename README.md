@@ -303,8 +303,10 @@ Let’s build tools that truly matter—now.
 | [Christopher](https://x.com/cwgoes) | Anoma | Cryptography, Zk, Idea Validation | No availability listed |
 | [David](https://x.com/david1casey) | Funding The Commons | Public Goods, Idea Validation | Fri 19-23, Sat 10-14, Sun 13-16 |
 | [Eleftherios](https://x.com/lftherios/) | Radicle | Open-source, Idea Validation | Sat 10-14, Sun 10-13 |
+| [Evi](https://x.com/FlowTranquil) | Byzantine | Dev Code | all time |
 | [Giacomo](https://x.com/0xjei) | EnclaveE3 | applied cryptography, ZK | Sat 10-22, Sun 10-16 |
 | [Jacob](https://x.com/_czepluch) | Phylax Systems | DevRel engineer | Sat 14-02, Sun 10-16 |
+| [James](https://www.linkedin.com/in/jamespfarrell?originalSubdomain=de)) | Funding The Commons | Product, idea validation, Full stack | freerider |
 | [jimjim.eth](https://x.com/jimjim_eth) | - | cryptography | Fri 19-02, Sat 14-06, Sun 10-13 |
 | [Kieran](https://x.com/mesquka) | Railgun | cryptography, Idea Validation | Fri 19-23, Fri 23-02 (50%), Sat 10-14 (50%), Sat 14-18, Sat 18-22, Sat 22-02 (50%), Sun 10-16 |
 | Lauren | Fhenix | Dev Rel, Cryptography | Fri 19-02, Sat 10-22, Sun 10-13 |
@@ -320,7 +322,6 @@ Let’s build tools that truly matter—now.
 | Reno | Ethereum Community Fund | Dev Code | No availability listed |
 | [Reno](https://x.com/0xrenoyang) | Ethereum Community Fund | Public goods | No availability listed |
 | [Sebastian](https://x.com/SCBuergel) | Hopr, GnosisDAO | Cryptography, Privacy 360°, Idea Validation | Fri 19-23, Sat 10-18, Sun 10-16 |
-| [TranquilFlow](https://x.com/FlowTranquil) | Byzantine | Dev Code | No availability listed |
 | [Vitalik](https://x.com/VitalikButerin) | Ethereum Foundation | Idea Validation | No availability listed |
 | [Ying Tong](https://x.com/therealyingtong) | - | applied cryptography | Sat 10-18, Sun 10-16 |
 | [Zimt](https://x.com/syntonyy) | Blockchain Gov | Legal | Fri 19-23, Sat 14-22, Sat 22-02 (50%), Sun 10-16 |
@@ -340,7 +341,7 @@ Let’s build tools that truly matter—now.
 1. Visit the submissions repository for complete requirements
 2. Fork the repo and create folder: `/projects/your-project-name/`
 3. Fill the submission template (found in repo)
-4. Submit via Pull Request before **Sunday, June 15 - 16:30**
+4. Submit via Pull Request before **Sunday, June 15 - 16:00**
 
 *No GitHub account? W3PN team can help upload your submission.*
 
@@ -542,7 +543,7 @@ For more information about hacking rules, see [Submission Rules](https://github.
 ## 🎉 After the Hackathon
 
  - Do not leave personal items behind even if you are coming back
- - Rave will begin at (TBA: Time, entry, +1s, FAQ)
+ - **CypheRave will begin at 21.30** - more info [here](https://lu.ma/h3ithkl3)
 
 **YOU**
  - Join the W3PN Dev Channel (invite-only)
