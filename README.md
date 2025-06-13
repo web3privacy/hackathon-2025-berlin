@@ -409,6 +409,14 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 * **Venue Name**: [Engelnest Coworking](https://engelnest.de/)
 * **Address**: Wilhelm-Kabus-Straße 24, 10829 Berlin ([OpenStreetMap](https://nominatim.openstreetmap.org/ui/search.html?q=Wilhelm-Kabus-Stra%C3%9Fe+24%2C+10829+Berlin%2C+N%C4%9Bmecko), [GMaps](https://maps.app.goo.gl/CsykANPpLiWrNFUbA))
 
+### WiFi
+
+We have 2 different wifi hotspots within the venue:
+| Where | SSID | Password |
+| --- | --- | --- |
+| Basement (hacker space) | **Web3Privacy** | `Cypherpunk1337!` |
+| Rest of the venue | **EngelnestGuest** | `engelnest2019!` |
+
 ### Amenities
  - 24/7 venue access during hackathon
  - 100-150 Mbps internet connection
