@@ -80,7 +80,6 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 15:00         | Open Q&A with Vitalik, facilitated by Mykola                                |
 | 16:00         | Hackathon Registration & Team Formation                                     |
 | 16:00         | Privacy Rituals, games, activities - Getting to know each other beyond code |
-| 17:00-17:30 | Workshop: [*Introduction to onchain encryption: FHE, TEE and ZK*](#introduction-to-onchain-encryption-fhe-tee-and-zk) - Kate        |
 | 19:00         | Opening Ceremony                                                            |
 | 19:30         | 🚀 **Hacking begins**                                                          |
 | 19:30         | 🍽️ Dinner                                                                      |
@@ -88,6 +87,8 @@ Work on meaningful open-source tools and create lasting, impactful change.
 ### Saturday, June 14
 |     Time      |                                                                               |
 | ------------- | ----------------------------------------------------------------------------- |
+| 09:00-10:00 | 🥐 Breakfast                                                                    |
+| 09:30-10:00 | Workshop: [*Introduction to onchain encryption: FHE, TEE and ZK*](#introduction-to-onchain-encryption-fhe-tee-and-zk) - Kate        |
 | 10:00-10:30 | Workshop: [*CoFHE 101: working with encrypted state on ethereum*](#cofhe-101-working-with-encrypted-state-on-ethereum) - Lauren (Fhenix) |
 | 10:30-11:00 | Workshop: [*Building privacy enhanced DApps*](#building-privacy-enhanced-dapps) - Midnight                         |
 | 11:00-11:30 | Workshop: [*Building your first peer-to-peer backend*](#building-your-first-peer-to-peer-backend) - Anton (Calimero)        |
@@ -117,7 +118,7 @@ Work on meaningful open-source tools and create lasting, impactful change.
 *All workshops will be happening in the Workshop room.*
 
 ### Introduction to onchain encryption: FHE, TEE and ZK
-**Time:** Friday 17:00 - 17:30  
+**Time:** Saturday 9:30 - 10:00  
 **Facilitator:** Kate
 
 In this talk I will walk through 3 popular forms of encryption used in Web3 and break down their pros and cons, as well as some real world use cases leveraging the technology today.
