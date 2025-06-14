@@ -93,7 +93,7 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 12:30-13:00 | Workshop: [*Building private-by-default apps without the pain*](#building-private-by-default-apps-without-the-pain) - Steph (Nillion) |
 | 13:00-13:30 | Workshop: [*Introduction to onchain encryption: FHE, TEE and ZK*](#introduction-to-onchain-encryption-fhe-tee-and-zk) - Kate        |
 | 13:30-14:00 | Workshop: [*CoFHE 101: working with encrypted state on ethereum*](#cofhe-101-working-with-encrypted-state-on-ethereum) - Lauren (Fhenix) |
-| 14:00-20:00 | Massages                                              |
+| 14:00-20:00 | 💆‍♀️ Massage stations                                              |
 | 14:00-14:30 | Workshop: [*Piloting Cursor: Creators (not coders) will inherit the world of software*](#piloting-cursor-creators-not-coders-will-inherit-the-world-of-software) - Gavin Birch (Namada) |
 | 14:30-15:00 | Workshop: [*Wallet recovery without a seed phrase*](#wallet-recovery-without-a-seed-phrase) - Oleksander (Rarimo)      |
 | 15:00-15:30 | Workshop: [*Building privacy enhanced DApps*](#building-privacy-enhanced-dapps) - Midnight                         |
