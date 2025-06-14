@@ -17,24 +17,24 @@
 ## Table of Contents
 
 1. [🌀 Philosophy](#-philosophy)
-2. [📅 Key Timeline](#-key-timeline)
-3. [📋 Schedule](#-schedule)
-4. [📚 Workshops](#-workshops)
-5. [🛠️ Tracks](#%EF%B8%8F-tracks)
-6. [✨ Advice, Tips and Inspiration](#-advice-tips-and-inspiration)
-7. [👨‍🏫 Mentors](#-mentors--mentoring)
-8. [📝 How to Submit Your Project](#-how-to-submit-your-project)
-9. [⚖️ Judging Criteria](#%EF%B8%8F-judging-criteria)
-10. [🏆 Prizes & Awards](#-prizes--awards)
-11. [🏠 Venue & Logistics](#-venue--logistics)
-12. [🌈 Experiences](#-experiences)
+1. [📅 Key Timeline](#-key-timeline)
+1. [📋 Schedule](#-schedule)
+1. [🛠️ Tracks](#%EF%B8%8F-tracks)
+1. [✨ Advice, Tips and Inspiration](#-advice-tips-and-inspiration)
+1. [👨‍🏫 Mentors](#-mentors--mentoring)
+1. [📝 How to Submit Your Project](#-how-to-submit-your-project)
+1. [📊 Submissions & Judging Process](#-submissions--judging-process)
+1. [⚖️ Judging Criteria](#%EF%B8%8F-judging-criteria)
+1. [🏆 Prizes & Awards](#-prizes--awards)
+1. [🏠 Venue & Logistics](#-venue--logistics)
+1. [🌈 Experiences](#-experiences)
     - [Privacy Rituals](#privacy-rituals)
     - [Privacy Corner](#privacy-corner)
     - [Safe Space: Privacy, Power & Practical Resistance](#safe-space-privacy-power--practical-resistance)
-13. [⚡ Important Rules](#-important-rules)
-14. [🎉 After the Hackathon](#-after-the-hackathon)
-15. [🚀 Cypherpunk Launchpad](#-cypherpunk-lanunchpad-build-what-matters-keep-it-alive)
-16. [👥 Team](#-team)
+1. [⚡ Important Rules](#-important-rules)
+1. [🎉 After the Hackathon](#-after-the-hackathon)
+1. [🚀 Cypherpunk Launchpad](#-cypherpunk-lanunchpad-build-what-matters-keep-it-alive)
+1. [👥 Team](#-team)
 
 ---
 
@@ -300,6 +300,36 @@ Let’s build tools that truly matter—now.
 For detailed informations check the [submissions repository](https://github.com/web3privacy/hackathon-2025-berlin-submissions).
 
 ---
+
+## 📊 Submissions & Judging Process
+
+🚨 **16:00 Submission Deadline** - submit your projects via this Github repository: https://github.com/web3privacy/hackathon-2025-berlin-submissions
+
+No pitch, no prize.
+
+All Hackers - please remain around the venue, get a drink and relax, we will begin the judging process shortly after. We ask that all hackers exit the basement room and go upstairs whilst we arrange the room.
+
+🚨 16:30 - Pitches begins
+
+A table will be setup at the bottom of the ramp to the basement, when your team is ready to pitch come down to the desk. There will be a volunteer with a laptop who will register you all and it will be done by first-come first-serve basis, so be ready. You will need to provide a team name, tracks you are submitting to and emails of all members so that we can coordinate bounty dispersal. 
+
+Once it is your turn the whole team will go to the larger room to present to all the judges at once. Your team will have 7 minutes to present - 4 minutes for demo/slides and 3 minutes for judges to Q&A. 
+
+You will not need to connect your computer, there will be a projector with the Github repository of all the submissions open. If you need to point to demos or front-ends do include a link to that resource within your submission via Github.)
+
+After the 7 minutes we ask that you leave via the back exit of the basement, Judges will have 3 minutes to deliberate before the next pitch has to start. We are on a very tight schedule so no overtime, no mercy.
+
+🚨 18:00 - The last pitch begins
+After this time your submission will not be judged. Once you are done, please exit via the back of the basement. You are free to hang out and interact with the activites upstairs.
+
+🚨 Judges will use the following criteria: [⚖️ Judging Criteria](#%EF%B8%8F-judging-criteria)
+
+🚨 19:00 - Closing Ceremony & Prize Announcements
+ in the basement for all the join. 
+
+Winners will be invited to demo their projects and showcase their achievements during the prize announcements. 
+
+--
 
 ## ⚖️ Judging Criteria
 
