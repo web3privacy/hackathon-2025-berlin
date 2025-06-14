@@ -88,7 +88,6 @@ Work on meaningful open-source tools and create lasting, impactful change.
 |     Time      |                                                                               |
 | ------------- | ----------------------------------------------------------------------------- |
 | 09:00-10:00 | 🥐 Breakfast (limited availability)                                             |
-| 10:00-10:30 | Workshop: [*CoFHE 101: working with encrypted state on ethereum*](#cofhe-101-working-with-encrypted-state-on-ethereum) - Lauren (Fhenix) |
 | 10:30-11:00 | Workshop: [*Building privacy enhanced DApps*](#building-privacy-enhanced-dapps) - Midnight                         |
 | 11:00-11:30 | Workshop: [*Building your first peer-to-peer backend*](#building-your-first-peer-to-peer-backend) - Anton (Calimero)        |
 | 11:30-12:00 | Workshop: [*How to Decentralize Any Front-End*](#how-to-decentralize-any-front-end) - Aron Soos (Swarm)              |
@@ -96,6 +95,7 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 12:00-12:30 | Workshop: [*Onboarding the next billion users compliantly and privately*](#onboarding-the-next-billion-users-compliantly-and-privately) - idos |
 | 12:30-13:00 | Workshop: [*Building private-by-default apps without the pain*](#building-private-by-default-apps-without-the-pain) - Steph (Nillion) |
 | 13:00-13:30 | Workshop: [*Introduction to onchain encryption: FHE, TEE and ZK*](#introduction-to-onchain-encryption-fhe-tee-and-zk) - Kate        |
+| 13:30-14:00 | Workshop: [*CoFHE 101: working with encrypted state on ethereum*](#cofhe-101-working-with-encrypted-state-on-ethereum) - Lauren (Fhenix) |
 | 14:00-20:00 | Massages                                              |
 | 14:00-14:30 | Workshop: [*Piloting Cursor: Creators (not coders) will inherit the world of software*](#piloting-cursor-creators-not-coders-will-inherit-the-world-of-software) - Gavin Birch (Namada) |
 | 14:30-15:00 | Workshop: [*Wallet recovery without a seed phrase*](#wallet-recovery-without-a-seed-phrase) - Oleksander (Rarimo)      |
@@ -120,13 +120,13 @@ Work on meaningful open-source tools and create lasting, impactful change.
 *All workshops will be happening in the Workshop room.*
 
 ### Introduction to onchain encryption: FHE, TEE and ZK
-**Time:** Saturday 9:30 - 10:00  
+**Time:** Saturday 13:00 - 13:30  
 **Facilitator:** Kate
 
 In this talk I will walk through 3 popular forms of encryption used in Web3 and break down their pros and cons, as well as some real world use cases leveraging the technology today.
 
 ### CoFHE 101: working with encrypted state on ethereum
-**Time:** Saturday 10:00 - 10:30  
+**Time:** Saturday 13:30:00 - 14:00  
 **Facilitator:** Lauren (Fhenix)
 
 ### Building privacy enhanced DApps
