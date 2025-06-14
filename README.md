@@ -88,7 +88,7 @@ Work on meaningful open-source tools and create lasting, impactful change.
 |     Time      |                                                                               |
 | ------------- | ----------------------------------------------------------------------------- |
 | 09:00-10:00 | 🥐 Breakfast                                             |
-| 11:30-13:30 | 🍽️ Brunch 
+| 12:00-13:30 | 🍽️ Brunch 
 | 12:00-12:30 | Workshop: [*Onboarding the next billion users compliantly and privately*](#onboarding-the-next-billion-users-compliantly-and-privately) - idos |
 | 12:30-13:00 | Workshop: [*Building private-by-default apps without the pain*](#building-private-by-default-apps-without-the-pain) - Steph (Nillion) |
 | 13:00-13:30 | Workshop: [*Introduction to onchain encryption: FHE, TEE and ZK*](#introduction-to-onchain-encryption-fhe-tee-and-zk) - Kate        |
