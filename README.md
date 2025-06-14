@@ -19,20 +19,21 @@
 1. [🌀 Philosophy](#-philosophy)
 2. [📅 Key Timeline](#-key-timeline)
 3. [📋 Schedule](#-schedule)
-4. [🛠️ Hackathon Tracks](#%EF%B8%8F-hackathon-tracks)
-5. [✨ Advice, Tips and Inspiration](#-advice-tips-and-inspiration)
-6. [👨‍🏫 Mentors & Mentoring](#-mentors--mentoring)
-7. [📝 How to Submit Your Project](#-how-to-submit-your-project)
-8. [⚖️ Judging Criteria](#%EF%B8%8F-judging-criteria)
-9. [🏆 Prizes & Awards](#-prizes--awards)
-10. [🏠 Venue & Logistics](#-venue--logistics)
-11. [🌈 Experiences](#-experiences)
+4. [📚 Workshops](#-workshops)
+5. [🛠️ Tracks](#%EF%B8%8F-tracks)
+6. [✨ Advice, Tips and Inspiration](#-advice-tips-and-inspiration)
+7. [👨‍🏫 Mentors](#-mentors--mentoring)
+8. [📝 How to Submit Your Project](#-how-to-submit-your-project)
+9. [⚖️ Judging Criteria](#%EF%B8%8F-judging-criteria)
+10. [🏆 Prizes & Awards](#-prizes--awards)
+11. [🏠 Venue & Logistics](#-venue--logistics)
+12. [🌈 Experiences](#-experiences)
     - [Privacy Rituals](#privacy-rituals)
     - [Privacy Corner](#privacy-corner)
     - [Safe Space: Privacy, Power & Practical Resistance](#safe-space-privacy-power--practical-resistance)
 13. [⚡ Important Rules](#-important-rules)
 14. [🎉 After the Hackathon](#-after-the-hackathon)
-15. [🚀 Cypherpunk Launchpad](#-cypherpunk-launchpad)
+15. [🚀 Cypherpunk Launchpad](#-cypherpunk-lanunchpad-build-what-matters-keep-it-alive)
 16. [👥 Team](#-team)
 
 ---
@@ -80,31 +81,91 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 16:00         | Hackathon Registration & Team Formation                                     |
 | 16:00         | Privacy Rituals, games, activities - Getting to know each other beyond code |
 | 19:00         | Opening Ceremony                                                            |
-| 19:30         | **Hacking begins**                                                          |
-| 19:30         | Dinner                                                                      |
+| 19:30         | 🚀 **Hacking begins**                                                          |
+| 19:30         | 🍽️ Dinner                                                                      |
 
 ### Saturday, June 14
-|     Time      |                                                       |
-| ------------- | ----------------------------------------------------- |
-| 11:30 - 13:30 | Brunch                                                |
-| 11:30 - 18:30 | Workshops                                             |
-| 19:00         | Dinner/BBQ                                            |
-| ALL DAY       |                                                Hacking|
+|     Time      |                                                                               |
+| ------------- | ----------------------------------------------------------------------------- |
+| 09:00-10:00 | 🥐 Breakfast (limited availability)                                             |
+| 10:00-10:30 | Workshop: [*CoFHE 101: working with encrypted state on ethereum*](#cofhe-101-working-with-encrypted-state-on-ethereum) - Lauren (Fhenix) |
+| 10:30-11:00 | Workshop: [*Building privacy enhanced DApps*](#building-privacy-enhanced-dapps) - Midnight                         |
+| 11:00-11:30 | Workshop: [*Building your first peer-to-peer backend*](#building-your-first-peer-to-peer-backend) - Anton (Calimero)        |
+| 11:30-12:00 | Workshop: [*How to Decentralize Any Front-End*](#how-to-decentralize-any-front-end) - Aron Soos (Swarm)              |
+| 11:30-13:30 | 🍽️ Brunch 
+| 12:00-12:30 | Workshop: [*Onboarding the next billion users compliantly and privately*](#onboarding-the-next-billion-users-compliantly-and-privately) - idos |
+| 12:30-13:00 | Workshop: [*Building private-by-default apps without the pain*](#building-private-by-default-apps-without-the-pain) - Steph (Nillion) |
+| 13:00-13:30 | Workshop: [*Introduction to onchain encryption: FHE, TEE and ZK*](#introduction-to-onchain-encryption-fhe-tee-and-zk) - Kate        |
+| 14:00-14:30 | Workshop: [*Piloting Cursor: Creators (not coders) will inherit the world of software*](#piloting-cursor-creators-not-coders-will-inherit-the-world-of-software) - Gavin Birch (Namada) |
+| 14:30-15:00 | Workshop: [*Wallet recovery without a seed phrase*](#wallet-recovery-without-a-seed-phrase) - Oleksander (Rarimo)      |
+| 19:00         | 🍽️ Dinner/BBQ                                                                   |
 
 ### Sunday, June 15
 |    Time     |                                                        |
 | ----------- | ------------------------------------------------------ |
-| 09:00-10:00 | Breakfast                                              |
+| 09:00-10:00 | 🥐 Breakfast                                           |
 | 11:00-16:30 | Project Finalisation Workshops                         |
-| 13:30-14:45 | Lunch                                                  |
-| 16:00       | **Submission Deadline**                                |
-| 16:00       | Bites & Beers                                          |
-| 19:00       | Closing Ceremony - Announce winners                    |
+| 13:30-14:45 | 🍽️ Lunch                                               |
+| 16:00       | 🚨 **Submission Deadline** ([How to submit](#-how-to-submit-your-project)) |
+| 16:00       | 🥂 Bites & Beers                                       |
+| 19:00       | 🏆 Closing Ceremony - Announce winners                 |
 | 21:00       | Venue Closes                                           |
 
 ---
 
-## 🛠️ Hackathon Tracks
+## 📚 Workshops
+
+*All workshops will be happening in the Workshop room.*
+
+### Introduction to onchain encryption: FHE, TEE and ZK
+**Time:** Saturday 9:30 - 10:00  
+**Facilitator:** Kate
+
+In this talk I will walk through 3 popular forms of encryption used in Web3 and break down their pros and cons, as well as some real world use cases leveraging the technology today.
+
+### CoFHE 101: working with encrypted state on ethereum
+**Time:** Saturday 10:00 - 10:30  
+**Facilitator:** Lauren (Fhenix)
+
+### Building privacy enhanced DApps
+**Time:** Saturday 10:30 - 11:00  
+**Facilitator:** Midnight
+
+### Building your first peer-to-peer backend
+**Time:** Saturday 11:00 - 11:30  
+**Facilitator:** Anton (Calimero)
+
+### How to Decentralize Any Front-End
+**Time:** Saturday 11:30 - 12:00  
+**Facilitator:** Aron Soos (Swarm)
+
+This workshop is about decentralized storage, one of the key components to realize the World Computer. We'll use the time to run a storage node (Swarm), upload a website to the decentralized network, and set up ENS to make the site accessible also on web2 via eth.limo.
+
+As we go through this demonstration, we'll also discuss challenges and solutions in decentralized storage, such as data availability, DDoS and censorship resistance, erasure coding, incentive systems, mutable vs. immutable data, and more.
+
+For the practical segments, the session will use a terminal in a UNIX-like environment. It is encouraged to follow along, the only pre-requisite is a recent Node.js version installed on your machine.
+
+### Onboarding the next billion users compliantly and privately
+**Time:** Saturday 12:00 - 12:30  
+**Facilitator:** Ben (idos) - remote
+
+### Building private-by-default apps without the pain
+**Time:** Saturday 09:30 - 10:00  
+**Facilitator:** Steph (Nillion)
+
+Most devs want to protect user data—but the tooling gets in the way. This talk explores how nilDB makes it easier to build apps with encrypted, access-controlled storage.
+
+### Piloting Cursor: Creators (not coders) will inherit the world of software
+**Time:** Saturday 14:00 - 14:30  
+**Facilitator:** Gavin Birch (Namada)
+
+### Wallet recovery without a seed phrase
+**Time:** Saturday 14:30 - 15:00  
+**Facilitator:** Oleksander (Rarimo)
+
+---
+
+## 🛠️ Tracks
 
 1. Advanced Cryptography
 2. Censorship Resistance
@@ -223,7 +284,7 @@ Explore our [Privacy Builder Pack](https://build.web3privacy.info/) to find:
 
 ## 👨‍🏫 Mentors & Mentoring
 
-To help you build meaningful, user-centered solutions with real impact, we’ve brought in trusted, independent mentors—each with deep, hands-on expertise across diverse fields. 
+To help you build meaningful solutions with real impact, we’ve brought independent mentors—each with deep, hands-on expertise across diverse fields. 
 
 At W3PN HACKS we embrace a holistic approach, offering support from technical execution and idea validation to socio-cultural insight. 
 
@@ -231,42 +292,43 @@ Let’s build tools that truly matter—now.
 
 ### List of mentors
 
-| Name | Org | Focus |
-| --- | --- | --- |
-| [Alan](https://x.com/tsu_kareta) | Railgun | Finance, Idea Validation |
-| [Vitalik](https://x.com/VitalikButerin) | Ethereum Foundation | Idea Validation |
-| [Ying Tong](https://x.com/therealyingtong) | - | applied cryptography |
-| [Zimt](https://x.com/syntonyy) | Blockchain Gov | Legal |
-| [Nick](https://x.com/DrNickA) | Governance, AI | privacy 360° |
-| [Anton](https://x.com/antonpaisov) | Calimero | DevRel |
-| [Antonio](https://x.com/0xmetony) | Fluidkey | coder & solidity dev |
-| [Auryn](https://x.com/auryn_macmillan) | Gnosis Guild — Enclave | Architecture & Idea Validation |
-| [Bertran](https://x.com/bjuglas) | Celo | Full Stack |
-| [Bianca](https://x.com/buzea200) | Chronicle | DevRel |
-| [Cat](https://x.com/CatMcGeeCode) | Aztec | DevRel |
-| [Christopher](https://x.com/cwgoes) | Anoma | Cryptography, Zk, Idea Validation |
-| [David](https://x.com/david1casey) | Funding The Commons | Public Goods, Idea Validation |
-| [Eleftherios](https://x.com/lftherios/) | Radicle | Open-source, Idea Validation | 
-| [Giacomo](https://x.com/0xjei) | Gnosis Guild — Enclave | applied cryptography, ZK |
-| [Jacob](https://x.com/_czepluch) | Phylax Systems | DevRel engineer |
-| [jimjim.eth](https://x.com/jimjim_eth) | - | cryptography |
-| [Kieran](https://x.com/mesquka) | Railgun | cryptography, Idea Validation |
-| [Leftheris](https://x.com/LefterisJP) | Rotki | DeFi, Cryptography, Idea Validation |
-| [Marina](https://x.com/MarinaMarkezic) | European Crypto Initiative | Legal, Idea Validation |
-| [Max](https://x.com/_wjth) | NYM | DevRel |
-| Alex | Session | Cryptography |
-| [Pentacle](https://x.com/pentcle) | - | UX/UI |
-| [Milos](https://x.com/MorphNetrunner) | Ethereum Foundation | software engineer |
-| [Miroyato](https://x.com/miroyato) | Fileverse | Privacy, AI, Idea Validation |
-| [Oskarth](https://x.com/oskarth) | vacp2p | privacy 360°, Idea Validation|
-| [Owen](https://x.com/temporalwave) | Poly | fullstack, AI |
-| [Reno](https://x.com/0xrenoyang) | Ethereum Community Fund | Public goods |
-| [Sebastian](https://x.com/SCBuergel) | Hopr, GnosisDAO | Cryptography, Privacy 360°, Idea Validation |
-| [TranquilFlow](https://x.com/FlowTranquil) | Byzantine | Dev Code |
-| Reno | Ethereum Community Fund | Dev Code |
-| Lauren | Fhenix | Dev Rel, Cryptography |
+| Name | Org | Focus | Availability |
+| --- | --- | --- | --- |
+| [Alan](https://x.com/tsu_kareta) | Railgun | Finance, Idea Validation | No availability listed |
+| Alex | Session | Cryptography | Fri 19-23, Sat 10-22, Sat 22-02, Sun 02-06 |
+| [Anton](https://x.com/antonpaisov) | Calimero | DevRel | Fri 19-23, Sat 10-18, Sun 10-16 |
+| [Antonio](https://x.com/0xmetony) | Fluidkey | coder & solidity dev | Fri 19-23, Sat 10-22, Sat 22-02, Sun 10-16 |
+| [
+](https://x.com/auryn_macmillan) | Gnosis Guild — Enclave | Architecture & Idea Validation | No availability listed |
+| [Bertran](https://x.com/bjuglas) | Celo | Full Stack | Fri 02-06, Sat 02-06 |
+| [Bianca](https://x.com/buzea200) | Chronicle | DevRel | Fri 19-23, Sat 14-18 |
+| [Christopher](https://x.com/cwgoes) | Anoma | Cryptography, Zk, Idea Validation | No availability listed |
+| [David](https://x.com/david1casey) | Funding The Commons | Public Goods, Idea Validation | Fri 19-23, Sat 10-14, Sun 13-16 |
+| [Eleftherios](https://x.com/lftherios/) | Radicle | Open-source, Idea Validation | Sat 10-14, Sun 10-13 |
+| [Evi](https://x.com/FlowTranquil) | Byzantine | Dev Code | all time |
+| [Giacomo](https://x.com/0xjei) | EnclaveE3 | applied cryptography, ZK | Sat 10-22, Sun 10-16 |
+| [Jacob](https://x.com/_czepluch) | Phylax Systems | DevRel engineer | Sat 14-02, Sun 10-16 |
+| [James](https://www.linkedin.com/in/jamespfarrell?originalSubdomain=de)) | Funding The Commons | Product, idea validation, Full stack | freerider |
+| [jimjim.eth](https://x.com/jimjim_eth) | - | cryptography | Fri 19-02, Sat 14-06, Sun 10-13 |
+| [Kieran](https://x.com/mesquka) | Railgun | cryptography, Idea Validation | Fri 19-23, Fri 23-02, Sat 10-14, Sat 14-18, Sat 18-22, Sat 22-02, Sun 10-16 |
+| Lauren | Fhenix | Dev Rel, Cryptography | Fri 19-02, Sat 10-22, Sun 10-13 |
+| [Leftheris](https://x.com/LefterisJP) | Rotki | DeFi, Cryptography, Idea Validation | No availability listed |
+| [Marina](https://x.com/MarinaMarkezic) | European Crypto Initiative | Legal, Idea Validation | No availability listed |
+| [Max](https://x.com/_wjth) | NYM | DevRel | Sat 10-22, Sun 10-16 |
+| [Milos](https://x.com/MorphNetrunner) | Ethereum Foundation | software engineer | Sat 14-18, Sat 18-06, Sun 10-16 |
+| [Miroyato](https://x.com/miroyato) | Fileverse | Privacy, AI, Idea Validation | No availability listed |
+| [Nick](https://x.com/DrNickA) | Governance, AI | privacy 360° | No availability listed |
+| [Oskarth](https://x.com/oskarth) | vacp2p | privacy 360°, Idea Validation | Fri 19-23, Sun 10-16 |
+| [Owen](https://x.com/temporalwave) | Poly | fullstack, AI | No availability listed |
+| [Pentacle](https://x.com/pentcle) | - | UX/UI | Fri 19-23, Sat 10-18, Sun 10-13 |
+| Reno | Ethereum Community Fund | Dev Code | No availability listed |
+| [Reno](https://x.com/0xrenoyang) | Ethereum Community Fund | Public goods | No availability listed |
+| [Sebastian](https://x.com/SCBuergel) | Hopr, GnosisDAO | Cryptography, Privacy 360°, Idea Validation | Fri 19-23, Sat 10-18, Sun 10-16 |
+| [Vitalik](https://x.com/VitalikButerin) | Ethereum Foundation | Idea Validation | No availability listed |
+| [Ying Tong](https://x.com/therealyingtong) | - | applied cryptography | Sat 10-18, Sun 10-16 |
+| [Zimt](https://x.com/syntonyy) | Blockchain Gov | Legal | Fri 19-23, Sat 14-22, Sat 22-02, Sun 10-16 |
 
-
+*Note: "(50%)" indicates partial availability during that time slot.*
 
 ---
 
@@ -281,7 +343,7 @@ Let’s build tools that truly matter—now.
 1. Visit the submissions repository for complete requirements
 2. Fork the repo and create folder: `/projects/your-project-name/`
 3. Fill the submission template (found in repo)
-4. Submit via Pull Request before **Sunday, June 15 - 16:30**
+4. Submit via Pull Request before **Sunday, June 15 - 16:00**
 
 *No GitHub account? W3PN team can help upload your submission.*
 
@@ -348,6 +410,14 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 * **Venue Name**: [Engelnest Coworking](https://engelnest.de/)
 * **Address**: Wilhelm-Kabus-Straße 24, 10829 Berlin ([OpenStreetMap](https://nominatim.openstreetmap.org/ui/search.html?q=Wilhelm-Kabus-Stra%C3%9Fe+24%2C+10829+Berlin%2C+N%C4%9Bmecko), [GMaps](https://maps.app.goo.gl/CsykANPpLiWrNFUbA))
 
+### WiFi
+
+We have 2 different wifi hotspots within the venue:
+| Where | SSID | Password |
+| --- | --- | --- |
+| Basement (hacker space) | **Web3Privacy** | `Cypherpunk1337!` |
+| Rest of the venue | **EngelnestGuest** | `engelnest2019!` |
+
 ### Amenities
  - 24/7 venue access during hackathon
  - 100-150 Mbps internet connection
@@ -366,6 +436,13 @@ This track is a wildcard 20 points judges can attribute as they see fit, not a j
 *We do not provide alcohol (beer, wine) during the hackathon, but participants can bring their own if they choose to. Aperitivo will be available after submission deadline.*
 
 \**For special dietary requirements beyond vegetarian/vegan (allergies, etc.), please contact organizers.*
+
+If you'd like to eat outside the venue, we recommend exploring [Kaan's Foodie Guide](https://kaanuzdogan.com/blog/2025/bbw-2025-foodie-guide).
+
+### Venue map
+![image-2025-06-12-142242](https://github.com/user-attachments/assets/cd722542-79cc-4a5a-952f-de75bd7c264d)
+
+![image-2025-06-12-142209](https://github.com/user-attachments/assets/c92fe378-8521-4d99-ab64-407ed9889c5b)
 
 ### Venue Access / Transport
 
@@ -475,15 +552,15 @@ For more information about hacking rules, see [Submission Rules](https://github.
 ## 🎉 After the Hackathon
 
  - Do not leave personal items behind even if you are coming back
- - Rave will begin at (TBA: Time, entry, +1s, FAQ)
+ - **CypheRave will begin at 21.30** - more info [here](https://lu.ma/h3ithkl3)
 
 **YOU**
- - Join the W3PN Dev Channel (invite-only)
+ - Join the **W3PN Dev Channel** (invite-only)
 
 **US**
- - Promote the projects and share work done
+ - **Cypherpunk Launchpad Program **(Invite-only call with hackers & mentors for a month of trainership and final funding)
+ - Promote the projects and share the good work done
  - Medium article about projects submitted and judging
- - Cypherpunk Launchpad Program (Invite-only call with hackers & mentors for a month of trainership and final funding)
 
 ---
 
@@ -523,4 +600,4 @@ From this perspective we decided to create a hackathon adjusted to the great and
 The specific areas of responsibility can be found in the [Organization Manual](./organization.md#team-responsibility-matrix).
 
 ### With gratitude to all who contributed to the creation of this manual <3
-drone, frank, yingtong, jacob, sebastien, mf, cat, lauren, pentacle, adrew, dave, cat, tree, qj, migle, alina, lucila, lisa, vaclav.
+drone, frank, yingtong, jacob, sebastien, mf, cat, lauren, pentacle, adrew, dave, cat, tree, coinmandeer, qj, migle, alina, lucila, lisa, vaclav.
