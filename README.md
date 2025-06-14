@@ -309,9 +309,7 @@ For detailed informations check the [submissions repository](https://github.com/
 
 Our judges will prioritise technical solutions and reward hackers not just about a working Proof of Concept application or good business logic in their pitch. Judges will assess the impact of what the team or person has done during the course of the hackathon.
 
-Here are the 5 criteria, each with a maximum of 20 points, and below them are suggested questions for the judges to consider. 
-
-Judges are allowed to liberally assign points from 0-20 within each criteria as they see fit. They are not obliged to answer the questions listed below
+Here are the 5 criteria and below them are suggested questions for the judges to consider. Judges are allowed to liberally assign points from 0-20 within each criteria as they see fit. They are not obliged to answer any of the questions listed below in their appraisal of a submission.
 
 ### 1. Technology (20 points)
  - Was the technology stack used in the submission modern or exciting?
