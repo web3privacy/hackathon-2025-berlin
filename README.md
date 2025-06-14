@@ -87,7 +87,7 @@ Work on meaningful open-source tools and create lasting, impactful change.
 ### Saturday, June 14
 |     Time      |                                                                               |
 | ------------- | ----------------------------------------------------------------------------- |
-| 09:00-10:00 | 🥐 Breakfast                                                                    |
+| 09:00-10:00 | 🥐 Breakfast (limited availability)                                             |
 | 10:00-10:30 | Workshop: [*CoFHE 101: working with encrypted state on ethereum*](#cofhe-101-working-with-encrypted-state-on-ethereum) - Lauren (Fhenix) |
 | 10:30-11:00 | Workshop: [*Building privacy enhanced DApps*](#building-privacy-enhanced-dapps) - Midnight                         |
 | 11:00-11:30 | Workshop: [*Building your first peer-to-peer backend*](#building-your-first-peer-to-peer-backend) - Anton (Calimero)        |
