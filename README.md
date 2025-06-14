@@ -331,6 +331,39 @@ Winners will be invited to demo their projects and showcase their achievements d
 
 ---
 
+## 👨‍⚖️ Judges
+
+| Name | Organization |
+| --- | --- |
+| [Alan](https://x.com/tsu_kareta) | Railgun |
+| [Anton](https://x.com/antonpaisov) | Calimero |
+| [Antonio](https://x.com/0xmetony) | Fluidkey |
+| [Auryn](https://x.com/auryn_macmillan) | Gnosis Guild — Enclave |
+| [Bertran](https://x.com/bjuglas) | Celo |
+| [Bianca](https://x.com/buzea200) | Chronicle |
+| [Christopher](https://x.com/cwgoes) | Anoma |
+| [David](https://x.com/david1casey) | Funding The Commons |
+| [Eleftherios](https://x.com/lftherios/) | Radicle |
+| [Evi](https://x.com/FlowTranquil) | Byzantine |
+| [Giacomo](https://x.com/0xjei) | EnclaveE3 |
+| [Jacob](https://x.com/_czepluch) | Phylax Systems |
+| [James](https://www.linkedin.com/in/jamespfarrell) | Funding The Commons |
+| [JimJim](https://x.com/jimjim_eth) | - |
+| Juan | - |
+| Kate | - |
+| [Kieran](https://x.com/mesquka) | Railgun |
+| [Lefteris](https://x.com/LefterisJP) | Rotki |
+| [Max](https://x.com/_wjth) | NYM |
+| [Milos](https://x.com/MorphNetrunner) | Ethereum Foundation |
+| [Miroyato](https://x.com/miroyato) | Fileverse |
+| [Nick](https://x.com/DrNickA) | - |
+| [Oskarth](https://x.com/oskarth) | vacp2p |
+| [Pentacle](https://x.com/pentcle) | - |
+| [Sebastian](https://x.com/SCBuergel) | Hopr, GnosisDAO |
+| [Zimt](https://x.com/syntonyy) | Blockchain Gov |
+
+---
+
 ## ⚖️ Judging Criteria
 
 **Prerequisites**: All projects must first comply with the [Submission Rules](https://github.com/web3privacy/hackathon-2025-berlin-submissions/blob/main/README.md#-submission-rules) before being evaluated on the criteria below.
