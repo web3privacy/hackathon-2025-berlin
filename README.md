@@ -84,6 +84,16 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 19:30         | 🚀 **Hacking begins**                                                          |
 | 19:30         | 🍽️ Dinner                                                                      |
 
+<<<<<<< patch-2
+### Saturday, June 14 
+|     Time      |                                                       |
+| ------------- | ----------------------------------------------------- |
+| 11:30 - 13:30 | Brunch                                                |
+| 11:30 - 18:30 | Workshops                                             |
+| 14:00 - 20:00 | Massages                                              |
+| 19:00         | Dinner/BBQ                                            |
+| ALL DAY       |                                                Hacking|
+=======
 ### Saturday, June 14
 |     Time      |                                                                               |
 | ------------- | ----------------------------------------------------------------------------- |
@@ -99,16 +109,25 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 14:00-14:30 | Workshop: [*Piloting Cursor: Creators (not coders) will inherit the world of software*](#piloting-cursor-creators-not-coders-will-inherit-the-world-of-software) - Gavin Birch (Namada) |
 | 14:30-15:00 | Workshop: [*Wallet recovery without a seed phrase*](#wallet-recovery-without-a-seed-phrase) - Oleksander (Rarimo)      |
 | 19:00         | 🍽️ Dinner/BBQ                                                                   |
+>>>>>>> main
 
 ### Sunday, June 15
 |    Time     |                                                        |
 | ----------- | ------------------------------------------------------ |
 | 09:00-10:00 | 🥐 Breakfast                                           |
 | 11:00-16:30 | Project Finalisation Workshops                         |
+<<<<<<< patch-2
+| 12:00 - 18:00 | Massages                                             |
+| 13:30-14:45 | Lunch                                                  |
+| 16:00       | **Submission Deadline**                                |
+| 16:00       | Bites & Beers                                          |
+| 19:00       | Closing Ceremony - Announce winners                    |
+=======
 | 13:30-14:45 | 🍽️ Lunch                                               |
 | 16:00       | 🚨 **Submission Deadline** ([How to submit](#-how-to-submit-your-project)) |
 | 16:00       | 🥂 Bites & Beers                                       |
 | 19:00       | 🏆 Closing Ceremony - Announce winners                 |
+>>>>>>> main
 | 21:00       | Venue Closes                                           |
 
 ---
