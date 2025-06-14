@@ -96,6 +96,7 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 14:00-14:30 | Workshop: [*Piloting Cursor: Creators (not coders) will inherit the world of software*](#piloting-cursor-creators-not-coders-will-inherit-the-world-of-software) - Gavin Birch (Namada) |
 | 14:30-15:00 | Workshop: [*Wallet recovery without a seed phrase*](#wallet-recovery-without-a-seed-phrase) - Oleksander (Rarimo)      |
 | 15:00-15:30 | Workshop: [*Building privacy enhanced DApps*](#building-privacy-enhanced-dapps) - Midnight                         |
+| 15:30-16:00 | Workshop: [*Oblivious Pseudorandom Function for Trustless Key Derivation & Identity Proofs*](#oprf) - Nanak Nihal & AJ (Human Tech / Holonym)        
 | 16:00-16:30 | Workshop: [*Building your first peer-to-peer backend*](#building-your-first-peer-to-peer-backend) - Anton (Calimero)        |
 | 16:30-17:00 | Workshop: [*How to Decentralize Any Front-End*](#how-to-decentralize-any-front-end) - Aron Soos (Swarm)              |
 | 17:00-17:30 | Workshop: [*Onboarding the next billion users compliantly and privately*](#onboarding-the-next-billion-users-compliantly-and-privately) - idos |
