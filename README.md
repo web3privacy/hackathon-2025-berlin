@@ -307,7 +307,11 @@ For detailed informations check the [submissions repository](https://github.com/
 
 **Total: 100 points (20 points each criteria)**
 
-> "Our judges will prioritise technical solutions and reward hackers not just about a working Proof of Concept application or good business logic in their pitch. Judges will assess the impact of what the team or person has done during the course of the hackathon."
+Our judges will prioritise technical solutions and reward hackers not just about a working Proof of Concept application or good business logic in their pitch. Judges will assess the impact of what the team or person has done during the course of the hackathon.
+
+Here are the 5 criteria, each with a maximum of 20 points, and below them are suggested questions for the judges to consider. 
+
+Judges are allowed to liberally assign points from 0-20 within each criteria as they see fit. They are not obliged to answer the questions listed below
 
 ### 1. Technology (20 points)
  - Was the technology stack used in the submission modern or exciting?
@@ -315,9 +319,6 @@ For detailed informations check the [submissions repository](https://github.com/
  - Could you see developers within the ecosystems of the technologies used being excited by the submission?
  - Would you run this code?
  - Would you integrate this code into one of your projects?
- - Would you be interested in forking and improving this code (intention)
- - Does it compile? Have you managed to test-run it?
- - Are there real technological or physical constraints of the submission ("it would boil all the world's oceans")
 
 ### 2. Real-Use Cases (20 points)
  - Could you see yourself running this code if fully developed after the hackathon?
@@ -340,7 +341,7 @@ For detailed informations check the [submissions repository](https://github.com/
  - Did the person consider or present ideas about financial sustainability?
  - Would you think this submission could make it to the market and be used by users in an AppStore ecosystem?
  
-### 5. Vibe (20 points)
+### 5. Wiggle-room (20 points)
 This track is a wildcard 20 points judges can attribute as they see fit, not a judgement on the drip or flex of the person submitting, and definately not a vibe-check. Keeping it fun and giving the judge a 'open vote' where they can give anywhere from 0 or 20 points.
 
 ---
