@@ -329,7 +329,7 @@ After this time your submission will not be judged. Once you are done, please ex
 
 Winners will be invited to demo their projects and showcase their achievements during the prize announcements. 
 
---
+---
 
 ## ⚖️ Judging Criteria
 
