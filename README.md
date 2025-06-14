@@ -89,7 +89,6 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | ------------- | ----------------------------------------------------------------------------- |
 | 09:00-10:00 | 🥐 Breakfast                                             |
 | 12:00-13:30 | 🍽️ Brunch 
-| 12:00-12:30 | Workshop: [*Onboarding the next billion users compliantly and privately*](#onboarding-the-next-billion-users-compliantly-and-privately) - idos |
 | 12:30-13:00 | Workshop: [*Building private-by-default apps without the pain*](#building-private-by-default-apps-without-the-pain) - Steph (Nillion) |
 | 13:00-13:30 | Workshop: [*Introduction to onchain encryption: FHE, TEE and ZK*](#introduction-to-onchain-encryption-fhe-tee-and-zk) - Kate        |
 | 13:30-14:00 | Workshop: [*CoFHE 101: working with encrypted state on ethereum*](#cofhe-101-working-with-encrypted-state-on-ethereum) - Lauren (Fhenix) |
@@ -99,6 +98,7 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 15:00-15:30 | Workshop: [*Building privacy enhanced DApps*](#building-privacy-enhanced-dapps) - Midnight                         |
 | 16:00-16:30 | Workshop: [*Building your first peer-to-peer backend*](#building-your-first-peer-to-peer-backend) - Anton (Calimero)        |
 | 16:30-17:00 | Workshop: [*How to Decentralize Any Front-End*](#how-to-decentralize-any-front-end) - Aron Soos (Swarm)              |
+| 17:00-17:30 | Workshop: [*Onboarding the next billion users compliantly and privately*](#onboarding-the-next-billion-users-compliantly-and-privately) - idos |
 | 19:00         | 🍽️ Dinner/BBQ                                                                   |
 
 ### Sunday, June 15
