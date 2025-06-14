@@ -24,6 +24,7 @@
 1. [👨‍🏫 Mentors](#-mentors--mentoring)
 1. [📝 How to Submit Your Project](#-how-to-submit-your-project)
 1. [📊 Submissions & Judging Process](#-submissions--judging-process)
+1. [👨‍⚖️ Judges](#%EF%B8%8F-judges)
 1. [⚖️ Judging Criteria](#%EF%B8%8F-judging-criteria)
 1. [🏆 Prizes & Awards](#-prizes--awards)
 1. [🏠 Venue & Logistics](#-venue--logistics)
