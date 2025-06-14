@@ -298,8 +298,7 @@ Let’s build tools that truly matter—now.
 | Alex | Session | Cryptography | Fri 19-23, Sat 10-22, Sat 22-02, Sun 02-06 |
 | [Anton](https://x.com/antonpaisov) | Calimero | DevRel | Fri 19-23, Sat 10-18, Sun 10-16 |
 | [Antonio](https://x.com/0xmetony) | Fluidkey | coder & solidity dev | Fri 19-23, Sat 10-22, Sat 22-02, Sun 10-16 |
-| [
-](https://x.com/auryn_macmillan) | Gnosis Guild — Enclave | Architecture & Idea Validation | No availability listed |
+| [Auryn](https://x.com/auryn_macmillan) | Gnosis Guild — Enclave | Architecture & Idea Validation | No availability listed |
 | [Bertran](https://x.com/bjuglas) | Celo | Full Stack | Fri 02-06, Sat 02-06 |
 | [Bianca](https://x.com/buzea200) | Chronicle | DevRel | Fri 19-23, Sat 14-18 |
 | [Christopher](https://x.com/cwgoes) | Anoma | Cryptography, Zk, Idea Validation | No availability listed |
