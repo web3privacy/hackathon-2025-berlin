@@ -555,7 +555,7 @@ Read more in our [Code of Conduct](./code-of-conduct.md).
 - Only original work created during hackathon (June 13-15)
 - No limits for team size, collaboration over competition
 - Open source encouraged
-- Choose exactly one track for submission
+- Choose one or two track(s) for submission
 - All teams must present their projects
  
 For more information about hacking rules, see [Submission Rules](https://github.com/web3privacy/hackathon-2025-berlin-submissions/blob/main/README.md#-submission-rules) in the Submission repository.
