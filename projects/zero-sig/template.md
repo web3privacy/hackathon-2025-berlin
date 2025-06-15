@@ -2,7 +2,7 @@
 
 - **Track(s):** [Advanced Crypthography, Applied Encryption]
 - **Team/Contributors:** [Frank & Drone]
-- **Repository:** [https://github.com/builders-garden/zero-sign-frontend, https://github.com/builders-garden/ZeroSig-smart-contracts, https://github.com/builders-garden/zero-sign-circuits]
+- **Repository:** [[frontend](https://github.com/builders-garden/zero-sign-frontend), [contracts](https://github.com/builders-garden/ZeroSig-smart-contracts), [circuits](https://github.com/builders-garden/zero-sign-circuits)]
 - **Demo:** [[video](https://www.youtube.com/watch?v=D2W7NF2qqqQ&feature=youtu.be)]
 
 ## Description (TL;DR)
@@ -30,6 +30,8 @@
 More over zero-sig could prevent adversaries from mapping onchain activity to specific individuals or organizations, reducing surveillance and correlation attacks across wallets or DAOs.
 
 It more importantly enable anonymous signing for high-impact or politically sensitive transactions (e.g., donations, whistleblower support, activist funding) without compromising operational security.
+
+Think about donations toward good causes that might be politically sound to do publicy
 ]
 
 ## Real-World Use Cases
