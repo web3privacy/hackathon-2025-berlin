@@ -111,6 +111,7 @@ Work on meaningful open-source tools and create lasting, impactful change.
 | 12:00-18:00 | Massages                                             |
 | 13:30-14:45 | 🍽️ Lunch                                               |
 | 16:00       | 🚨 **Submission Deadline** ([How to submit](#-how-to-submit-your-project)) |
+| 16:30       | Pitches begins                                         |
 | 16:00       | 🥂 Bites & Beers                                       |
 | 19:00       | 🏆 Closing Ceremony - Announce winners                 |
 | 21:00       | Venue Closes                                           |
